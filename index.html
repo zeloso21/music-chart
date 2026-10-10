@@ -87,7 +87,7 @@
 
 <main>
   <section id="stage">
-    <div class="video"><div id="player" class="placeholder">곡을 누르면 여기서 재생돼요</div></div>
+    <div class="video"><div id="player" class="placeholder">불러오는 중…</div></div>
     <div class="now">
       <button id="prev" type="button" aria-label="이전 곡" disabled>⏮</button>
       <div class="now-text">
@@ -114,6 +114,7 @@
   let player = null;
   let playerReady = false;
   let pendingId = null;
+  let wantPlay = false;    // 플레이어 준비 전에 재생 요청이 왔는지
 
   const fmt = (sec) => {
     if (!sec) return "";
@@ -131,7 +132,8 @@
       b.setAttribute("role", "tab");
       b.textContent = c.title;
       b.setAttribute("aria-selected", c === chart);
-      b.onclick = () => { chart = c; renderTabs(); renderList(); };
+      // 탭을 누르면 그 탭 1위부터 바로 재생해요.
+      b.onclick = () => { chart = c; queue = c.items; renderTabs(); renderList(); play(0); };
       tabs.append(b);
     }
   }
@@ -181,7 +183,8 @@
     for (const li of $("list").children) li.classList.toggle("playing", !!id && li.dataset.videoId === id);
   }
 
-  function play(i) {
+  // autoplay가 false면 플레이어에 올려두기만 해요(처음 열 때).
+  function play(i, autoplay = true) {
     if (i < 0 || i >= queue.length) return;
     index = i;
     const it = queue[i];
@@ -190,11 +193,12 @@
     $("prev").disabled = i === 0;
     $("next").disabled = i === queue.length - 1;
     markPlaying();
-    if (playerReady) player.loadVideoById(it.videoId);
-    else { pendingId = it.videoId; createPlayer(); }
+    if (playerReady) autoplay ? player.loadVideoById(it.videoId) : player.cueVideoById(it.videoId);
+    else { pendingId = it.videoId; wantPlay = wantPlay || autoplay; createPlayer(); }
   }
 
-  // YouTube IFrame Player API는 첫 재생 때 불러와요.
+  // YouTube IFrame Player API는 페이지를 열 때 미리 불러와요.
+  // 휴대폰은 누른 순간에 재생을 시작해야 소리 나는 자동재생을 허용하기 때문이에요.
   function createPlayer() {
     if (window.YT && YT.Player) return makePlayer();
     if (document.getElementById("yt-api")) return;
@@ -209,13 +213,14 @@
     if (player) return;
     player = new YT.Player("player", {
       videoId: pendingId,
-      playerVars: { autoplay: 1, playsinline: 1, rel: 0 },
+      playerVars: { playsinline: 1, rel: 0 },
       events: {
         onReady: (e) => {
           playerReady = true;
           const id = queue[index]?.videoId;
-          if (id && id !== pendingId) e.target.loadVideoById(id);
-          else e.target.playVideo();
+          if (!id) return;
+          if (wantPlay) e.target.loadVideoById(id);
+          else if (id !== pendingId) e.target.cueVideoById(id);
         },
         onStateChange: (e) => { if (e.data === YT.PlayerState.ENDED) play(index + 1); },
         // 재생이 막힌 영상(삭제·지역 제한 등)은 건너뛰어요.
@@ -237,8 +242,10 @@
         $("updated").textContent = isNaN(d) ? "" :
           d.toLocaleString("ko-KR", { month: "long", day: "numeric", hour: "2-digit", minute: "2-digit" }) + " 기준";
       }
+      queue = chart?.items || [];
       renderTabs();
       renderList();
+      if (queue.length) play(0, false);
     })
     .catch(() => {
       $("list").innerHTML = '<li class="msg">차트 데이터를 아직 못 받았어요. 잠시 뒤 다시 와 주세요.</li>';
