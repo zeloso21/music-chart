@@ -9,7 +9,7 @@
 - 배포 주소: https://zeloso21.github.io/music-chart/ (저장소 root의 `index.html`)
 - 구성: `fetch_data.py`(차트 수집) → `.github/workflows/update.yml`(매일 06:07 KST, 수동 실행, `main`에 스크립트 바뀌면 실행) → `data.json` → `index.html`(목록 + IFrame 플레이어).
 - `data.json` 형식: `{updated, charts: [{id, title, note, items: [{rank, videoId, title, artist, thumbnail, duration(초), genres}]}]}`. 탭은 `charts` 항목마다 하나씩 생기고, `note`는 탭 아래 순위 설명이에요.
-- 탭: 한국·일본·미국·영국. 나라마다 `mostPopular` 음악 차트를 YouTube 순서 그대로 써요. 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 하루 4 unit.
+- 탭: 한국·일본·미국·영국. 나라마다 `mostPopular` 음악 차트를 YouTube 순서 그대로 써요. 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 하루 4 unit. 나라별 30곡 유지로 정했어요(더 늘리려면 Apple Music 차트 등 다른 출처가 필요한데, 사용자가 지금처럼 유지하기로 함).
 - 장르: `videos.list`의 `topicDetails.topicCategories`(위키백과 주소)를 `fetch_data.py`의 `GENRES`로 한국어 장르 이름에 대응시켜 곡마다 `genres`로 저장해요(추가 unit 없음). 화면에서는 나라 탭 아래 목록 상자로 '장르 전체'/장르별을 고르고, 순위 번호는 원래 나라 순위 그대로예요.
 - 여러 나라 점수를 합산한 '전세계'·'종합' 탭은 써 봤다가 사용자 요청으로 뺐어요. 나라별 탭만 둬요.
 
@@ -29,7 +29,7 @@
 
 | 출처 | 내용 | 비고 |
 |---|---|---|
-| YouTube 인기 음악 차트 | `videos.list?chart=mostPopular&regionCode=KR&videoCategoryId=10` | **2026-10-10 실측: 30곡, 30곡 모두 embeddable.** 상당수가 자동생성 음원 채널(`가수 - Topic`)이라 채널명 끝의 ` - Topic`을 떼면 가수명이 돼요. 1 unit |
+| YouTube 인기 음악 차트 | `videos.list?chart=mostPopular&regionCode=KR&videoCategoryId=10` | **2026-10-10 실측: 차트 길이는 나라마다 30곡이 끝이에요**(KR·JP·US·GB 모두 `pageInfo.totalResults`=30, `nextPageToken` 없음. `maxResults=50`으로 요청해도 30곡). KR은 30곡 모두 embeddable. 상당수가 자동생성 음원 채널(`가수 - Topic`)이라 채널명 끝의 ` - Topic`을 떼면 가수명이 돼요. 1 unit |
 | Apple Music 차트 RSS | `rss.applemarketingtools.com` 한국 인기곡·신곡 JSON | 키 없음. 영상 ID가 없어서 곡마다 YouTube `search.list`(100 unit)로 찾아 붙여야 해요(100곡이면 하루 한도의 절반). 아직 확인 안 함 |
 | Last.fm | 세계·장르별 인기곡 | 무료 키 발급이 필요해요(아직 없음) |
 
