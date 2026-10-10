@@ -3,7 +3,7 @@
 GitHub Actions에서 하루 1회 실행돼요. API 키는 환경 변수 YOUTUBE_API_KEY로 받아요.
 videos.list 호출 1회 = 1 unit이라, 4개국을 받아도 하루 4 unit이에요(한도 10,000).
 나라마다 YouTube가 매기는 인기 음악 순서를 그대로 탭 하나로 만들고,
-마지막에 4개국 순위를 점수로 합산한 '종합' 탭을 붙여요.
+4개국 순위를 점수로 합산한 '종합' 탭은 맨 앞(처음 열리는 탭)에 둬요.
 """
 
 import json
@@ -140,7 +140,7 @@ def main():
         })
 
     names = "·".join(by_country)
-    charts.append({
+    charts.insert(0, {
         "id": "combined",
         "title": "종합",
         "note": f"{names} 인기 음악 순위를 합산했어요. 나라마다 1위 {MAX_RESULTS}점, "
