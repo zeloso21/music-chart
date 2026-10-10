@@ -50,6 +50,10 @@
   .tabs button { border: 1px solid var(--line); background: var(--card); color: var(--text);
                  border-radius: 999px; padding: 6px 14px; cursor: pointer; font-size: .9rem; }
   .tabs button[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .genre-row { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; font-size: .9rem; }
+  .genre-row[hidden] { display: none; }
+  .genre-row select { flex: 1; min-width: 0; max-width: 260px; padding: 6px 10px; font: inherit;
+                      border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--text); }
 
   ol { list-style: none; margin: 0; padding: 0; background: var(--card);
        border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
@@ -100,6 +104,7 @@
 
   <section>
     <div class="tabs" id="tabs" role="tablist"></div>
+    <label class="genre-row" id="genreRow" hidden>장르 <select id="genre"></select></label>
     <p class="note" id="note"></p>
     <ol id="list"><li class="msg">불러오는 중…</li></ol>
   </section>
@@ -115,6 +120,11 @@
   let playerReady = false;
   let pendingId = null;
   let wantPlay = false;    // 플레이어 준비 전에 재생 요청이 왔는지
+  let genre = "";          // 고른 장르 ("" = 장르 전체)
+
+  // 지금 탭에서 고른 장르의 곡만 (순위 번호는 원래 나라 순위 그대로)
+  const visible = () => !chart ? [] :
+    genre ? chart.items.filter((it) => it.genres?.includes(genre)) : chart.items;
 
   const fmt = (sec) => {
     if (!sec) return "";
@@ -133,20 +143,37 @@
       b.textContent = c.title;
       b.setAttribute("aria-selected", c === chart);
       // 탭을 누르면 그 탭 1위부터 바로 재생해요.
-      b.onclick = () => { chart = c; queue = c.items; renderTabs(); renderList(); play(0); };
+      b.onclick = () => { chart = c; renderTabs(); renderGenres(); queue = visible(); renderList(); play(0); };
       tabs.append(b);
     }
+  }
+
+  // 장르 목록 상자: 지금 탭에 있는 장르만 곡 수가 많은 순으로 보여줘요.
+  // 고른 장르가 이 탭에 없으면 '장르 전체'로 돌아가요.
+  function renderGenres() {
+    const items = chart?.items || [];
+    const counts = new Map();
+    for (const it of items) for (const g of it.genres || []) counts.set(g, (counts.get(g) || 0) + 1);
+    if (!counts.has(genre)) genre = "";
+    $("genreRow").hidden = counts.size === 0;
+    const sel = $("genre");
+    sel.replaceChildren(
+      new Option(`장르 전체 (${items.length})`, ""),
+      ...[...counts].sort((a, b) => b[1] - a[1]).map(([g, n]) => new Option(`${g} (${n})`, g)),
+    );
+    sel.value = genre;
   }
 
   function renderList() {
     const list = $("list");
     list.replaceChildren();
     $("note").textContent = chart?.note || "";
-    if (!chart || !chart.items.length) {
+    const items = visible();
+    if (!items.length) {
       list.innerHTML = '<li class="msg">곡이 없어요.</li>';
       return;
     }
-    chart.items.forEach((it, i) => {
+    items.forEach((it, i) => {
       const li = document.createElement("li");
       li.dataset.videoId = it.videoId;
       const b = document.createElement("button");
@@ -165,13 +192,13 @@
       t.textContent = it.title;
       const a = document.createElement("div");
       a.className = "artist";
-      a.textContent = it.artist;
+      a.textContent = it.genres?.length ? `${it.artist} · ${it.genres.join("·")}` : it.artist;
       meta.append(t, a);
       const d = document.createElement("span");
       d.className = "dur";
       d.textContent = fmt(it.duration);
       b.append(rank, img, meta, d);
-      b.onclick = () => { queue = chart.items; play(i); };
+      b.onclick = () => { queue = items; play(i); };
       li.append(b);
       list.append(li);
     });
@@ -229,6 +256,8 @@
     });
   }
 
+  // 장르를 고르면 그 장르 첫 곡부터 재생해요.
+  $("genre").onchange = (e) => { genre = e.target.value; queue = visible(); renderList(); play(0); };
   $("prev").onclick = () => play(index - 1);
   $("next").onclick = () => play(index + 1);
 
@@ -242,8 +271,9 @@
         $("updated").textContent = isNaN(d) ? "" :
           d.toLocaleString("ko-KR", { month: "long", day: "numeric", hour: "2-digit", minute: "2-digit" }) + " 기준";
       }
-      queue = chart?.items || [];
       renderTabs();
+      renderGenres();
+      queue = visible();
       renderList();
       if (queue.length) play(0, false);
     })

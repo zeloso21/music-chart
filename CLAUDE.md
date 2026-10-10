@@ -8,8 +8,9 @@
 
 - 배포 주소: https://zeloso21.github.io/music-chart/ (저장소 root의 `index.html`)
 - 구성: `fetch_data.py`(차트 수집) → `.github/workflows/update.yml`(매일 06:07 KST, 수동 실행, `main`에 스크립트 바뀌면 실행) → `data.json` → `index.html`(목록 + IFrame 플레이어).
-- `data.json` 형식: `{updated, charts: [{id, title, note, items: [{rank, videoId, title, artist, thumbnail, duration(초)}]}]}`. 탭은 `charts` 항목마다 하나씩 생기고, `note`는 탭 아래 순위 설명이에요.
+- `data.json` 형식: `{updated, charts: [{id, title, note, items: [{rank, videoId, title, artist, thumbnail, duration(초), genres}]}]}`. 탭은 `charts` 항목마다 하나씩 생기고, `note`는 탭 아래 순위 설명이에요.
 - 탭: 한국·일본·미국·영국. 나라마다 `mostPopular` 음악 차트를 YouTube 순서 그대로 써요. 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 하루 4 unit.
+- 장르: `videos.list`의 `topicDetails.topicCategories`(위키백과 주소)를 `fetch_data.py`의 `GENRES`로 한국어 장르 이름에 대응시켜 곡마다 `genres`로 저장해요(추가 unit 없음). 화면에서는 나라 탭 아래 목록 상자로 '장르 전체'/장르별을 고르고, 순위 번호는 원래 나라 순위 그대로예요.
 - 여러 나라 점수를 합산한 '전세계'·'종합' 탭은 써 봤다가 사용자 요청으로 뺐어요. 나라별 탭만 둬요.
 
 ## 정해진 것 (지켜야 할 규칙)
