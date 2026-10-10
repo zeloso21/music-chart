@@ -1,19 +1,14 @@
-"""YouTube 인기 음악 차트를 받아 data.json으로 저장해요.
+"""YouTube 나라별 인기 음악 차트를 받아 data.json으로 저장해요.
 
 GitHub Actions에서 하루 1회 실행돼요. API 키는 환경 변수 YOUTUBE_API_KEY로 받아요.
-videos.list 호출 1회 = 1 unit이라, 나라 9곳을 받아도 하루 9 unit이에요(한도 10,000).
-
-- 전세계: YouTube에는 전세계 차트가 없어서, 미국·영국·유럽·일본·한국 5개 지역의 인기 음악을 합산해요.
-  지역마다 1위 50점, 2위 49점 … 50위 1점을 주고 더한 점수로 순위를 매겨요.
-  유럽은 독일·프랑스·이탈리아·스페인·네덜란드 점수의 평균이라, 다른 지역과 같은 무게예요.
-- 한국·일본: 그 나라 인기 음악을 YouTube 순서 그대로 써요.
+videos.list 호출 1회 = 1 unit이라, 4개국을 받아도 하루 4 unit이에요(한도 10,000).
+나라마다 YouTube가 매기는 인기 음악 순서를 그대로 탭 하나로 만들어요.
 """
 
 import json
 import os
 import re
 import sys
-import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -23,19 +18,8 @@ KST = timezone(timedelta(hours=9))
 OUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
 MAX_RESULTS = 50
 VIEWER_REGION = "KR"  # 보는 사람이 대부분 한국이라, 한국에서 막힌 영상은 빼요.
-# 전세계 순위에 넣는 지역. 유럽은 여러 나라를 받아 한 지역으로 묶어요(나라별 점수의 평균).
-WORLD_GROUPS = [
-    ("미국", ["US"]),
-    ("영국", ["GB"]),
-    ("유럽", ["DE", "FR", "IT", "ES", "NL"]),
-    ("일본", ["JP"]),
-    ("한국", ["KR"]),
-]
-WORLD_SIZE = 50
-REGION_NAMES = {
-    "US": "미국", "GB": "영국", "DE": "독일", "FR": "프랑스", "IT": "이탈리아",
-    "ES": "스페인", "NL": "네덜란드", "JP": "일본", "KR": "한국",
-}
+# 탭 순서대로 (나라 코드, 탭 이름)
+COUNTRIES = [("KR", "한국"), ("US", "미국"), ("GB", "영국"), ("JP", "일본")]
 
 
 def fetch_youtube_chart(api_key, region):
@@ -108,81 +92,34 @@ def to_items(videos):
     return items
 
 
-def merge_world(by_region, size=WORLD_SIZE):
-    """나라별 목록을 지역 점수로 합산해 전세계 순위를 만들어요.
-
-    점수가 같으면 오른 지역 수가 많은 쪽, 그다음 가장 높은 순위가 높은 쪽이 앞이에요.
-    재생할 수 없는 영상도 순위 계산에는 넣고, 목록에 넣을 때만 빼요.
-    """
-    stats = {}
-    for group, regions in WORLD_GROUPS:
-        got = [r for r in regions if r in by_region]
-        for region in got:
-            for pos, v in enumerate(by_region[region]):
-                s = stats.setdefault(v["id"], {"video": v, "score": 0, "groups": [], "best": pos})
-                s["score"] += (MAX_RESULTS - pos) / len(got)
-                if group not in s["groups"]:
-                    s["groups"].append(group)
-                s["best"] = min(s["best"], pos)
-    ranked = sorted(stats.values(), key=lambda s: (-s["score"], -len(s["groups"]), s["best"]))
-    items = []
-    for s in ranked:
-        if not playable(s["video"]):
-            continue
-        items.append(to_item(s["video"], len(items) + 1, regions=s["groups"]))
-        if len(items) == size:
-            break
-    return items
-
-
-def world_note(by_region):
-    groups = [g for g, regions in WORLD_GROUPS if any(r in by_region for r in regions)]
-    europe = [REGION_NAMES[r] for r in dict(WORLD_GROUPS)["유럽"] if r in by_region]
-    return (f"{'·'.join(groups)}의 YouTube 인기 음악 순위를 합산했어요. "
-            f"지역마다 1위 {MAX_RESULTS}점, 2위 {MAX_RESULTS - 1}점 … {MAX_RESULTS}위 1점을 주고 더한 점수 순이에요. "
-            f"유럽은 {'·'.join(europe)} 점수의 평균이에요. 곡 옆의 지역은 그 곡이 순위에 오른 곳이에요.")
-
-
 def main():
     api_key = os.environ.get("YOUTUBE_API_KEY")
     if not api_key:
         sys.exit("YOUTUBE_API_KEY 환경 변수가 없어요.")
 
-    by_region = {}
-    for region in [r for _, regions in WORLD_GROUPS for r in regions]:
-        try:
-            by_region[region] = fetch_youtube_chart(api_key, region)
-            print(f"{region}: {len(by_region[region])}개")
-        except urllib.error.HTTPError as e:
-            # 음악 차트가 없는 나라는 400이 나요. 그 나라만 건너뛰어요.
-            print(f"{region}: 건너뜀 (HTTP {e.code})")
-
-    world = merge_world(by_region)
-    korea = to_items(by_region.get("KR", []))
-    japan = to_items(by_region.get("JP", []))
-    if not world or not korea or not japan:
-        # 빈 목록으로 기존 data.json을 덮어쓰지 않도록 실패로 끝내요.
-        sys.exit("받은 곡이 없어요.")
+    charts = []
+    for code, name in COUNTRIES:
+        items = to_items(fetch_youtube_chart(api_key, code))
+        print(f"{name}: {len(items)}곡")
+        if not items:
+            # 한 나라라도 비면 탭이 사라지지 않도록, 기존 data.json을 그대로 두고 실패로 끝내요.
+            sys.exit(f"{name} 곡이 없어요.")
+        charts.append({
+            "id": code.lower(),
+            "title": name,
+            "note": f"YouTube가 매기는 {name} 인기 음악 영상 순서 그대로예요. "
+                    "최근 조회가 빠르게 느는 영상이 위로 와요.",
+            "items": items,
+        })
 
     data = {
         "updated": datetime.now(KST).isoformat(timespec="minutes"),
-        "charts": [
-            {"id": "world", "title": "전세계",
-             "note": world_note(by_region), "items": world},
-            {"id": "youtube", "title": "한국",
-             "note": "YouTube가 매기는 한국 인기 음악 영상 순서 그대로예요. "
-                     "최근 조회가 빠르게 느는 영상이 위로 와요.",
-             "items": korea},
-            {"id": "japan", "title": "일본",
-             "note": "YouTube가 매기는 일본 인기 음악 영상 순서 그대로예요. "
-                     "최근 조회가 빠르게 느는 영상이 위로 와요.",
-             "items": japan},
-        ],
+        "charts": charts,
     }
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
         f.write("\n")
-    print(f"전세계 {len(world)}곡, 한국 {len(korea)}곡, 일본 {len(japan)}곡 저장: {OUT_PATH}")
+    print(f"저장: {OUT_PATH}")
 
 
 if __name__ == "__main__":
