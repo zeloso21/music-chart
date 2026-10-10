@@ -1,583 +1,8 @@
 {
- "updated": "2026-10-10T21:32+09:00",
+ "updated": "2026-10-10T21:38+09:00",
  "charts": [
   {
-   "id": "world",
-   "title": "전세계",
-   "note": "미국·영국·유럽·일본·한국의 YouTube 인기 음악 순위를 합산했어요. 지역마다 1위 50점, 2위 49점 … 50위 1점을 주고 더한 점수 순이에요. 유럽은 독일·프랑스·이탈리아·스페인·네덜란드 점수의 평균이에요. 곡 옆의 지역은 그 곡이 순위에 오른 곳이에요.",
-   "items": [
-    {
-     "rank": 1,
-     "videoId": "mw3kSNIxjqo",
-     "title": "Taylor Swift - Patient Zero (Official Music Video)",
-     "artist": "Taylor Swift",
-     "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
-     "duration": 313,
-     "regions": [
-      "미국",
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 2,
-     "videoId": "2ZTcvsdMR1c",
-     "title": "Ayra Starr - Heaven Baby ft. ZAYN",
-     "artist": "AyraStarrVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
-     "duration": 165,
-     "regions": [
-      "미국",
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 3,
-     "videoId": "9KVsSUFW5Bk",
-     "title": "EZ MIL & Eminem - MADARA (feat. Neil Kaplan & Hideyoshi) [Official Lyric Video]",
-     "artist": "EZ MIL",
-     "thumbnail": "https://i.ytimg.com/vi/9KVsSUFW5Bk/mqdefault.jpg",
-     "duration": 297,
-     "regions": [
-      "미국",
-      "영국"
-     ]
-    },
-    {
-     "rank": 4,
-     "videoId": "fYaF00OZ69U",
-     "title": "Troye Sivan - FF (Official Music Video)",
-     "artist": "TroyeSivanVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
-     "duration": 292,
-     "regions": [
-      "미국",
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 5,
-     "videoId": "VUIgT-E4IS0",
-     "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
-     "artist": "Bulin 47 Oficial",
-     "thumbnail": "https://i.ytimg.com/vi/VUIgT-E4IS0/mqdefault.jpg",
-     "duration": 125,
-     "regions": [
-      "미국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 6,
-     "videoId": "0rW7Fbm4S7g",
-     "title": "manifest - TRALALA | Official Music Video",
-     "artist": "manifest",
-     "thumbnail": "https://i.ytimg.com/vi/0rW7Fbm4S7g/mqdefault.jpg",
-     "duration": 230,
-     "regions": [
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 7,
-     "videoId": "Cz7Pd9n3quE",
-     "title": "Tzanca Uraganu - Condeiul cu cerneala neagra [videoclip oficial] 2026",
-     "artist": "Tzanca Uraganu",
-     "thumbnail": "https://i.ytimg.com/vi/Cz7Pd9n3quE/mqdefault.jpg",
-     "duration": 158,
-     "regions": [
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 8,
-     "videoId": "QFmMN7TfXlA",
-     "title": "Morrisson - COS OF YOU (Official Music Video)",
-     "artist": "Morrisson",
-     "thumbnail": "https://i.ytimg.com/vi/QFmMN7TfXlA/mqdefault.jpg",
-     "duration": 363,
-     "regions": [
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 9,
-     "videoId": "PVVKKwYeEQs",
-     "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
-     "artist": "Romeo Santos",
-     "thumbnail": "https://i.ytimg.com/vi/PVVKKwYeEQs/mqdefault.jpg",
-     "duration": 216,
-     "regions": [
-      "미국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 10,
-     "videoId": "4Xc6P3m3mtc",
-     "title": "INAT - Zeynep Bastık X Dhurata Dora | Music Video",
-     "artist": "Zeynep Bastık",
-     "thumbnail": "https://i.ytimg.com/vi/4Xc6P3m3mtc/mqdefault.jpg",
-     "duration": 178,
-     "regions": [
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 11,
-     "videoId": "y262dp3nqKY",
-     "title": "Marin x Dafina Zeqiri - KIKI",
-     "artist": "MarinOfficial",
-     "thumbnail": "https://i.ytimg.com/vi/y262dp3nqKY/mqdefault.jpg",
-     "duration": 147,
-     "regions": [
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 12,
-     "videoId": "zq9B35oai2w",
-     "title": "Mrs. GREEN APPLE「共犯」Official Music Video",
-     "artist": "Mrs. GREEN APPLE",
-     "thumbnail": "https://i.ytimg.com/vi/zq9B35oai2w/mqdefault.jpg",
-     "duration": 250,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 13,
-     "videoId": "R4kmk4CDVHM",
-     "title": "CRY OUT LOUD",
-     "artist": "Roy Kim",
-     "thumbnail": "https://i.ytimg.com/vi/R4kmk4CDVHM/mqdefault.jpg",
-     "duration": 237,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 14,
-     "videoId": "qePuy07EjnE",
-     "title": "Megan Thee Stallion - Is You Cool? - Tina Tuesday Freestyle",
-     "artist": "Megan Thee Stallion",
-     "thumbnail": "https://i.ytimg.com/vi/qePuy07EjnE/mqdefault.jpg",
-     "duration": 107,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 15,
-     "videoId": "oX6PfHd9BOY",
-     "title": "M!LK - 時空超えてユニバース（Dance Practice Movie）",
-     "artist": "M!LK",
-     "thumbnail": "https://i.ytimg.com/vi/oX6PfHd9BOY/mqdefault.jpg",
-     "duration": 210,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "-JInUb_G6Jc",
-     "title": "CRASH",
-     "artist": "ALLDAY PROJECT",
-     "thumbnail": "https://i.ytimg.com/vi/-JInUb_G6Jc/mqdefault.jpg",
-     "duration": 173,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 17,
-     "videoId": "SGMbCKKW4P8",
-     "title": "Megan Thee Stallion - Tina Tuesday Freestyle",
-     "artist": "Megan Thee Stallion",
-     "thumbnail": "https://i.ytimg.com/vi/SGMbCKKW4P8/mqdefault.jpg",
-     "duration": 117,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 18,
-     "videoId": "gaf-pO2PdO8",
-     "title": "Mrs. GREEN APPLE「ア・ポステリオリ」Official Music Video",
-     "artist": "Mrs. GREEN APPLE",
-     "thumbnail": "https://i.ytimg.com/vi/gaf-pO2PdO8/mqdefault.jpg",
-     "duration": 205,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 19,
-     "videoId": "JqdlzX5zFzg",
-     "title": "Still",
-     "artist": "N.Flying",
-     "thumbnail": "https://i.ytimg.com/vi/JqdlzX5zFzg/mqdefault.jpg",
-     "duration": 187,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 20,
-     "videoId": "I5JGLhUQDHs",
-     "title": "Toni de la Brasov  ❌️  Roberto Bunea  ❌️  Armăsarul",
-     "artist": "AmmA Music & Sound",
-     "thumbnail": "https://i.ytimg.com/vi/I5JGLhUQDHs/mqdefault.jpg",
-     "duration": 157,
-     "regions": [
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 21,
-     "videoId": "Pd1yGW_g2T8",
-     "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
-     "artist": "Karan Aujla",
-     "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg",
-     "duration": 218,
-     "regions": [
-      "영국"
-     ]
-    },
-    {
-     "rank": 22,
-     "videoId": "LnG4ekpYFug",
-     "title": "Ayumu Imazu - 結び [Lyric Video]",
-     "artist": "Ayumu Imazu",
-     "thumbnail": "https://i.ytimg.com/vi/LnG4ekpYFug/mqdefault.jpg",
-     "duration": 207,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 23,
-     "videoId": "rE2gwiBwg9s",
-     "title": "Epilogue",
-     "artist": "Parc Jae Jung",
-     "thumbnail": "https://i.ytimg.com/vi/rE2gwiBwg9s/mqdefault.jpg",
-     "duration": 326,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 24,
-     "videoId": "3juuih0WdH8",
-     "title": "Anuel AA - Vuelve (Video Oficial)",
-     "artist": "Anuel AA",
-     "thumbnail": "https://i.ytimg.com/vi/3juuih0WdH8/mqdefault.jpg",
-     "duration": 290,
-     "regions": [
-      "미국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 25,
-     "videoId": "-7Tar3VlrIw",
-     "title": "なにわ男子 - Moonlit [Official Music Video]",
-     "artist": "なにわ男子",
-     "thumbnail": "https://i.ytimg.com/vi/-7Tar3VlrIw/mqdefault.jpg",
-     "duration": 267,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "C8j3hMJIeFg",
-     "title": "Call Me",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/C8j3hMJIeFg/mqdefault.jpg",
-     "duration": 176,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 27,
-     "videoId": "uEJA-OZ75VU",
-     "title": "Florin Cercel ❌️ Edward Sanda - O sa fie bine [Video Oficial] 2026",
-     "artist": "FLORIN CERCEL",
-     "thumbnail": "https://i.ytimg.com/vi/uEJA-OZ75VU/mqdefault.jpg",
-     "duration": 254,
-     "regions": [
-      "영국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 28,
-     "videoId": "eJFi2TK5174",
-     "title": "Solar Eclipse",
-     "artist": "Drake",
-     "thumbnail": "https://i.ytimg.com/vi/eJFi2TK5174/mqdefault.jpg",
-     "duration": 219,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "3Rmi6JBZjAE",
-     "title": "Headie One - 'TALKIN MY LANGUAGE' (Music Video)",
-     "artist": "Headie One",
-     "thumbnail": "https://i.ytimg.com/vi/3Rmi6JBZjAE/mqdefault.jpg",
-     "duration": 161,
-     "regions": [
-      "영국"
-     ]
-    },
-    {
-     "rank": 30,
-     "videoId": "W6abYxqfCPU",
-     "title": "SixTONES –「Battery」from LIVE DVD/BD「MILESixTONES」(2026.3.26 YOKOHAMA ARENA)",
-     "artist": "SixTONES",
-     "thumbnail": "https://i.ytimg.com/vi/W6abYxqfCPU/mqdefault.jpg",
-     "duration": 162,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 31,
-     "videoId": "UC6Al_Ha-kw",
-     "title": "UGRS RIGHT HERE!",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/UC6Al_Ha-kw/mqdefault.jpg",
-     "duration": 190,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 32,
-     "videoId": "Zb3H_W6z9Ak",
-     "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
-     "artist": "LilBabyVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/Zb3H_W6z9Ak/mqdefault.jpg",
-     "duration": 254,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 33,
-     "videoId": "hML9ZiIRuuQ",
-     "title": "KAITO「swim?」Music Video",
-     "artist": "KAITO",
-     "thumbnail": "https://i.ytimg.com/vi/hML9ZiIRuuQ/mqdefault.jpg",
-     "duration": 212,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 34,
-     "videoId": "ZnPMTLKEh9g",
-     "title": "나를 건 미래에 우린",
-     "artist": "Boramiyu",
-     "thumbnail": "https://i.ytimg.com/vi/ZnPMTLKEh9g/mqdefault.jpg",
-     "duration": 176,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 35,
-     "videoId": "6gRbAU4Puek",
-     "title": "Quebec",
-     "artist": "Drake",
-     "thumbnail": "https://i.ytimg.com/vi/6gRbAU4Puek/mqdefault.jpg",
-     "duration": 131,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 36,
-     "videoId": "mD_IvsomgLc",
-     "title": "Arjan Dhillon - Said & Done | Qarn Mallhi",
-     "artist": "Brown Studios",
-     "thumbnail": "https://i.ytimg.com/vi/mD_IvsomgLc/mqdefault.jpg",
-     "duration": 193,
-     "regions": [
-      "영국"
-     ]
-    },
-    {
-     "rank": 37,
-     "videoId": "YYSnrmuz6WI",
-     "title": "Cinderella",
-     "artist": "Mrs. GREEN APPLE",
-     "thumbnail": "https://i.ytimg.com/vi/YYSnrmuz6WI/mqdefault.jpg",
-     "duration": 276,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 38,
-     "videoId": "-wGXnDzPovw",
-     "title": "임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2",
-     "artist": "임영웅",
-     "thumbnail": "https://i.ytimg.com/vi/-wGXnDzPovw/mqdefault.jpg",
-     "duration": 191,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 39,
-     "videoId": "WDgiZpKJBHQ",
-     "title": "Ricardo Arjona y Grupo Firme - Amor Factura (Video Oficial)  ⁨@ArjonaOficial @GrupoFirmeOficial",
-     "artist": "Ricardo Arjona",
-     "thumbnail": "https://i.ytimg.com/vi/WDgiZpKJBHQ/mqdefault.jpg",
-     "duration": 237,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 40,
-     "videoId": "1GKyX3PFW-Q",
-     "title": "Bugzy Malone - Tears (Official Video)",
-     "artist": "Bugzy Malone",
-     "thumbnail": "https://i.ytimg.com/vi/1GKyX3PFW-Q/mqdefault.jpg",
-     "duration": 198,
-     "regions": [
-      "영국"
-     ]
-    },
-    {
-     "rank": 41,
-     "videoId": "j5yxDVboR00",
-     "title": "Aぇ! group - Mrs.Vampire（Dance Practice）",
-     "artist": "Aぇ! group",
-     "thumbnail": "https://i.ytimg.com/vi/j5yxDVboR00/mqdefault.jpg",
-     "duration": 197,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 42,
-     "videoId": "8CCOcYXiV-I",
-     "title": "The Way We Were",
-     "artist": "N.Flying",
-     "thumbnail": "https://i.ytimg.com/vi/8CCOcYXiV-I/mqdefault.jpg",
-     "duration": 171,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 43,
-     "videoId": "gpjocObn2BQ",
-     "title": "5.0",
-     "artist": "LOS DOS DE TAMAULIPAS",
-     "thumbnail": "https://i.ytimg.com/vi/gpjocObn2BQ/mqdefault.jpg",
-     "duration": 144,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 44,
-     "videoId": "Bps8y7mAVjM",
-     "title": "Lienel「愛のダバダ」Music Video",
-     "artist": "Lienel",
-     "thumbnail": "https://i.ytimg.com/vi/Bps8y7mAVjM/mqdefault.jpg",
-     "duration": 223,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 45,
-     "videoId": "LEyldGY4ggM",
-     "title": "ME AND MY CLAN",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/LEyldGY4ggM/mqdefault.jpg",
-     "duration": 152,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 46,
-     "videoId": "JdXdQsP2_9M",
-     "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
-     "artist": "Kid Rock",
-     "thumbnail": "https://i.ytimg.com/vi/JdXdQsP2_9M/mqdefault.jpg",
-     "duration": 345,
-     "regions": [
-      "미국"
-     ]
-    },
-    {
-     "rank": 47,
-     "videoId": "OWDcn7hl16A",
-     "title": "Aiobahn +81 feat. DEMONDICE - DEMON'S SHOT (Official MV) [Theme for PUKEY GODDESS SHOT TRICK]",
-     "artist": "Aiobahn",
-     "thumbnail": "https://i.ytimg.com/vi/OWDcn7hl16A/mqdefault.jpg",
-     "duration": 262,
-     "regions": [
-      "일본"
-     ]
-    },
-    {
-     "rank": 48,
-     "videoId": "rr_mHc_Cvyw",
-     "title": "DO IT LIKE THIS",
-     "artist": "ALLDAY PROJECT",
-     "thumbnail": "https://i.ytimg.com/vi/rr_mHc_Cvyw/mqdefault.jpg",
-     "duration": 135,
-     "regions": [
-      "한국"
-     ]
-    },
-    {
-     "rank": 49,
-     "videoId": "ZfdwnCz-kiA",
-     "title": "DADDY YANKEE-  BOTZ (Bésame OTra veZ) Official Video",
-     "artist": "Daddy Yankee",
-     "thumbnail": "https://i.ytimg.com/vi/ZfdwnCz-kiA/mqdefault.jpg",
-     "duration": 198,
-     "regions": [
-      "미국",
-      "유럽"
-     ]
-    },
-    {
-     "rank": 50,
-     "videoId": "bzO58iQM19g",
-     "title": "Cold Shoulder",
-     "artist": "Drake",
-     "thumbnail": "https://i.ytimg.com/vi/bzO58iQM19g/mqdefault.jpg",
-     "duration": 235,
-     "regions": [
-      "미국"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "youtube",
+   "id": "kr",
    "title": "한국",
    "note": "YouTube가 매기는 한국 인기 음악 영상 순서 그대로예요. 최근 조회가 빠르게 느는 영상이 위로 와요.",
    "items": [
@@ -824,7 +249,493 @@
    ]
   },
   {
-   "id": "japan",
+   "id": "us",
+   "title": "미국",
+   "note": "YouTube가 매기는 미국 인기 음악 영상 순서 그대로예요. 최근 조회가 빠르게 느는 영상이 위로 와요.",
+   "items": [
+    {
+     "rank": 1,
+     "videoId": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "artist": "Taylor Swift",
+     "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
+     "duration": 313
+    },
+    {
+     "rank": 2,
+     "videoId": "qePuy07EjnE",
+     "title": "Megan Thee Stallion - Is You Cool? - Tina Tuesday Freestyle",
+     "artist": "Megan Thee Stallion",
+     "thumbnail": "https://i.ytimg.com/vi/qePuy07EjnE/mqdefault.jpg",
+     "duration": 107
+    },
+    {
+     "rank": 3,
+     "videoId": "SGMbCKKW4P8",
+     "title": "Megan Thee Stallion - Tina Tuesday Freestyle",
+     "artist": "Megan Thee Stallion",
+     "thumbnail": "https://i.ytimg.com/vi/SGMbCKKW4P8/mqdefault.jpg",
+     "duration": 117
+    },
+    {
+     "rank": 4,
+     "videoId": "VUIgT-E4IS0",
+     "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
+     "artist": "Bulin 47 Oficial",
+     "thumbnail": "https://i.ytimg.com/vi/VUIgT-E4IS0/mqdefault.jpg",
+     "duration": 125
+    },
+    {
+     "rank": 5,
+     "videoId": "PVVKKwYeEQs",
+     "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
+     "artist": "Romeo Santos",
+     "thumbnail": "https://i.ytimg.com/vi/PVVKKwYeEQs/mqdefault.jpg",
+     "duration": 216
+    },
+    {
+     "rank": 6,
+     "videoId": "eJFi2TK5174",
+     "title": "Solar Eclipse",
+     "artist": "Drake",
+     "thumbnail": "https://i.ytimg.com/vi/eJFi2TK5174/mqdefault.jpg",
+     "duration": 219
+    },
+    {
+     "rank": 7,
+     "videoId": "Zb3H_W6z9Ak",
+     "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+     "artist": "LilBabyVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/Zb3H_W6z9Ak/mqdefault.jpg",
+     "duration": 254
+    },
+    {
+     "rank": 8,
+     "videoId": "6gRbAU4Puek",
+     "title": "Quebec",
+     "artist": "Drake",
+     "thumbnail": "https://i.ytimg.com/vi/6gRbAU4Puek/mqdefault.jpg",
+     "duration": 131
+    },
+    {
+     "rank": 9,
+     "videoId": "WDgiZpKJBHQ",
+     "title": "Ricardo Arjona y Grupo Firme - Amor Factura (Video Oficial)  ⁨@ArjonaOficial @GrupoFirmeOficial",
+     "artist": "Ricardo Arjona",
+     "thumbnail": "https://i.ytimg.com/vi/WDgiZpKJBHQ/mqdefault.jpg",
+     "duration": 237
+    },
+    {
+     "rank": 10,
+     "videoId": "gpjocObn2BQ",
+     "title": "5.0",
+     "artist": "LOS DOS DE TAMAULIPAS",
+     "thumbnail": "https://i.ytimg.com/vi/gpjocObn2BQ/mqdefault.jpg",
+     "duration": 144
+    },
+    {
+     "rank": 11,
+     "videoId": "JdXdQsP2_9M",
+     "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
+     "artist": "Kid Rock",
+     "thumbnail": "https://i.ytimg.com/vi/JdXdQsP2_9M/mqdefault.jpg",
+     "duration": 345
+    },
+    {
+     "rank": 12,
+     "videoId": "bzO58iQM19g",
+     "title": "Cold Shoulder",
+     "artist": "Drake",
+     "thumbnail": "https://i.ytimg.com/vi/bzO58iQM19g/mqdefault.jpg",
+     "duration": 235
+    },
+    {
+     "rank": 13,
+     "videoId": "3juuih0WdH8",
+     "title": "Anuel AA - Vuelve (Video Oficial)",
+     "artist": "Anuel AA",
+     "thumbnail": "https://i.ytimg.com/vi/3juuih0WdH8/mqdefault.jpg",
+     "duration": 290
+    },
+    {
+     "rank": 14,
+     "videoId": "48rRv5ISfrg",
+     "title": "Gunna - pop it [Official Video]",
+     "artist": "Gunna",
+     "thumbnail": "https://i.ytimg.com/vi/48rRv5ISfrg/mqdefault.jpg",
+     "duration": 178
+    },
+    {
+     "rank": 15,
+     "videoId": "1l7wbZmdtys",
+     "title": "Bruno Mars - Dance With Me [Official Music Video]",
+     "artist": "Bruno Mars",
+     "thumbnail": "https://i.ytimg.com/vi/1l7wbZmdtys/mqdefault.jpg",
+     "duration": 220
+    },
+    {
+     "rank": 16,
+     "videoId": "l9T2RuAKRLs",
+     "title": "Tomala Cochino - Cartel de Santa | @elcarteldesantatv",
+     "artist": "elcarteldesantatv",
+     "thumbnail": "https://i.ytimg.com/vi/l9T2RuAKRLs/mqdefault.jpg",
+     "duration": 210
+    },
+    {
+     "rank": 17,
+     "videoId": "ZfdwnCz-kiA",
+     "title": "DADDY YANKEE-  BOTZ (Bésame OTra veZ) Official Video",
+     "artist": "Daddy Yankee",
+     "thumbnail": "https://i.ytimg.com/vi/ZfdwnCz-kiA/mqdefault.jpg",
+     "duration": 198
+    },
+    {
+     "rank": 18,
+     "videoId": "Qd76DppRIjk",
+     "title": "Fullychop - Rap n Clap (Official Music Video)",
+     "artist": "FullyChop",
+     "thumbnail": "https://i.ytimg.com/vi/Qd76DppRIjk/mqdefault.jpg",
+     "duration": 126
+    },
+    {
+     "rank": 19,
+     "videoId": "gXSQdXSPsDs",
+     "title": "Paciencia",
+     "artist": "LOS DOS DE TAMAULIPAS",
+     "thumbnail": "https://i.ytimg.com/vi/gXSQdXSPsDs/mqdefault.jpg",
+     "duration": 157
+    },
+    {
+     "rank": 20,
+     "videoId": "5L8HtOh-RMw",
+     "title": "Come Back To Me",
+     "artist": "Russ",
+     "thumbnail": "https://i.ytimg.com/vi/5L8HtOh-RMw/mqdefault.jpg",
+     "duration": 187
+    },
+    {
+     "rank": 21,
+     "videoId": "9KVsSUFW5Bk",
+     "title": "EZ MIL & Eminem - MADARA (feat. Neil Kaplan & Hideyoshi) [Official Lyric Video]",
+     "artist": "EZ MIL",
+     "thumbnail": "https://i.ytimg.com/vi/9KVsSUFW5Bk/mqdefault.jpg",
+     "duration": 297
+    },
+    {
+     "rank": 22,
+     "videoId": "Lca7VGqAHaY",
+     "title": "Kodak Black - Little Birdie  [Official Music Video]",
+     "artist": "Kodak Black",
+     "thumbnail": "https://i.ytimg.com/vi/Lca7VGqAHaY/mqdefault.jpg",
+     "duration": 157
+    },
+    {
+     "rank": 23,
+     "videoId": "MYFFA242azM",
+     "title": "Natanael Cano x Tito Double P x Victor Mendivil x Ovi - OLIVIA LA FLAKA [Oficial Video]",
+     "artist": "Natanael Cano",
+     "thumbnail": "https://i.ytimg.com/vi/MYFFA242azM/mqdefault.jpg",
+     "duration": 363
+    },
+    {
+     "rank": 24,
+     "videoId": "yFMNbaD9-uo",
+     "title": "En Dios Confío",
+     "artist": "LOS DOS DE TAMAULIPAS",
+     "thumbnail": "https://i.ytimg.com/vi/yFMNbaD9-uo/mqdefault.jpg",
+     "duration": 165
+    },
+    {
+     "rank": 25,
+     "videoId": "_aKgAniBxY8",
+     "title": "Jane!",
+     "artist": "The Long Faces",
+     "thumbnail": "https://i.ytimg.com/vi/_aKgAniBxY8/mqdefault.jpg",
+     "duration": 187
+    },
+    {
+     "rank": 26,
+     "videoId": "jfVVXYTZykw",
+     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+     "artist": "Taylor Swift",
+     "thumbnail": "https://i.ytimg.com/vi/jfVVXYTZykw/mqdefault.jpg",
+     "duration": 210
+    },
+    {
+     "rank": 27,
+     "videoId": "MWULhyrh998",
+     "title": "hunnid PROBLEMS.",
+     "artist": "YFN Lucci",
+     "thumbnail": "https://i.ytimg.com/vi/MWULhyrh998/mqdefault.jpg",
+     "duration": 190
+    },
+    {
+     "rank": 28,
+     "videoId": "fYaF00OZ69U",
+     "title": "Troye Sivan - FF (Official Music Video)",
+     "artist": "TroyeSivanVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
+     "duration": 292
+    },
+    {
+     "rank": 29,
+     "videoId": "wJa1pwW28fM",
+     "title": "Waiting Room",
+     "artist": "Overgrown",
+     "thumbnail": "https://i.ytimg.com/vi/wJa1pwW28fM/mqdefault.jpg",
+     "duration": 183
+    },
+    {
+     "rank": 30,
+     "videoId": "2ZTcvsdMR1c",
+     "title": "Ayra Starr - Heaven Baby ft. ZAYN",
+     "artist": "AyraStarrVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
+     "duration": 165
+    }
+   ]
+  },
+  {
+   "id": "gb",
+   "title": "영국",
+   "note": "YouTube가 매기는 영국 인기 음악 영상 순서 그대로예요. 최근 조회가 빠르게 느는 영상이 위로 와요.",
+   "items": [
+    {
+     "rank": 1,
+     "videoId": "QFmMN7TfXlA",
+     "title": "Morrisson - COS OF YOU (Official Music Video)",
+     "artist": "Morrisson",
+     "thumbnail": "https://i.ytimg.com/vi/QFmMN7TfXlA/mqdefault.jpg",
+     "duration": 363
+    },
+    {
+     "rank": 2,
+     "videoId": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "artist": "Taylor Swift",
+     "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
+     "duration": 313
+    },
+    {
+     "rank": 3,
+     "videoId": "2ZTcvsdMR1c",
+     "title": "Ayra Starr - Heaven Baby ft. ZAYN",
+     "artist": "AyraStarrVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
+     "duration": 165
+    },
+    {
+     "rank": 4,
+     "videoId": "Pd1yGW_g2T8",
+     "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
+     "artist": "Karan Aujla",
+     "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg",
+     "duration": 218
+    },
+    {
+     "rank": 5,
+     "videoId": "Cz7Pd9n3quE",
+     "title": "Tzanca Uraganu - Condeiul cu cerneala neagra [videoclip oficial] 2026",
+     "artist": "Tzanca Uraganu",
+     "thumbnail": "https://i.ytimg.com/vi/Cz7Pd9n3quE/mqdefault.jpg",
+     "duration": 158
+    },
+    {
+     "rank": 6,
+     "videoId": "3Rmi6JBZjAE",
+     "title": "Headie One - 'TALKIN MY LANGUAGE' (Music Video)",
+     "artist": "Headie One",
+     "thumbnail": "https://i.ytimg.com/vi/3Rmi6JBZjAE/mqdefault.jpg",
+     "duration": 161
+    },
+    {
+     "rank": 7,
+     "videoId": "0rW7Fbm4S7g",
+     "title": "manifest - TRALALA | Official Music Video",
+     "artist": "manifest",
+     "thumbnail": "https://i.ytimg.com/vi/0rW7Fbm4S7g/mqdefault.jpg",
+     "duration": 230
+    },
+    {
+     "rank": 8,
+     "videoId": "mD_IvsomgLc",
+     "title": "Arjan Dhillon - Said & Done | Qarn Mallhi",
+     "artist": "Brown Studios",
+     "thumbnail": "https://i.ytimg.com/vi/mD_IvsomgLc/mqdefault.jpg",
+     "duration": 193
+    },
+    {
+     "rank": 9,
+     "videoId": "1GKyX3PFW-Q",
+     "title": "Bugzy Malone - Tears (Official Video)",
+     "artist": "Bugzy Malone",
+     "thumbnail": "https://i.ytimg.com/vi/1GKyX3PFW-Q/mqdefault.jpg",
+     "duration": 198
+    },
+    {
+     "rank": 10,
+     "videoId": "9KVsSUFW5Bk",
+     "title": "EZ MIL & Eminem - MADARA (feat. Neil Kaplan & Hideyoshi) [Official Lyric Video]",
+     "artist": "EZ MIL",
+     "thumbnail": "https://i.ytimg.com/vi/9KVsSUFW5Bk/mqdefault.jpg",
+     "duration": 297
+    },
+    {
+     "rank": 11,
+     "videoId": "I5JGLhUQDHs",
+     "title": "Toni de la Brasov  ❌️  Roberto Bunea  ❌️  Armăsarul",
+     "artist": "AmmA Music & Sound",
+     "thumbnail": "https://i.ytimg.com/vi/I5JGLhUQDHs/mqdefault.jpg",
+     "duration": 157
+    },
+    {
+     "rank": 12,
+     "videoId": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "artist": "DrakeVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/vBk30V8AukM/mqdefault.jpg",
+     "duration": 245
+    },
+    {
+     "rank": 13,
+     "videoId": "fYaF00OZ69U",
+     "title": "Troye Sivan - FF (Official Music Video)",
+     "artist": "TroyeSivanVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
+     "duration": 292
+    },
+    {
+     "rank": 14,
+     "videoId": "4Xc6P3m3mtc",
+     "title": "INAT - Zeynep Bastık X Dhurata Dora | Music Video",
+     "artist": "Zeynep Bastık",
+     "thumbnail": "https://i.ytimg.com/vi/4Xc6P3m3mtc/mqdefault.jpg",
+     "duration": 178
+    },
+    {
+     "rank": 15,
+     "videoId": "y262dp3nqKY",
+     "title": "Marin x Dafina Zeqiri - KIKI",
+     "artist": "MarinOfficial",
+     "thumbnail": "https://i.ytimg.com/vi/y262dp3nqKY/mqdefault.jpg",
+     "duration": 147
+    },
+    {
+     "rank": 16,
+     "videoId": "uEJA-OZ75VU",
+     "title": "Florin Cercel ❌️ Edward Sanda - O sa fie bine [Video Oficial] 2026",
+     "artist": "FLORIN CERCEL",
+     "thumbnail": "https://i.ytimg.com/vi/uEJA-OZ75VU/mqdefault.jpg",
+     "duration": 254
+    },
+    {
+     "rank": 17,
+     "videoId": "d2-dpM0crY0",
+     "title": "SIENNA SPIRO - Great Expectation (Live from the 2026 VMAs)",
+     "artist": "SiennaSpiroVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/d2-dpM0crY0/mqdefault.jpg",
+     "duration": 184
+    },
+    {
+     "rank": 18,
+     "videoId": "dFK83k379mU",
+     "title": "Girls All Around The World",
+     "artist": "Digga",
+     "thumbnail": "https://i.ytimg.com/vi/dFK83k379mU/mqdefault.jpg",
+     "duration": 108
+    },
+    {
+     "rank": 19,
+     "videoId": "VQC1XXfsPrI",
+     "title": "Marnz Malone x Clavish - Get It How You Live (Official Music Video)",
+     "artist": "Marnz Malone",
+     "thumbnail": "https://i.ytimg.com/vi/VQC1XXfsPrI/mqdefault.jpg",
+     "duration": 272
+    },
+    {
+     "rank": 20,
+     "videoId": "Q4ryZfcMg3A",
+     "title": "Chalre Chalre Waal Female Version - Tu Sanwal Phul Kasturi Song ❤️ Instagram Trending song 2026",
+     "artist": "ISAR\"MUSIC",
+     "thumbnail": "https://i.ytimg.com/vi/Q4ryZfcMg3A/mqdefault.jpg",
+     "duration": 270
+    },
+    {
+     "rank": 21,
+     "videoId": "C9OmyNRyz4E",
+     "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
+     "artist": "Sidhu Moose Wala",
+     "thumbnail": "https://i.ytimg.com/vi/C9OmyNRyz4E/mqdefault.jpg",
+     "duration": 357
+    },
+    {
+     "rank": 22,
+     "videoId": "3g6deNjbuxs",
+     "title": "Blaqbonez- Ikebe 3000 (feat. Asake) [Official Music Video]",
+     "artist": "Blaqbonez",
+     "thumbnail": "https://i.ytimg.com/vi/3g6deNjbuxs/mqdefault.jpg",
+     "duration": 218
+    },
+    {
+     "rank": 23,
+     "videoId": "Huj-UJ8LKhI",
+     "title": "Moving To The Sun",
+     "artist": "quitjob",
+     "thumbnail": "https://i.ytimg.com/vi/Huj-UJ8LKhI/mqdefault.jpg",
+     "duration": 152
+    },
+    {
+     "rank": 24,
+     "videoId": "gpkYsJighUY",
+     "title": "Aujla Szn (Official Audio) Karan Aujla  | Mxrci  | Aujla Szn 1",
+     "artist": "Karan Aujla",
+     "thumbnail": "https://i.ytimg.com/vi/gpkYsJighUY/mqdefault.jpg",
+     "duration": 219
+    },
+    {
+     "rank": 25,
+     "videoId": "-BGuJUq5D0g",
+     "title": "GGL WUNI X KWENGFACE - WAIT UP (OFFICIAL MUSIC VIDEO)",
+     "artist": "Kwengface",
+     "thumbnail": "https://i.ytimg.com/vi/-BGuJUq5D0g/mqdefault.jpg",
+     "duration": 152
+    },
+    {
+     "rank": 26,
+     "videoId": "jvsXV3m26e8",
+     "title": "French Montana, Max B, Skepta, D-Block Europe - Ever Since U Left Me (UK Remix) [Official Video]",
+     "artist": "French Montana",
+     "thumbnail": "https://i.ytimg.com/vi/jvsXV3m26e8/mqdefault.jpg",
+     "duration": 137
+    },
+    {
+     "rank": 27,
+     "videoId": "pBxrtb89y_I",
+     "title": "BADASS",
+     "artist": "Arjan Dhillon",
+     "thumbnail": "https://i.ytimg.com/vi/pBxrtb89y_I/mqdefault.jpg",
+     "duration": 162
+    },
+    {
+     "rank": 28,
+     "videoId": "Mts930Jx-3M",
+     "title": "Luis Gabriel & @Haziran - Inimă fără noroc ❤️‍🩹 Official Video",
+     "artist": "Luis Gabriel",
+     "thumbnail": "https://i.ytimg.com/vi/Mts930Jx-3M/mqdefault.jpg",
+     "duration": 243
+    },
+    {
+     "rank": 29,
+     "videoId": "cNWDNq4NVrY",
+     "title": "ANGEL",
+     "artist": "EXTISI",
+     "thumbnail": "https://i.ytimg.com/vi/cNWDNq4NVrY/mqdefault.jpg",
+     "duration": 130
+    }
+   ]
+  },
+  {
+   "id": "jp",
    "title": "일본",
    "note": "YouTube가 매기는 일본 인기 음악 영상 순서 그대로예요. 최근 조회가 빠르게 느는 영상이 위로 와요.",
    "items": [
