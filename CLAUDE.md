@@ -7,7 +7,8 @@
 신곡·인기곡 목록을 API로 받아 화면에 보여주고, 곡을 누르면 그 곡의 유튜브 영상이 페이지 안에서 바로 재생되는 웹페이지예요. GitHub Pages로 공개해요.
 
 - 배포 주소: https://zeloso21.github.io/music-chart/ (저장소 root의 `index.html`)
-- 지금은 `index.html`이 '준비 중' 화면뿐이에요. 앱 본체는 여기서 새로 만들어요.
+- 구성: `fetch_data.py`(차트 수집) → `.github/workflows/update.yml`(매일 06:07 KST, 수동 실행, `main`에 스크립트 바뀌면 실행) → `data.json` → `index.html`(목록 + IFrame 플레이어).
+- `data.json` 형식: `{updated, charts: [{id, title, items: [{rank, videoId, title, artist, thumbnail, duration(초)}]}]}`. 탭은 `charts` 항목마다 하나씩 생겨요.
 
 ## 정해진 것 (지켜야 할 규칙)
 
