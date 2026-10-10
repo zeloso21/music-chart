@@ -1,9 +1,467 @@
 {
- "updated": "2026-10-10T20:50+09:00",
+ "updated": "2026-10-10T21:08+09:00",
  "charts": [
   {
+   "id": "world",
+   "title": "전세계 인기 음악",
+   "note": "13개국(미국·영국·일본·브라질·멕시코·인도·인도네시아·독일·프랑스·스페인·필리핀·호주·한국)의 YouTube 인기 음악 순위를 합산했어요. 나라마다 1위 50점, 2위 49점 … 50위 1점을 주고 더한 점수 순이에요. 'N개국'은 그 곡이 순위에 오른 나라 수예요.",
+   "items": [
+    {
+     "rank": 1,
+     "videoId": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "artist": "Taylor Swift",
+     "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
+     "duration": 313,
+     "countries": 6
+    },
+    {
+     "rank": 2,
+     "videoId": "2ZTcvsdMR1c",
+     "title": "Ayra Starr - Heaven Baby ft. ZAYN",
+     "artist": "AyraStarrVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
+     "duration": 165,
+     "countries": 4
+    },
+    {
+     "rank": 3,
+     "videoId": "Pd1yGW_g2T8",
+     "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
+     "artist": "Karan Aujla",
+     "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg",
+     "duration": 218,
+     "countries": 3
+    },
+    {
+     "rank": 4,
+     "videoId": "mD_IvsomgLc",
+     "title": "Arjan Dhillon - Said & Done | Qarn Mallhi",
+     "artist": "Brown Studios",
+     "thumbnail": "https://i.ytimg.com/vi/mD_IvsomgLc/mqdefault.jpg",
+     "duration": 193,
+     "countries": 3
+    },
+    {
+     "rank": 5,
+     "videoId": "9KVsSUFW5Bk",
+     "title": "EZ MIL & Eminem - MADARA (feat. Neil Kaplan & Hideyoshi) [Official Lyric Video]",
+     "artist": "EZ MIL",
+     "thumbnail": "https://i.ytimg.com/vi/9KVsSUFW5Bk/mqdefault.jpg",
+     "duration": 297,
+     "countries": 3
+    },
+    {
+     "rank": 6,
+     "videoId": "fYaF00OZ69U",
+     "title": "Troye Sivan - FF (Official Music Video)",
+     "artist": "TroyeSivanVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
+     "duration": 292,
+     "countries": 3
+    },
+    {
+     "rank": 7,
+     "videoId": "pBxrtb89y_I",
+     "title": "BADASS",
+     "artist": "Arjan Dhillon",
+     "thumbnail": "https://i.ytimg.com/vi/pBxrtb89y_I/mqdefault.jpg",
+     "duration": 162,
+     "countries": 3
+    },
+    {
+     "rank": 8,
+     "videoId": "PVVKKwYeEQs",
+     "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
+     "artist": "Romeo Santos",
+     "thumbnail": "https://i.ytimg.com/vi/PVVKKwYeEQs/mqdefault.jpg",
+     "duration": 216,
+     "countries": 2
+    },
+    {
+     "rank": 9,
+     "videoId": "0rW7Fbm4S7g",
+     "title": "manifest - TRALALA | Official Music Video",
+     "artist": "manifest",
+     "thumbnail": "https://i.ytimg.com/vi/0rW7Fbm4S7g/mqdefault.jpg",
+     "duration": 230,
+     "countries": 2
+    },
+    {
+     "rank": 10,
+     "videoId": "VUIgT-E4IS0",
+     "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
+     "artist": "Bulin 47 Oficial",
+     "thumbnail": "https://i.ytimg.com/vi/VUIgT-E4IS0/mqdefault.jpg",
+     "duration": 125,
+     "countries": 2
+    },
+    {
+     "rank": 11,
+     "videoId": "WDgiZpKJBHQ",
+     "title": "Ricardo Arjona y Grupo Firme - Amor Factura (Video Oficial)  ⁨@ArjonaOficial @GrupoFirmeOficial",
+     "artist": "Ricardo Arjona",
+     "thumbnail": "https://i.ytimg.com/vi/WDgiZpKJBHQ/mqdefault.jpg",
+     "duration": 237,
+     "countries": 2
+    },
+    {
+     "rank": 12,
+     "videoId": "4Xc6P3m3mtc",
+     "title": "INAT - Zeynep Bastık X Dhurata Dora | Music Video",
+     "artist": "Zeynep Bastık",
+     "thumbnail": "https://i.ytimg.com/vi/4Xc6P3m3mtc/mqdefault.jpg",
+     "duration": 178,
+     "countries": 2
+    },
+    {
+     "rank": 13,
+     "videoId": "UxmdCABl1EY",
+     "title": "Rammstein - Live in Mexico City - Sonne (Official Video)",
+     "artist": "Rammstein Official",
+     "thumbnail": "https://i.ytimg.com/vi/UxmdCABl1EY/mqdefault.jpg",
+     "duration": 299,
+     "countries": 2
+    },
+    {
+     "rank": 14,
+     "videoId": "l9T2RuAKRLs",
+     "title": "Tomala Cochino - Cartel de Santa | @elcarteldesantatv",
+     "artist": "elcarteldesantatv",
+     "thumbnail": "https://i.ytimg.com/vi/l9T2RuAKRLs/mqdefault.jpg",
+     "duration": 210,
+     "countries": 2
+    },
+    {
+     "rank": 15,
+     "videoId": "QFmMN7TfXlA",
+     "title": "Morrisson - COS OF YOU (Official Music Video)",
+     "artist": "Morrisson",
+     "thumbnail": "https://i.ytimg.com/vi/QFmMN7TfXlA/mqdefault.jpg",
+     "duration": 363,
+     "countries": 2
+    },
+    {
+     "rank": 16,
+     "videoId": "Cz7Pd9n3quE",
+     "title": "Tzanca Uraganu - Condeiul cu cerneala neagra [videoclip oficial] 2026",
+     "artist": "Tzanca Uraganu",
+     "thumbnail": "https://i.ytimg.com/vi/Cz7Pd9n3quE/mqdefault.jpg",
+     "duration": 158,
+     "countries": 2
+    },
+    {
+     "rank": 17,
+     "videoId": "vRjaGgDsWSo",
+     "title": "Casa Tupka Anthemo | @YoYoHoneySingh  feat. Priyanshi | Full Video",
+     "artist": "Yo Yo Honey Singh",
+     "thumbnail": "https://i.ytimg.com/vi/vRjaGgDsWSo/mqdefault.jpg",
+     "duration": 186,
+     "countries": 2
+    },
+    {
+     "rank": 18,
+     "videoId": "y262dp3nqKY",
+     "title": "Marin x Dafina Zeqiri - KIKI",
+     "artist": "MarinOfficial",
+     "thumbnail": "https://i.ytimg.com/vi/y262dp3nqKY/mqdefault.jpg",
+     "duration": 147,
+     "countries": 2
+    },
+    {
+     "rank": 19,
+     "videoId": "3juuih0WdH8",
+     "title": "Anuel AA - Vuelve (Video Oficial)",
+     "artist": "Anuel AA",
+     "thumbnail": "https://i.ytimg.com/vi/3juuih0WdH8/mqdefault.jpg",
+     "duration": 290,
+     "countries": 2
+    },
+    {
+     "rank": 20,
+     "videoId": "Q4ryZfcMg3A",
+     "title": "Chalre Chalre Waal Female Version - Tu Sanwal Phul Kasturi Song ❤️ Instagram Trending song 2026",
+     "artist": "ISAR\"MUSIC",
+     "thumbnail": "https://i.ytimg.com/vi/Q4ryZfcMg3A/mqdefault.jpg",
+     "duration": 270,
+     "countries": 2
+    },
+    {
+     "rank": 21,
+     "videoId": "I5JGLhUQDHs",
+     "title": "Toni de la Brasov  ❌️  Roberto Bunea  ❌️  Armăsarul",
+     "artist": "AmmA Music & Sound",
+     "thumbnail": "https://i.ytimg.com/vi/I5JGLhUQDHs/mqdefault.jpg",
+     "duration": 157,
+     "countries": 2
+    },
+    {
+     "rank": 22,
+     "videoId": "MYFFA242azM",
+     "title": "Natanael Cano x Tito Double P x Victor Mendivil x Ovi - OLIVIA LA FLAKA [Oficial Video]",
+     "artist": "Natanael Cano",
+     "thumbnail": "https://i.ytimg.com/vi/MYFFA242azM/mqdefault.jpg",
+     "duration": 363,
+     "countries": 2
+    },
+    {
+     "rank": 23,
+     "videoId": "C9OmyNRyz4E",
+     "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
+     "artist": "Sidhu Moose Wala",
+     "thumbnail": "https://i.ytimg.com/vi/C9OmyNRyz4E/mqdefault.jpg",
+     "duration": 357,
+     "countries": 2
+    },
+    {
+     "rank": 24,
+     "videoId": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "artist": "DrakeVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/vBk30V8AukM/mqdefault.jpg",
+     "duration": 245,
+     "countries": 2
+    },
+    {
+     "rank": 25,
+     "videoId": "Huj-UJ8LKhI",
+     "title": "Moving To The Sun",
+     "artist": "quitjob",
+     "thumbnail": "https://i.ytimg.com/vi/Huj-UJ8LKhI/mqdefault.jpg",
+     "duration": 152,
+     "countries": 2
+    },
+    {
+     "rank": 26,
+     "videoId": "uEJA-OZ75VU",
+     "title": "Florin Cercel ❌️ Edward Sanda - O sa fie bine [Video Oficial] 2026",
+     "artist": "FLORIN CERCEL",
+     "thumbnail": "https://i.ytimg.com/vi/uEJA-OZ75VU/mqdefault.jpg",
+     "duration": 254,
+     "countries": 2
+    },
+    {
+     "rank": 27,
+     "videoId": "ZfdwnCz-kiA",
+     "title": "DADDY YANKEE-  BOTZ (Bésame OTra veZ) Official Video",
+     "artist": "Daddy Yankee",
+     "thumbnail": "https://i.ytimg.com/vi/ZfdwnCz-kiA/mqdefault.jpg",
+     "duration": 198,
+     "countries": 2
+    },
+    {
+     "rank": 28,
+     "videoId": "jfVVXYTZykw",
+     "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+     "artist": "Taylor Swift",
+     "thumbnail": "https://i.ytimg.com/vi/jfVVXYTZykw/mqdefault.jpg",
+     "duration": 210,
+     "countries": 2
+    },
+    {
+     "rank": 29,
+     "videoId": "zq9B35oai2w",
+     "title": "Mrs. GREEN APPLE「共犯」Official Music Video",
+     "artist": "Mrs. GREEN APPLE",
+     "thumbnail": "https://i.ytimg.com/vi/zq9B35oai2w/mqdefault.jpg",
+     "duration": 250,
+     "countries": 1
+    },
+    {
+     "rank": 30,
+     "videoId": "7qcq8wAX9pU",
+     "title": "Felipe & Rodrigo -  Pós (Ao Vivo) #NoSentimento",
+     "artist": "Felipe e Rodrigo",
+     "thumbnail": "https://i.ytimg.com/vi/7qcq8wAX9pU/mqdefault.jpg",
+     "duration": 175,
+     "countries": 1
+    },
+    {
+     "rank": 31,
+     "videoId": "FRaMh1LDNPw",
+     "title": "Maulana Ardiansyah Ft. Ajeng Febria - SIAPA MEREBUT SERI CINTA  ( Siapa Di Hatimu ) LIVE JAMMING",
+     "artist": "TA PRO Music & Publishing",
+     "thumbnail": "https://i.ytimg.com/vi/FRaMh1LDNPw/mqdefault.jpg",
+     "duration": 504,
+     "countries": 1
+    },
+    {
+     "rank": 32,
+     "videoId": "UK2TM32VHH8",
+     "title": "Lagui - DÉGUN (Clip Officiel)",
+     "artist": "Lagui",
+     "thumbnail": "https://i.ytimg.com/vi/UK2TM32VHH8/mqdefault.jpg",
+     "duration": 190,
+     "countries": 1
+    },
+    {
+     "rank": 33,
+     "videoId": "D6VOtKyA6og",
+     "title": "Clarent & Quevedo - Jukiar (Video Oficial)",
+     "artist": "Clarent",
+     "thumbnail": "https://i.ytimg.com/vi/D6VOtKyA6og/mqdefault.jpg",
+     "duration": 202,
+     "countries": 1
+    },
+    {
+     "rank": 34,
+     "videoId": "11ddlw70Bwc",
+     "title": "Baby 123",
+     "artist": "RAPROJECT SIX",
+     "thumbnail": "https://i.ytimg.com/vi/11ddlw70Bwc/mqdefault.jpg",
+     "duration": 177,
+     "countries": 1
+    },
+    {
+     "rank": 35,
+     "videoId": "3ap5XjDpphw",
+     "title": "Kerser - Effortless",
+     "artist": "TheKERSER",
+     "thumbnail": "https://i.ytimg.com/vi/3ap5XjDpphw/mqdefault.jpg",
+     "duration": 246,
+     "countries": 1
+    },
+    {
+     "rank": 36,
+     "videoId": "R4kmk4CDVHM",
+     "title": "CRY OUT LOUD",
+     "artist": "Roy Kim",
+     "thumbnail": "https://i.ytimg.com/vi/R4kmk4CDVHM/mqdefault.jpg",
+     "duration": 237,
+     "countries": 1
+    },
+    {
+     "rank": 37,
+     "videoId": "qePuy07EjnE",
+     "title": "Megan Thee Stallion - Is You Cool? - Tina Tuesday Freestyle",
+     "artist": "Megan Thee Stallion",
+     "thumbnail": "https://i.ytimg.com/vi/qePuy07EjnE/mqdefault.jpg",
+     "duration": 107,
+     "countries": 1
+    },
+    {
+     "rank": 38,
+     "videoId": "oX6PfHd9BOY",
+     "title": "M!LK - 時空超えてユニバース（Dance Practice Movie）",
+     "artist": "M!LK",
+     "thumbnail": "https://i.ytimg.com/vi/oX6PfHd9BOY/mqdefault.jpg",
+     "duration": 210,
+     "countries": 1
+    },
+    {
+     "rank": 39,
+     "videoId": "H_BClfupJtU",
+     "title": "Imagina o Trabalho - Ana Castela (Videoclipe Oficial)",
+     "artist": "Ana Castela",
+     "thumbnail": "https://i.ytimg.com/vi/H_BClfupJtU/mqdefault.jpg",
+     "duration": 176,
+     "countries": 1
+    },
+    {
+     "rank": 40,
+     "videoId": "5vrntlvQor8",
+     "title": "Aaya Sher - Video Song | The Paradise | Nani | Anirudh Ravichander | Srikanth Odela",
+     "artist": "Saregama Telugu",
+     "thumbnail": "https://i.ytimg.com/vi/5vrntlvQor8/mqdefault.jpg",
+     "duration": 281,
+     "countries": 1
+    },
+    {
+     "rank": 41,
+     "videoId": "gFPNEptUEaU",
+     "title": "Shinta Gisul - MUTIARA (Live Dangdut Jamming Session Lembayung Music) | Adakah kenyamanan di hatimu",
+     "artist": "Shinta Gisul Official",
+     "thumbnail": "https://i.ytimg.com/vi/gFPNEptUEaU/mqdefault.jpg",
+     "duration": 470,
+     "countries": 1
+    },
+    {
+     "rank": 42,
+     "videoId": "vxffNJmhIRo",
+     "title": "Ninho - BRACELET feat. La Rvfleuze (Clip officiel)",
+     "artist": "Ninho",
+     "thumbnail": "https://i.ytimg.com/vi/vxffNJmhIRo/mqdefault.jpg",
+     "duration": 170,
+     "countries": 1
+    },
+    {
+     "rank": 43,
+     "videoId": "5mnZcoQldHM",
+     "title": "Mahal Magmahal",
+     "artist": "Esremborak",
+     "thumbnail": "https://i.ytimg.com/vi/5mnZcoQldHM/mqdefault.jpg",
+     "duration": 297,
+     "countries": 1
+    },
+    {
+     "rank": 44,
+     "videoId": "-JInUb_G6Jc",
+     "title": "CRASH",
+     "artist": "ALLDAY PROJECT",
+     "thumbnail": "https://i.ytimg.com/vi/-JInUb_G6Jc/mqdefault.jpg",
+     "duration": 173,
+     "countries": 1
+    },
+    {
+     "rank": 45,
+     "videoId": "SGMbCKKW4P8",
+     "title": "Megan Thee Stallion - Tina Tuesday Freestyle",
+     "artist": "Megan Thee Stallion",
+     "thumbnail": "https://i.ytimg.com/vi/SGMbCKKW4P8/mqdefault.jpg",
+     "duration": 117,
+     "countries": 1
+    },
+    {
+     "rank": 46,
+     "videoId": "gaf-pO2PdO8",
+     "title": "Mrs. GREEN APPLE「ア・ポステリオリ」Official Music Video",
+     "artist": "Mrs. GREEN APPLE",
+     "thumbnail": "https://i.ytimg.com/vi/gaf-pO2PdO8/mqdefault.jpg",
+     "duration": 205,
+     "countries": 1
+    },
+    {
+     "rank": 47,
+     "videoId": "4_qFAHdAT94",
+     "title": "Flash - Zé Vaqueiro -Clipe Ía - Dj Keflem - Forró 2026",
+     "artist": "Dj Keflem O Dj Das Comitivas Oficial",
+     "thumbnail": "https://i.ytimg.com/vi/4_qFAHdAT94/mqdefault.jpg",
+     "duration": 155,
+     "countries": 1
+    },
+    {
+     "rank": 48,
+     "videoId": "uT019O77hIY",
+     "title": "#Video | Maai ( माई ) - Power Star Pawan Singh | New Bhojpuri Song 2026",
+     "artist": "Pawan Singh Official",
+     "thumbnail": "https://i.ytimg.com/vi/uT019O77hIY/mqdefault.jpg",
+     "duration": 219,
+     "countries": 1
+    },
+    {
+     "rank": 49,
+     "videoId": "FALbpGQZocM",
+     "title": "Shinta Gisul Ft. Maulana Ardiansyah - DIRANTAI DIGELANGI RINDU (Live Dangdut Jamming Session)",
+     "artist": "TA PRO Music & Publishing",
+     "thumbnail": "https://i.ytimg.com/vi/FALbpGQZocM/mqdefault.jpg",
+     "duration": 381,
+     "countries": 1
+    },
+    {
+     "rank": 50,
+     "videoId": "Yvg6sC31HC4",
+     "title": "Sido x Montez - PUZZLETEIL (prod. by Yanek Stärk) [Official Video]",
+     "artist": "Sido",
+     "thumbnail": "https://i.ytimg.com/vi/Yvg6sC31HC4/mqdefault.jpg",
+     "duration": 168,
+     "countries": 1
+    }
+   ]
+  },
+  {
    "id": "youtube",
-   "title": "YouTube 인기 음악",
+   "title": "한국 인기 음악",
+   "note": "YouTube가 매기는 한국 인기 음악 영상 순서 그대로예요. 최근 조회가 빠르게 느는 영상이 위로 와요.",
    "items": [
     {
      "rank": 1,
