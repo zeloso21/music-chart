@@ -75,6 +75,7 @@
     li img { width: 72px; }
     .dur { display: none; }
   }
+  .note { color: var(--sub); font-size: .8rem; margin: 0 0 8px; }
   .msg { padding: 24px; text-align: center; color: var(--sub); }
 </style>
 </head>
@@ -99,6 +100,7 @@
 
   <section>
     <div class="tabs" id="tabs" role="tablist"></div>
+    <p class="note" id="note"></p>
     <ol id="list"><li class="msg">불러오는 중…</li></ol>
   </section>
 </main>
@@ -137,6 +139,7 @@
   function renderList() {
     const list = $("list");
     list.replaceChildren();
+    $("note").textContent = chart?.note || "";
     if (!chart || !chart.items.length) {
       list.innerHTML = '<li class="msg">곡이 없어요.</li>';
       return;
@@ -160,7 +163,7 @@
       t.textContent = it.title;
       const a = document.createElement("div");
       a.className = "artist";
-      a.textContent = it.artist;
+      a.textContent = it.countries ? `${it.artist} · ${it.countries}개국` : it.artist;
       meta.append(t, a);
       const d = document.createElement("span");
       d.className = "dur";
