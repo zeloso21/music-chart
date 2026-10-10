@@ -8,8 +8,8 @@
 
 - 배포 주소: https://zeloso21.github.io/music-chart/ (저장소 root의 `index.html`)
 - 구성: `fetch_data.py`(차트 수집) → `.github/workflows/update.yml`(매일 06:07 KST, 수동 실행, `main`에 스크립트 바뀌면 실행) → `data.json` → `index.html`(목록 + IFrame 플레이어).
-- `data.json` 형식: `{updated, charts: [{id, title, note, items: [{rank, videoId, title, artist, thumbnail, duration(초), countries?}]}]}`. 탭은 `charts` 항목마다 하나씩 생기고, `note`는 탭 아래 순위 설명이에요.
-- 탭: '전세계 인기 음악'(13개국 `mostPopular` 음악 차트를 점수 합산: 나라마다 1위 50점 … 50위 1점)과 '한국 인기 음악'(KR 순서 그대로). 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 하루 13 unit.
+- `data.json` 형식: `{updated, charts: [{id, title, note, items: [{rank, videoId, title, artist, thumbnail, duration(초), regions?}]}]}`. 탭은 `charts` 항목마다 하나씩 생기고, `note`는 탭 아래 순위 설명이에요.
+- 탭: '전세계'(미국·영국·유럽·일본·한국 5개 지역 `mostPopular` 음악 차트를 점수 합산: 지역마다 1위 50점 … 50위 1점, 유럽은 독일·프랑스·이탈리아·스페인·네덜란드 점수의 평균), '한국'·'일본'(그 나라 순서 그대로). 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 하루 9 unit.
 
 ## 정해진 것 (지켜야 할 규칙)
 
