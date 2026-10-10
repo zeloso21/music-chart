@@ -14,6 +14,7 @@
 1. **API 키는 화면에 넣지 말 것.** 공개 저장소라 `index.html`이나 JS에서 API를 직접 부르면 키가 노출돼요.
    - 키는 GitHub Secrets에 `YOUTUBE_API_KEY`로 등록돼 있어요(YouTube Data API v3, 읽기 전용).
    - **GitHub Actions**가 하루 1회 API를 불러 `data.json`을 만들어 커밋하고, 화면은 `data.json`만 읽어요.
+   - 워크플로 파일에 `permissions: contents: write`를 꼭 넣어야 `data.json`을 커밋할 수 있어요(저장소 기본 권한은 읽기 전용).
    - 같은 사용자의 `zeloso21/kodex200-dashboard`가 이 방식(Actions cron → data.json 자동 커밋)으로 운영 중이에요.
 2. **재생은 YouTube IFrame Player API**로 해요. 공식 플레이어 임베드라 저작권 문제가 없어요.
 3. **퍼가기 금지 영상은 거를 것.** 일부 공식 뮤직비디오는 외부 사이트에서 재생이 막혀 있어요. `videos.list`의 `status.embeddable`이 true인 것만 목록에 넣어요.
