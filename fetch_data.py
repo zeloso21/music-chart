@@ -3,6 +3,7 @@
 GitHub Actions에서 하루 1회 실행돼요. API 키는 환경 변수 YOUTUBE_API_KEY로 받아요.
 videos.list 호출 1회 = 1 unit이라, 4개국을 받아도 하루 4 unit이에요(한도 10,000).
 나라마다 YouTube가 매기는 인기 음악 순서를 그대로 탭 하나로 만들어요.
+곡마다 YouTube 주제 정보(topicDetails)로 장르를 붙여, 화면에서 장르별로 골라 볼 수 있어요.
 """
 
 import json
@@ -20,12 +21,27 @@ MAX_RESULTS = 50
 VIEWER_REGION = "KR"  # 보는 사람이 대부분 한국이라, 한국에서 막힌 영상은 빼요.
 # 탭 순서대로 (나라 코드, 탭 이름)
 COUNTRIES = [("KR", "한국"), ("JP", "일본"), ("US", "미국"), ("GB", "영국")]
+# YouTube 주제(위키백과 문서 이름) → 화면에 보일 장르 이름. 이 순서가 곡의 장르 표시 순서예요.
+GENRES = {
+    "Pop_music": "팝",
+    "Hip_hop_music": "힙합",
+    "Rhythm_and_blues": "R&B·소울",
+    "Soul_music": "R&B·소울",
+    "Rock_music": "록",
+    "Electronic_music": "일렉트로닉",
+    "Independent_music": "인디",
+    "Music_of_Latin_America": "라틴",
+    "Country_music": "컨트리",
+    "Jazz": "재즈",
+    "Classical_music": "클래식",
+    "Reggae": "레게",
+}
 
 
 def fetch_youtube_chart(api_key, region):
     """한 나라의 음악 카테고리(10) 인기 영상 목록을 받아요."""
     params = {
-        "part": "snippet,contentDetails,status",
+        "part": "snippet,contentDetails,status,topicDetails",
         "chart": "mostPopular",
         "regionCode": region,
         "videoCategoryId": "10",
@@ -70,6 +86,16 @@ def playable(video):
     return True
 
 
+def genres_of(video):
+    """topicCategories(위키백과 주소 목록)에서 장르 이름을 뽑아요."""
+    topics = {url.rsplit("/", 1)[-1] for url in video.get("topicDetails", {}).get("topicCategories", [])}
+    names = []
+    for topic, name in GENRES.items():
+        if topic in topics and name not in names:
+            names.append(name)
+    return names
+
+
 def to_item(video, rank, **extra):
     sn = video["snippet"]
     return {
@@ -79,6 +105,7 @@ def to_item(video, rank, **extra):
         "artist": artist_name(sn.get("channelTitle", "")),
         "thumbnail": best_thumbnail(sn.get("thumbnails", {})),
         "duration": parse_duration(video.get("contentDetails", {}).get("duration")),
+        "genres": genres_of(video),
         **extra,
     }
 
