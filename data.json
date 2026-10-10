@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T21:48+09:00",
+ "updated": "2026-10-10T21:58+09:00",
  "charts": [
   {
    "id": "kr",
@@ -12,7 +12,10 @@
      "title": "CRY OUT LOUD",
      "artist": "Roy Kim",
      "thumbnail": "https://i.ytimg.com/vi/R4kmk4CDVHM/mqdefault.jpg",
-     "duration": 237
+     "duration": 237,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 2,
@@ -20,7 +23,12 @@
      "title": "CRASH",
      "artist": "ALLDAY PROJECT",
      "thumbnail": "https://i.ytimg.com/vi/-JInUb_G6Jc/mqdefault.jpg",
-     "duration": 173
+     "duration": 173,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 3,
@@ -28,7 +36,10 @@
      "title": "Still",
      "artist": "N.Flying",
      "thumbnail": "https://i.ytimg.com/vi/JqdlzX5zFzg/mqdefault.jpg",
-     "duration": 187
+     "duration": 187,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 4,
@@ -36,7 +47,8 @@
      "title": "Epilogue",
      "artist": "Parc Jae Jung",
      "thumbnail": "https://i.ytimg.com/vi/rE2gwiBwg9s/mqdefault.jpg",
-     "duration": 326
+     "duration": 326,
+     "genres": []
     },
     {
      "rank": 5,
@@ -44,7 +56,11 @@
      "title": "Call Me",
      "artist": "CHANGMO",
      "thumbnail": "https://i.ytimg.com/vi/C8j3hMJIeFg/mqdefault.jpg",
-     "duration": 176
+     "duration": 176,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 6,
@@ -52,7 +68,11 @@
      "title": "UGRS RIGHT HERE!",
      "artist": "CHANGMO",
      "thumbnail": "https://i.ytimg.com/vi/UC6Al_Ha-kw/mqdefault.jpg",
-     "duration": 190
+     "duration": 190,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 7,
@@ -60,7 +80,10 @@
      "title": "나를 건 미래에 우린",
      "artist": "Boramiyu",
      "thumbnail": "https://i.ytimg.com/vi/ZnPMTLKEh9g/mqdefault.jpg",
-     "duration": 176
+     "duration": 176,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 8,
@@ -68,7 +91,10 @@
      "title": "임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2",
      "artist": "임영웅",
      "thumbnail": "https://i.ytimg.com/vi/-wGXnDzPovw/mqdefault.jpg",
-     "duration": 191
+     "duration": 191,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 9,
@@ -76,7 +102,10 @@
      "title": "The Way We Were",
      "artist": "N.Flying",
      "thumbnail": "https://i.ytimg.com/vi/8CCOcYXiV-I/mqdefault.jpg",
-     "duration": 171
+     "duration": 171,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 10,
@@ -84,7 +113,10 @@
      "title": "ME AND MY CLAN",
      "artist": "CHANGMO",
      "thumbnail": "https://i.ytimg.com/vi/LEyldGY4ggM/mqdefault.jpg",
-     "duration": 152
+     "duration": 152,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 11,
@@ -92,7 +124,12 @@
      "title": "DO IT LIKE THIS",
      "artist": "ALLDAY PROJECT",
      "thumbnail": "https://i.ytimg.com/vi/rr_mHc_Cvyw/mqdefault.jpg",
-     "duration": 135
+     "duration": 135,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 12,
@@ -100,7 +137,10 @@
      "title": "Hongsil",
      "artist": "N.Flying",
      "thumbnail": "https://i.ytimg.com/vi/5_R8DlWZf_Q/mqdefault.jpg",
-     "duration": 156
+     "duration": 156,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 13,
@@ -108,7 +148,10 @@
      "title": "Period",
      "artist": "Woody",
      "thumbnail": "https://i.ytimg.com/vi/Vu0sdxb3A8I/mqdefault.jpg",
-     "duration": 200
+     "duration": 200,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 14,
@@ -116,7 +159,10 @@
      "title": "ICONIC HEART (Korean Version)",
      "artist": "Hearts2Hearts",
      "thumbnail": "https://i.ytimg.com/vi/iUNLe0iD9P8/mqdefault.jpg",
-     "duration": 189
+     "duration": 189,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 15,
@@ -124,7 +170,12 @@
      "title": "TALK",
      "artist": "ALLDAY PROJECT",
      "thumbnail": "https://i.ytimg.com/vi/CbVqeMUJDr8/mqdefault.jpg",
-     "duration": 171
+     "duration": 171,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 16,
@@ -132,7 +183,10 @@
      "title": "눈부신 계절을 달려",
      "artist": "Boramiyu",
      "thumbnail": "https://i.ytimg.com/vi/RHc2-jncx4w/mqdefault.jpg",
-     "duration": 200
+     "duration": 200,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 17,
@@ -140,7 +194,10 @@
      "title": "Dime Girl",
      "artist": "Release",
      "thumbnail": "https://i.ytimg.com/vi/VDxg_Shr_4U/mqdefault.jpg",
-     "duration": 148
+     "duration": 148,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 18,
@@ -148,7 +205,10 @@
      "title": "Recharge Me",
      "artist": "WENDY",
      "thumbnail": "https://i.ytimg.com/vi/MAIWvlrymlE/mqdefault.jpg",
-     "duration": 171
+     "duration": 171,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 19,
@@ -156,7 +216,10 @@
      "title": "Waste My Time",
      "artist": "Marc Atlas",
      "thumbnail": "https://i.ytimg.com/vi/n9h7WZg1oYs/mqdefault.jpg",
-     "duration": 190
+     "duration": 190,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 20,
@@ -164,7 +227,10 @@
      "title": "Mili - Rendezvous [Limbus Company]",
      "artist": "Mili",
      "thumbnail": "https://i.ytimg.com/vi/3gkSzjp-aoY/mqdefault.jpg",
-     "duration": 226
+     "duration": 226,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 21,
@@ -172,7 +238,10 @@
      "title": "Like The First Day",
      "artist": "FTISLAND",
      "thumbnail": "https://i.ytimg.com/vi/apZeMNBM5Gw/mqdefault.jpg",
-     "duration": 231
+     "duration": 231,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 22,
@@ -180,7 +249,10 @@
      "title": "Just because I love you more",
      "artist": "Bangssong",
      "thumbnail": "https://i.ytimg.com/vi/7lhg38sKq_Y/mqdefault.jpg",
-     "duration": 255
+     "duration": 255,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 23,
@@ -188,7 +260,10 @@
      "title": "Toy",
      "artist": "PATEKO",
      "thumbnail": "https://i.ytimg.com/vi/Ra9rIXtlt6M/mqdefault.jpg",
-     "duration": 178
+     "duration": 178,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 24,
@@ -196,7 +271,10 @@
      "title": "Dreamer",
      "artist": "QWER",
      "thumbnail": "https://i.ytimg.com/vi/62qQxaFZFZo/mqdefault.jpg",
-     "duration": 187
+     "duration": 187,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 25,
@@ -204,7 +282,8 @@
      "title": "[MV] ABM - '展示中毒' (Displayholic) feat. 初音ミク",
      "artist": "AnythingBecomeMoe",
      "thumbnail": "https://i.ytimg.com/vi/786OXxbw2aM/mqdefault.jpg",
-     "duration": 143
+     "duration": 143,
+     "genres": []
     },
     {
      "rank": 26,
@@ -212,7 +291,11 @@
      "title": "Know My Name",
      "artist": "True Damage",
      "thumbnail": "https://i.ytimg.com/vi/ON1a7XYDa1E/mqdefault.jpg",
-     "duration": 213
+     "duration": 213,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 27,
@@ -220,7 +303,8 @@
      "title": "Autumn Night(Prod.Rocoberry)",
      "artist": "Joo Hyung Jin",
      "thumbnail": "https://i.ytimg.com/vi/a01vA_7W6Z8/mqdefault.jpg",
-     "duration": 201
+     "duration": 201,
+     "genres": []
     },
     {
      "rank": 28,
@@ -228,7 +312,10 @@
      "title": "OUR STORY ",
      "artist": "WOODZ",
      "thumbnail": "https://i.ytimg.com/vi/nNlojPr1F9k/mqdefault.jpg",
-     "duration": 225
+     "duration": 225,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 29,
@@ -236,7 +323,10 @@
      "title": "musubi",
      "artist": "Ayumu Imazu",
      "thumbnail": "https://i.ytimg.com/vi/HdjrIrRDhic/mqdefault.jpg",
-     "duration": 207
+     "duration": 207,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 30,
@@ -244,7 +334,8 @@
      "title": "김다현 자작곡 : \"광양에서 만난사랑\" 조부모님께 바치는 헌정곡 2026.10.8일 정오 발매 #광양에서만난사랑 #김다현 #광양시 #홍보대사 ",
      "artist": "김다현TV",
      "thumbnail": "https://i.ytimg.com/vi/T86rBo1d_yk/mqdefault.jpg",
-     "duration": 183
+     "duration": 183,
+     "genres": []
     }
    ]
   },
@@ -259,7 +350,10 @@
      "title": "Mrs. GREEN APPLE「共犯」Official Music Video",
      "artist": "Mrs. GREEN APPLE",
      "thumbnail": "https://i.ytimg.com/vi/zq9B35oai2w/mqdefault.jpg",
-     "duration": 250
+     "duration": 250,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 2,
@@ -267,7 +361,10 @@
      "title": "M!LK - 時空超えてユニバース（Dance Practice Movie）",
      "artist": "M!LK",
      "thumbnail": "https://i.ytimg.com/vi/oX6PfHd9BOY/mqdefault.jpg",
-     "duration": 210
+     "duration": 210,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 3,
@@ -275,7 +372,10 @@
      "title": "Mrs. GREEN APPLE「ア・ポステリオリ」Official Music Video",
      "artist": "Mrs. GREEN APPLE",
      "thumbnail": "https://i.ytimg.com/vi/gaf-pO2PdO8/mqdefault.jpg",
-     "duration": 205
+     "duration": 205,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 4,
@@ -283,7 +383,10 @@
      "title": "Ayumu Imazu - 結び [Lyric Video]",
      "artist": "Ayumu Imazu",
      "thumbnail": "https://i.ytimg.com/vi/LnG4ekpYFug/mqdefault.jpg",
-     "duration": 207
+     "duration": 207,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 5,
@@ -291,7 +394,10 @@
      "title": "なにわ男子 - Moonlit [Official Music Video]",
      "artist": "なにわ男子",
      "thumbnail": "https://i.ytimg.com/vi/-7Tar3VlrIw/mqdefault.jpg",
-     "duration": 267
+     "duration": 267,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 6,
@@ -299,7 +405,10 @@
      "title": "SixTONES –「Battery」from LIVE DVD/BD「MILESixTONES」(2026.3.26 YOKOHAMA ARENA)",
      "artist": "SixTONES",
      "thumbnail": "https://i.ytimg.com/vi/W6abYxqfCPU/mqdefault.jpg",
-     "duration": 162
+     "duration": 162,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 7,
@@ -307,7 +416,11 @@
      "title": "KAITO「swim?」Music Video",
      "artist": "KAITO",
      "thumbnail": "https://i.ytimg.com/vi/hML9ZiIRuuQ/mqdefault.jpg",
-     "duration": 212
+     "duration": 212,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 8,
@@ -315,7 +428,10 @@
      "title": "Cinderella",
      "artist": "Mrs. GREEN APPLE",
      "thumbnail": "https://i.ytimg.com/vi/YYSnrmuz6WI/mqdefault.jpg",
-     "duration": 276
+     "duration": 276,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 9,
@@ -323,7 +439,10 @@
      "title": "Aぇ! group - Mrs.Vampire（Dance Practice）",
      "artist": "Aぇ! group",
      "thumbnail": "https://i.ytimg.com/vi/j5yxDVboR00/mqdefault.jpg",
-     "duration": 197
+     "duration": 197,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 10,
@@ -331,7 +450,10 @@
      "title": "Lienel「愛のダバダ」Music Video",
      "artist": "Lienel",
      "thumbnail": "https://i.ytimg.com/vi/Bps8y7mAVjM/mqdefault.jpg",
-     "duration": 223
+     "duration": 223,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 11,
@@ -339,7 +461,11 @@
      "title": "Aiobahn +81 feat. DEMONDICE - DEMON'S SHOT (Official MV) [Theme for PUKEY GODDESS SHOT TRICK]",
      "artist": "Aiobahn",
      "thumbnail": "https://i.ytimg.com/vi/OWDcn7hl16A/mqdefault.jpg",
-     "duration": 262
+     "duration": 262,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 12,
@@ -347,7 +473,10 @@
      "title": "KO1KEYZ (コイキーズ)｜'KO1KEYZ' (Korean ver.) Performance Video",
      "artist": "KO1KEYZ",
      "thumbnail": "https://i.ytimg.com/vi/wCp_X6CBQS8/mqdefault.jpg",
-     "duration": 201
+     "duration": 201,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 13,
@@ -355,7 +484,10 @@
      "title": "ONE N' ONLY／ “Golden Sun” Music Video",
      "artist": "ONE N' ONLY TV",
      "thumbnail": "https://i.ytimg.com/vi/IuaNJzi21a0/mqdefault.jpg",
-     "duration": 227
+     "duration": 227,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 14,
@@ -363,7 +495,10 @@
      "title": "MAZZEL × STARGLOW / Nameless MythS -Music Video-",
      "artist": "BMSG",
      "thumbnail": "https://i.ytimg.com/vi/nn2V3mptPLg/mqdefault.jpg",
-     "duration": 257
+     "duration": 257,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 15,
@@ -371,7 +506,10 @@
      "title": "#Kroi - SPIN [Official Video] (スティール・ボール・ラン ジョジョの奇妙な冒険 オープニングテーマ)",
      "artist": "Kroi",
      "thumbnail": "https://i.ytimg.com/vi/smFp0sksH84/mqdefault.jpg",
-     "duration": 306
+     "duration": 306,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 16,
@@ -379,7 +517,8 @@
      "title": "AIYOU - Eve Music Video",
      "artist": "Eve",
      "thumbnail": "https://i.ytimg.com/vi/2rhLKnWCo6Y/mqdefault.jpg",
-     "duration": 165
+     "duration": 165,
+     "genres": []
     },
     {
      "rank": 17,
@@ -387,7 +526,8 @@
      "title": "【MV】怠。 / ILLGATOR",
      "artist": "Paradox Live 公式チャンネル",
      "thumbnail": "https://i.ytimg.com/vi/FvRaYwGW0k4/mqdefault.jpg",
-     "duration": 184
+     "duration": 184,
+     "genres": []
     },
     {
      "rank": 18,
@@ -395,7 +535,10 @@
      "title": "akanesasu",
      "artist": "ZUTOMAYO",
      "thumbnail": "https://i.ytimg.com/vi/L_vrDEBzd_M/mqdefault.jpg",
-     "duration": 211
+     "duration": 211,
+     "genres": [
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 19,
@@ -403,7 +546,11 @@
      "title": "NiziU(니쥬) \"Sour Grapes\" M/V",
      "artist": "JYP Entertainment",
      "thumbnail": "https://i.ytimg.com/vi/9M4W-t8_zK8/mqdefault.jpg",
-     "duration": 189
+     "duration": 189,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 20,
@@ -411,7 +558,8 @@
      "title": "エメラルド / キタニタツヤ - Emerald / Tatsuya Kitani",
      "artist": "キタニタツヤ / Tatsuya Kitani",
      "thumbnail": "https://i.ytimg.com/vi/58TbfRY2R8Y/mqdefault.jpg",
-     "duration": 238
+     "duration": 238,
+     "genres": []
     },
     {
      "rank": 21,
@@ -419,7 +567,11 @@
      "title": "Eric.B.Jr - Hustler feat. X 1ark & HIBIKI | 03- Performance | From Osaka | Prod by Lion Melo",
      "artist": "03- Performance",
      "thumbnail": "https://i.ytimg.com/vi/KoEN4uhgAj0/mqdefault.jpg",
-     "duration": 231
+     "duration": 231,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 22,
@@ -427,7 +579,11 @@
      "title": "BE:FIRST / DEAD EYES EVERYWHERE feat. ATL Jacob -Special Dance Performance-",
      "artist": "BE:FIRST Official",
      "thumbnail": "https://i.ytimg.com/vi/gFv6CAD5rcc/mqdefault.jpg",
-     "duration": 158
+     "duration": 158,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 23,
@@ -435,7 +591,11 @@
      "title": "JO1 | 'ANIMAL' Official MV",
      "artist": "JO1",
      "thumbnail": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
-     "duration": 198
+     "duration": 198,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 24,
@@ -443,7 +603,10 @@
      "title": "SILENT KILLA JOINT vs MU-TON：MC BATTLE MATSURI Vol.5 －新宿STYLE－【1on1ルール】",
      "artist": "KING OF KINGS",
      "thumbnail": "https://i.ytimg.com/vi/HM-IKNFo_YA/mqdefault.jpg",
-     "duration": 444
+     "duration": 444,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 25,
@@ -451,7 +614,8 @@
      "title": "ボルテッカー feat. 初音ミク / DECO*27 【加賀美ハヤト Cover】#にじポケミクリレー",
      "artist": "加賀美 ハヤト/Hayato Kagami",
      "thumbnail": "https://i.ytimg.com/vi/iWsLWfkFJUk/mqdefault.jpg",
-     "duration": 154
+     "duration": 154,
+     "genres": []
     },
     {
      "rank": 26,
@@ -459,7 +623,10 @@
      "title": "京本大我 – Butterfly",
      "artist": "京本大我 from ART-PUT",
      "thumbnail": "https://i.ytimg.com/vi/1Gw28BgEp6o/mqdefault.jpg",
-     "duration": 216
+     "duration": 216,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 27,
@@ -467,7 +634,10 @@
      "title": "初星学園 「Agitato」Official Music Video (HATSUBOSHI GAKUEN - Agitato)",
      "artist": "初星学園",
      "thumbnail": "https://i.ytimg.com/vi/hSg9Yb28vZA/mqdefault.jpg",
-     "duration": 202
+     "duration": 202,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 28,
@@ -475,7 +645,8 @@
      "title": "板倉可奈 (CUTIE STREET) - DOLL / HIGHLIGHT",
      "artist": "THE FIRST TAKE",
      "thumbnail": "https://i.ytimg.com/vi/nUmNCyxE29A/mqdefault.jpg",
-     "duration": 139
+     "duration": 139,
+     "genres": []
     },
     {
      "rank": 29,
@@ -483,7 +654,12 @@
      "title": "Vaundy LIVE ＂しわあわせ＂(映画『ママがもうこの世界にいなくても 私の命の日記』主題歌) | ASIA ARENA TOUR 2026@ INSPIRE ARENA in SEOUL",
      "artist": "Vaundy",
      "thumbnail": "https://i.ytimg.com/vi/NuPVr1BxqU8/mqdefault.jpg",
-     "duration": 278
+     "duration": 278,
+     "genres": [
+      "팝",
+      "록",
+      "인디"
+     ]
     }
    ]
   },
@@ -498,7 +674,11 @@
      "title": "Taylor Swift - Patient Zero (Official Music Video)",
      "artist": "Taylor Swift",
      "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
-     "duration": 313
+     "duration": 313,
+     "genres": [
+      "팝",
+      "인디"
+     ]
     },
     {
      "rank": 2,
@@ -506,7 +686,11 @@
      "title": "Megan Thee Stallion - Is You Cool? - Tina Tuesday Freestyle",
      "artist": "Megan Thee Stallion",
      "thumbnail": "https://i.ytimg.com/vi/qePuy07EjnE/mqdefault.jpg",
-     "duration": 107
+     "duration": 107,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 3,
@@ -514,7 +698,11 @@
      "title": "Megan Thee Stallion - Tina Tuesday Freestyle",
      "artist": "Megan Thee Stallion",
      "thumbnail": "https://i.ytimg.com/vi/SGMbCKKW4P8/mqdefault.jpg",
-     "duration": 117
+     "duration": 117,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 4,
@@ -522,7 +710,11 @@
      "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
      "artist": "Bulin 47 Oficial",
      "thumbnail": "https://i.ytimg.com/vi/VUIgT-E4IS0/mqdefault.jpg",
-     "duration": 125
+     "duration": 125,
+     "genres": [
+      "힙합",
+      "라틴"
+     ]
     },
     {
      "rank": 5,
@@ -530,7 +722,11 @@
      "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
      "artist": "Romeo Santos",
      "thumbnail": "https://i.ytimg.com/vi/PVVKKwYeEQs/mqdefault.jpg",
-     "duration": 216
+     "duration": 216,
+     "genres": [
+      "팝",
+      "라틴"
+     ]
     },
     {
      "rank": 6,
@@ -538,7 +734,10 @@
      "title": "Solar Eclipse",
      "artist": "Drake",
      "thumbnail": "https://i.ytimg.com/vi/eJFi2TK5174/mqdefault.jpg",
-     "duration": 219
+     "duration": 219,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 7,
@@ -546,7 +745,11 @@
      "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
      "artist": "LilBabyVEVO",
      "thumbnail": "https://i.ytimg.com/vi/Zb3H_W6z9Ak/mqdefault.jpg",
-     "duration": 254
+     "duration": 254,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 8,
@@ -554,7 +757,12 @@
      "title": "Quebec",
      "artist": "Drake",
      "thumbnail": "https://i.ytimg.com/vi/6gRbAU4Puek/mqdefault.jpg",
-     "duration": 131
+     "duration": 131,
+     "genres": [
+      "팝",
+      "힙합",
+      "R&B·소울"
+     ]
     },
     {
      "rank": 9,
@@ -562,7 +770,11 @@
      "title": "Ricardo Arjona y Grupo Firme - Amor Factura (Video Oficial)  ⁨@ArjonaOficial @GrupoFirmeOficial",
      "artist": "Ricardo Arjona",
      "thumbnail": "https://i.ytimg.com/vi/WDgiZpKJBHQ/mqdefault.jpg",
-     "duration": 237
+     "duration": 237,
+     "genres": [
+      "팝",
+      "라틴"
+     ]
     },
     {
      "rank": 10,
@@ -570,7 +782,10 @@
      "title": "5.0",
      "artist": "LOS DOS DE TAMAULIPAS",
      "thumbnail": "https://i.ytimg.com/vi/gpjocObn2BQ/mqdefault.jpg",
-     "duration": 144
+     "duration": 144,
+     "genres": [
+      "라틴"
+     ]
     },
     {
      "rank": 11,
@@ -578,7 +793,11 @@
      "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
      "artist": "Kid Rock",
      "thumbnail": "https://i.ytimg.com/vi/JdXdQsP2_9M/mqdefault.jpg",
-     "duration": 345
+     "duration": 345,
+     "genres": [
+      "팝",
+      "록"
+     ]
     },
     {
      "rank": 12,
@@ -586,7 +805,10 @@
      "title": "Cold Shoulder",
      "artist": "Drake",
      "thumbnail": "https://i.ytimg.com/vi/bzO58iQM19g/mqdefault.jpg",
-     "duration": 235
+     "duration": 235,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 13,
@@ -594,7 +816,12 @@
      "title": "Anuel AA - Vuelve (Video Oficial)",
      "artist": "Anuel AA",
      "thumbnail": "https://i.ytimg.com/vi/3juuih0WdH8/mqdefault.jpg",
-     "duration": 290
+     "duration": 290,
+     "genres": [
+      "팝",
+      "힙합",
+      "라틴"
+     ]
     },
     {
      "rank": 14,
@@ -602,7 +829,11 @@
      "title": "Gunna - pop it [Official Video]",
      "artist": "Gunna",
      "thumbnail": "https://i.ytimg.com/vi/48rRv5ISfrg/mqdefault.jpg",
-     "duration": 178
+     "duration": 178,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 15,
@@ -610,7 +841,11 @@
      "title": "Bruno Mars - Dance With Me [Official Music Video]",
      "artist": "Bruno Mars",
      "thumbnail": "https://i.ytimg.com/vi/1l7wbZmdtys/mqdefault.jpg",
-     "duration": 220
+     "duration": 220,
+     "genres": [
+      "팝",
+      "R&B·소울"
+     ]
     },
     {
      "rank": 16,
@@ -618,7 +853,11 @@
      "title": "Tomala Cochino - Cartel de Santa | @elcarteldesantatv",
      "artist": "elcarteldesantatv",
      "thumbnail": "https://i.ytimg.com/vi/l9T2RuAKRLs/mqdefault.jpg",
-     "duration": 210
+     "duration": 210,
+     "genres": [
+      "힙합",
+      "라틴"
+     ]
     },
     {
      "rank": 17,
@@ -626,7 +865,12 @@
      "title": "DADDY YANKEE-  BOTZ (Bésame OTra veZ) Official Video",
      "artist": "Daddy Yankee",
      "thumbnail": "https://i.ytimg.com/vi/ZfdwnCz-kiA/mqdefault.jpg",
-     "duration": 198
+     "duration": 198,
+     "genres": [
+      "팝",
+      "힙합",
+      "라틴"
+     ]
     },
     {
      "rank": 18,
@@ -634,7 +878,10 @@
      "title": "Fullychop - Rap n Clap (Official Music Video)",
      "artist": "FullyChop",
      "thumbnail": "https://i.ytimg.com/vi/Qd76DppRIjk/mqdefault.jpg",
-     "duration": 126
+     "duration": 126,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 19,
@@ -642,7 +889,10 @@
      "title": "Paciencia",
      "artist": "LOS DOS DE TAMAULIPAS",
      "thumbnail": "https://i.ytimg.com/vi/gXSQdXSPsDs/mqdefault.jpg",
-     "duration": 157
+     "duration": 157,
+     "genres": [
+      "라틴"
+     ]
     },
     {
      "rank": 20,
@@ -650,7 +900,10 @@
      "title": "Come Back To Me",
      "artist": "Russ",
      "thumbnail": "https://i.ytimg.com/vi/5L8HtOh-RMw/mqdefault.jpg",
-     "duration": 187
+     "duration": 187,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 21,
@@ -658,7 +911,12 @@
      "title": "EZ MIL & Eminem - MADARA (feat. Neil Kaplan & Hideyoshi) [Official Lyric Video]",
      "artist": "EZ MIL",
      "thumbnail": "https://i.ytimg.com/vi/9KVsSUFW5Bk/mqdefault.jpg",
-     "duration": 297
+     "duration": 297,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 22,
@@ -666,7 +924,11 @@
      "title": "Kodak Black - Little Birdie  [Official Music Video]",
      "artist": "Kodak Black",
      "thumbnail": "https://i.ytimg.com/vi/Lca7VGqAHaY/mqdefault.jpg",
-     "duration": 157
+     "duration": 157,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 23,
@@ -674,7 +936,12 @@
      "title": "Natanael Cano x Tito Double P x Victor Mendivil x Ovi - OLIVIA LA FLAKA [Oficial Video]",
      "artist": "Natanael Cano",
      "thumbnail": "https://i.ytimg.com/vi/MYFFA242azM/mqdefault.jpg",
-     "duration": 363
+     "duration": 363,
+     "genres": [
+      "팝",
+      "힙합",
+      "라틴"
+     ]
     },
     {
      "rank": 24,
@@ -682,7 +949,10 @@
      "title": "En Dios Confío",
      "artist": "LOS DOS DE TAMAULIPAS",
      "thumbnail": "https://i.ytimg.com/vi/yFMNbaD9-uo/mqdefault.jpg",
-     "duration": 165
+     "duration": 165,
+     "genres": [
+      "라틴"
+     ]
     },
     {
      "rank": 25,
@@ -690,7 +960,10 @@
      "title": "Jane!",
      "artist": "The Long Faces",
      "thumbnail": "https://i.ytimg.com/vi/_aKgAniBxY8/mqdefault.jpg",
-     "duration": 187
+     "duration": 187,
+     "genres": [
+      "인디"
+     ]
     },
     {
      "rank": 26,
@@ -698,7 +971,11 @@
      "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
      "artist": "Taylor Swift",
      "thumbnail": "https://i.ytimg.com/vi/jfVVXYTZykw/mqdefault.jpg",
-     "duration": 210
+     "duration": 210,
+     "genres": [
+      "팝",
+      "인디"
+     ]
     },
     {
      "rank": 27,
@@ -706,7 +983,11 @@
      "title": "hunnid PROBLEMS.",
      "artist": "YFN Lucci",
      "thumbnail": "https://i.ytimg.com/vi/MWULhyrh998/mqdefault.jpg",
-     "duration": 190
+     "duration": 190,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 28,
@@ -714,7 +995,11 @@
      "title": "Troye Sivan - FF (Official Music Video)",
      "artist": "TroyeSivanVEVO",
      "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
-     "duration": 292
+     "duration": 292,
+     "genres": [
+      "팝",
+      "인디"
+     ]
     },
     {
      "rank": 29,
@@ -722,7 +1007,11 @@
      "title": "Waiting Room",
      "artist": "Overgrown",
      "thumbnail": "https://i.ytimg.com/vi/wJa1pwW28fM/mqdefault.jpg",
-     "duration": 183
+     "duration": 183,
+     "genres": [
+      "팝",
+      "록"
+     ]
     },
     {
      "rank": 30,
@@ -730,7 +1019,11 @@
      "title": "Ayra Starr - Heaven Baby ft. ZAYN",
      "artist": "AyraStarrVEVO",
      "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
-     "duration": 165
+     "duration": 165,
+     "genres": [
+      "팝",
+      "R&B·소울"
+     ]
     }
    ]
   },
@@ -745,7 +1038,11 @@
      "title": "Morrisson - COS OF YOU (Official Music Video)",
      "artist": "Morrisson",
      "thumbnail": "https://i.ytimg.com/vi/QFmMN7TfXlA/mqdefault.jpg",
-     "duration": 363
+     "duration": 363,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 2,
@@ -753,7 +1050,11 @@
      "title": "Taylor Swift - Patient Zero (Official Music Video)",
      "artist": "Taylor Swift",
      "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
-     "duration": 313
+     "duration": 313,
+     "genres": [
+      "팝",
+      "인디"
+     ]
     },
     {
      "rank": 3,
@@ -761,7 +1062,11 @@
      "title": "Ayra Starr - Heaven Baby ft. ZAYN",
      "artist": "AyraStarrVEVO",
      "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
-     "duration": 165
+     "duration": 165,
+     "genres": [
+      "팝",
+      "R&B·소울"
+     ]
     },
     {
      "rank": 4,
@@ -769,7 +1074,11 @@
      "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
      "artist": "Karan Aujla",
      "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg",
-     "duration": 218
+     "duration": 218,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 5,
@@ -777,7 +1086,8 @@
      "title": "Tzanca Uraganu - Condeiul cu cerneala neagra [videoclip oficial] 2026",
      "artist": "Tzanca Uraganu",
      "thumbnail": "https://i.ytimg.com/vi/Cz7Pd9n3quE/mqdefault.jpg",
-     "duration": 158
+     "duration": 158,
+     "genres": []
     },
     {
      "rank": 6,
@@ -785,7 +1095,11 @@
      "title": "Headie One - 'TALKIN MY LANGUAGE' (Music Video)",
      "artist": "Headie One",
      "thumbnail": "https://i.ytimg.com/vi/3Rmi6JBZjAE/mqdefault.jpg",
-     "duration": 161
+     "duration": 161,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 7,
@@ -793,7 +1107,10 @@
      "title": "manifest - TRALALA | Official Music Video",
      "artist": "manifest",
      "thumbnail": "https://i.ytimg.com/vi/0rW7Fbm4S7g/mqdefault.jpg",
-     "duration": 230
+     "duration": 230,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 8,
@@ -801,7 +1118,10 @@
      "title": "Arjan Dhillon - Said & Done | Qarn Mallhi",
      "artist": "Brown Studios",
      "thumbnail": "https://i.ytimg.com/vi/mD_IvsomgLc/mqdefault.jpg",
-     "duration": 193
+     "duration": 193,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 9,
@@ -809,7 +1129,11 @@
      "title": "Bugzy Malone - Tears (Official Video)",
      "artist": "Bugzy Malone",
      "thumbnail": "https://i.ytimg.com/vi/1GKyX3PFW-Q/mqdefault.jpg",
-     "duration": 198
+     "duration": 198,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 10,
@@ -817,7 +1141,12 @@
      "title": "EZ MIL & Eminem - MADARA (feat. Neil Kaplan & Hideyoshi) [Official Lyric Video]",
      "artist": "EZ MIL",
      "thumbnail": "https://i.ytimg.com/vi/9KVsSUFW5Bk/mqdefault.jpg",
-     "duration": 297
+     "duration": 297,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 11,
@@ -825,7 +1154,8 @@
      "title": "Toni de la Brasov  ❌️  Roberto Bunea  ❌️  Armăsarul",
      "artist": "AmmA Music & Sound",
      "thumbnail": "https://i.ytimg.com/vi/I5JGLhUQDHs/mqdefault.jpg",
-     "duration": 157
+     "duration": 157,
+     "genres": []
     },
     {
      "rank": 12,
@@ -833,7 +1163,12 @@
      "title": "Drake, Don Toliver - Solar Eclipse",
      "artist": "DrakeVEVO",
      "thumbnail": "https://i.ytimg.com/vi/vBk30V8AukM/mqdefault.jpg",
-     "duration": 245
+     "duration": 245,
+     "genres": [
+      "팝",
+      "힙합",
+      "R&B·소울"
+     ]
     },
     {
      "rank": 13,
@@ -841,7 +1176,11 @@
      "title": "Troye Sivan - FF (Official Music Video)",
      "artist": "TroyeSivanVEVO",
      "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
-     "duration": 292
+     "duration": 292,
+     "genres": [
+      "팝",
+      "인디"
+     ]
     },
     {
      "rank": 14,
@@ -849,7 +1188,10 @@
      "title": "INAT - Zeynep Bastık X Dhurata Dora | Music Video",
      "artist": "Zeynep Bastık",
      "thumbnail": "https://i.ytimg.com/vi/4Xc6P3m3mtc/mqdefault.jpg",
-     "duration": 178
+     "duration": 178,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 15,
@@ -857,7 +1199,12 @@
      "title": "Marin x Dafina Zeqiri - KIKI",
      "artist": "MarinOfficial",
      "thumbnail": "https://i.ytimg.com/vi/y262dp3nqKY/mqdefault.jpg",
-     "duration": 147
+     "duration": 147,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 16,
@@ -865,7 +1212,8 @@
      "title": "Florin Cercel ❌️ Edward Sanda - O sa fie bine [Video Oficial] 2026",
      "artist": "FLORIN CERCEL",
      "thumbnail": "https://i.ytimg.com/vi/uEJA-OZ75VU/mqdefault.jpg",
-     "duration": 254
+     "duration": 254,
+     "genres": []
     },
     {
      "rank": 17,
@@ -873,7 +1221,11 @@
      "title": "SIENNA SPIRO - Great Expectation (Live from the 2026 VMAs)",
      "artist": "SiennaSpiroVEVO",
      "thumbnail": "https://i.ytimg.com/vi/d2-dpM0crY0/mqdefault.jpg",
-     "duration": 184
+     "duration": 184,
+     "genres": [
+      "팝",
+      "R&B·소울"
+     ]
     },
     {
      "rank": 18,
@@ -881,7 +1233,11 @@
      "title": "Girls All Around The World",
      "artist": "Digga",
      "thumbnail": "https://i.ytimg.com/vi/dFK83k379mU/mqdefault.jpg",
-     "duration": 108
+     "duration": 108,
+     "genres": [
+      "힙합",
+      "레게"
+     ]
     },
     {
      "rank": 19,
@@ -889,7 +1245,11 @@
      "title": "Marnz Malone x Clavish - Get It How You Live (Official Music Video)",
      "artist": "Marnz Malone",
      "thumbnail": "https://i.ytimg.com/vi/VQC1XXfsPrI/mqdefault.jpg",
-     "duration": 272
+     "duration": 272,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 20,
@@ -897,7 +1257,12 @@
      "title": "Chalre Chalre Waal Female Version - Tu Sanwal Phul Kasturi Song ❤️ Instagram Trending song 2026",
      "artist": "ISAR\"MUSIC",
      "thumbnail": "https://i.ytimg.com/vi/Q4ryZfcMg3A/mqdefault.jpg",
-     "duration": 270
+     "duration": 270,
+     "genres": [
+      "팝",
+      "R&B·소울",
+      "클래식"
+     ]
     },
     {
      "rank": 21,
@@ -905,7 +1270,11 @@
      "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
      "artist": "Sidhu Moose Wala",
      "thumbnail": "https://i.ytimg.com/vi/C9OmyNRyz4E/mqdefault.jpg",
-     "duration": 357
+     "duration": 357,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 22,
@@ -913,7 +1282,11 @@
      "title": "Blaqbonez- Ikebe 3000 (feat. Asake) [Official Music Video]",
      "artist": "Blaqbonez",
      "thumbnail": "https://i.ytimg.com/vi/3g6deNjbuxs/mqdefault.jpg",
-     "duration": 218
+     "duration": 218,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
     },
     {
      "rank": 23,
@@ -921,7 +1294,11 @@
      "title": "Moving To The Sun",
      "artist": "quitjob",
      "thumbnail": "https://i.ytimg.com/vi/Huj-UJ8LKhI/mqdefault.jpg",
-     "duration": 152
+     "duration": 152,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 24,
@@ -929,7 +1306,10 @@
      "title": "Aujla Szn (Official Audio) Karan Aujla  | Mxrci  | Aujla Szn 1",
      "artist": "Karan Aujla",
      "thumbnail": "https://i.ytimg.com/vi/gpkYsJighUY/mqdefault.jpg",
-     "duration": 219
+     "duration": 219,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 25,
@@ -937,7 +1317,10 @@
      "title": "GGL WUNI X KWENGFACE - WAIT UP (OFFICIAL MUSIC VIDEO)",
      "artist": "Kwengface",
      "thumbnail": "https://i.ytimg.com/vi/-BGuJUq5D0g/mqdefault.jpg",
-     "duration": 152
+     "duration": 152,
+     "genres": [
+      "힙합"
+     ]
     },
     {
      "rank": 26,
@@ -945,7 +1328,12 @@
      "title": "French Montana, Max B, Skepta, D-Block Europe - Ever Since U Left Me (UK Remix) [Official Video]",
      "artist": "French Montana",
      "thumbnail": "https://i.ytimg.com/vi/jvsXV3m26e8/mqdefault.jpg",
-     "duration": 137
+     "duration": 137,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 27,
@@ -953,7 +1341,12 @@
      "title": "BADASS",
      "artist": "Arjan Dhillon",
      "thumbnail": "https://i.ytimg.com/vi/pBxrtb89y_I/mqdefault.jpg",
-     "duration": 162
+     "duration": 162,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
     },
     {
      "rank": 28,
@@ -961,7 +1354,10 @@
      "title": "Luis Gabriel & @Haziran - Inimă fără noroc ❤️‍🩹 Official Video",
      "artist": "Luis Gabriel",
      "thumbnail": "https://i.ytimg.com/vi/Mts930Jx-3M/mqdefault.jpg",
-     "duration": 243
+     "duration": 243,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 29,
@@ -969,7 +1365,11 @@
      "title": "ANGEL",
      "artist": "EXTISI",
      "thumbnail": "https://i.ytimg.com/vi/cNWDNq4NVrY/mqdefault.jpg",
-     "duration": 130
+     "duration": 130,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
     }
    ]
   }
