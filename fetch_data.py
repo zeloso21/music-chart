@@ -38,19 +38,33 @@ GENRES = {
 }
 
 
-def fetch_youtube_chart(api_key, region):
-    """한 나라의 음악 카테고리(10) 인기 영상 목록을 받아요."""
-    params = {
-        "part": "snippet,contentDetails,status,topicDetails",
-        "chart": "mostPopular",
-        "regionCode": region,
-        "videoCategoryId": "10",
-        "maxResults": str(MAX_RESULTS),
-        "key": api_key,
-    }
-    url = API_URL + "?" + urllib.parse.urlencode(params)
-    with urllib.request.urlopen(url, timeout=30) as res:
-        return json.load(res).get("items", [])
+def fetch_youtube_chart(api_key, region, limit=MAX_RESULTS):
+    """한 나라의 음악 카테고리(10) 인기 영상 목록을 최대 limit개 받아요.
+
+    다음 페이지(nextPageToken)가 있으면 이어서 받아요. 페이지마다 1 unit이에요.
+    """
+    items, token = [], None
+    while len(items) < limit:
+        params = {
+            "part": "snippet,contentDetails,status,topicDetails",
+            "chart": "mostPopular",
+            "regionCode": region,
+            "videoCategoryId": "10",
+            "maxResults": str(min(50, limit - len(items))),
+            "key": api_key,
+        }
+        if token:
+            params["pageToken"] = token
+        url = API_URL + "?" + urllib.parse.urlencode(params)
+        with urllib.request.urlopen(url, timeout=30) as res:
+            page = json.load(res)
+        items += page.get("items", [])
+        # YouTube가 알려 주는 차트 전체 길이를 남겨 둬요(30곡만 오는 이유 확인용).
+        print(f"  {region}: {len(page.get('items', []))}개 받음, 전체 {page.get('pageInfo', {}).get('totalResults')}개")
+        token = page.get("nextPageToken")
+        if not token:
+            break
+    return items[:limit]
 
 
 def parse_duration(iso):
