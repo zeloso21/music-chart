@@ -1,0 +1,251 @@
+{
+ "updated": "2026-10-10T20:50+09:00",
+ "charts": [
+  {
+   "id": "youtube",
+   "title": "YouTube 인기 음악",
+   "items": [
+    {
+     "rank": 1,
+     "videoId": "R4kmk4CDVHM",
+     "title": "CRY OUT LOUD",
+     "artist": "Roy Kim",
+     "thumbnail": "https://i.ytimg.com/vi/R4kmk4CDVHM/mqdefault.jpg",
+     "duration": 237
+    },
+    {
+     "rank": 2,
+     "videoId": "-JInUb_G6Jc",
+     "title": "CRASH",
+     "artist": "ALLDAY PROJECT",
+     "thumbnail": "https://i.ytimg.com/vi/-JInUb_G6Jc/mqdefault.jpg",
+     "duration": 173
+    },
+    {
+     "rank": 3,
+     "videoId": "JqdlzX5zFzg",
+     "title": "Still",
+     "artist": "N.Flying",
+     "thumbnail": "https://i.ytimg.com/vi/JqdlzX5zFzg/mqdefault.jpg",
+     "duration": 187
+    },
+    {
+     "rank": 4,
+     "videoId": "rE2gwiBwg9s",
+     "title": "Epilogue",
+     "artist": "Parc Jae Jung",
+     "thumbnail": "https://i.ytimg.com/vi/rE2gwiBwg9s/mqdefault.jpg",
+     "duration": 326
+    },
+    {
+     "rank": 5,
+     "videoId": "C8j3hMJIeFg",
+     "title": "Call Me",
+     "artist": "CHANGMO",
+     "thumbnail": "https://i.ytimg.com/vi/C8j3hMJIeFg/mqdefault.jpg",
+     "duration": 176
+    },
+    {
+     "rank": 6,
+     "videoId": "UC6Al_Ha-kw",
+     "title": "UGRS RIGHT HERE!",
+     "artist": "CHANGMO",
+     "thumbnail": "https://i.ytimg.com/vi/UC6Al_Ha-kw/mqdefault.jpg",
+     "duration": 190
+    },
+    {
+     "rank": 7,
+     "videoId": "ZnPMTLKEh9g",
+     "title": "나를 건 미래에 우린",
+     "artist": "Boramiyu",
+     "thumbnail": "https://i.ytimg.com/vi/ZnPMTLKEh9g/mqdefault.jpg",
+     "duration": 176
+    },
+    {
+     "rank": 8,
+     "videoId": "-wGXnDzPovw",
+     "title": "임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2",
+     "artist": "임영웅",
+     "thumbnail": "https://i.ytimg.com/vi/-wGXnDzPovw/mqdefault.jpg",
+     "duration": 191
+    },
+    {
+     "rank": 9,
+     "videoId": "8CCOcYXiV-I",
+     "title": "The Way We Were",
+     "artist": "N.Flying",
+     "thumbnail": "https://i.ytimg.com/vi/8CCOcYXiV-I/mqdefault.jpg",
+     "duration": 171
+    },
+    {
+     "rank": 10,
+     "videoId": "LEyldGY4ggM",
+     "title": "ME AND MY CLAN",
+     "artist": "CHANGMO",
+     "thumbnail": "https://i.ytimg.com/vi/LEyldGY4ggM/mqdefault.jpg",
+     "duration": 152
+    },
+    {
+     "rank": 11,
+     "videoId": "rr_mHc_Cvyw",
+     "title": "DO IT LIKE THIS",
+     "artist": "ALLDAY PROJECT",
+     "thumbnail": "https://i.ytimg.com/vi/rr_mHc_Cvyw/mqdefault.jpg",
+     "duration": 135
+    },
+    {
+     "rank": 12,
+     "videoId": "5_R8DlWZf_Q",
+     "title": "Hongsil",
+     "artist": "N.Flying",
+     "thumbnail": "https://i.ytimg.com/vi/5_R8DlWZf_Q/mqdefault.jpg",
+     "duration": 156
+    },
+    {
+     "rank": 13,
+     "videoId": "Vu0sdxb3A8I",
+     "title": "Period",
+     "artist": "Woody",
+     "thumbnail": "https://i.ytimg.com/vi/Vu0sdxb3A8I/mqdefault.jpg",
+     "duration": 200
+    },
+    {
+     "rank": 14,
+     "videoId": "iUNLe0iD9P8",
+     "title": "ICONIC HEART (Korean Version)",
+     "artist": "Hearts2Hearts",
+     "thumbnail": "https://i.ytimg.com/vi/iUNLe0iD9P8/mqdefault.jpg",
+     "duration": 189
+    },
+    {
+     "rank": 15,
+     "videoId": "CbVqeMUJDr8",
+     "title": "TALK",
+     "artist": "ALLDAY PROJECT",
+     "thumbnail": "https://i.ytimg.com/vi/CbVqeMUJDr8/mqdefault.jpg",
+     "duration": 171
+    },
+    {
+     "rank": 16,
+     "videoId": "RHc2-jncx4w",
+     "title": "눈부신 계절을 달려",
+     "artist": "Boramiyu",
+     "thumbnail": "https://i.ytimg.com/vi/RHc2-jncx4w/mqdefault.jpg",
+     "duration": 200
+    },
+    {
+     "rank": 17,
+     "videoId": "VDxg_Shr_4U",
+     "title": "Dime Girl",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/VDxg_Shr_4U/mqdefault.jpg",
+     "duration": 148
+    },
+    {
+     "rank": 18,
+     "videoId": "MAIWvlrymlE",
+     "title": "Recharge Me",
+     "artist": "WENDY",
+     "thumbnail": "https://i.ytimg.com/vi/MAIWvlrymlE/mqdefault.jpg",
+     "duration": 171
+    },
+    {
+     "rank": 19,
+     "videoId": "n9h7WZg1oYs",
+     "title": "Waste My Time",
+     "artist": "Marc Atlas",
+     "thumbnail": "https://i.ytimg.com/vi/n9h7WZg1oYs/mqdefault.jpg",
+     "duration": 190
+    },
+    {
+     "rank": 20,
+     "videoId": "3gkSzjp-aoY",
+     "title": "Mili - Rendezvous [Limbus Company]",
+     "artist": "Mili",
+     "thumbnail": "https://i.ytimg.com/vi/3gkSzjp-aoY/mqdefault.jpg",
+     "duration": 226
+    },
+    {
+     "rank": 21,
+     "videoId": "apZeMNBM5Gw",
+     "title": "Like The First Day",
+     "artist": "FTISLAND",
+     "thumbnail": "https://i.ytimg.com/vi/apZeMNBM5Gw/mqdefault.jpg",
+     "duration": 231
+    },
+    {
+     "rank": 22,
+     "videoId": "7lhg38sKq_Y",
+     "title": "Just because I love you more",
+     "artist": "Bangssong",
+     "thumbnail": "https://i.ytimg.com/vi/7lhg38sKq_Y/mqdefault.jpg",
+     "duration": 255
+    },
+    {
+     "rank": 23,
+     "videoId": "Ra9rIXtlt6M",
+     "title": "Toy",
+     "artist": "PATEKO",
+     "thumbnail": "https://i.ytimg.com/vi/Ra9rIXtlt6M/mqdefault.jpg",
+     "duration": 178
+    },
+    {
+     "rank": 24,
+     "videoId": "62qQxaFZFZo",
+     "title": "Dreamer",
+     "artist": "QWER",
+     "thumbnail": "https://i.ytimg.com/vi/62qQxaFZFZo/mqdefault.jpg",
+     "duration": 187
+    },
+    {
+     "rank": 25,
+     "videoId": "786OXxbw2aM",
+     "title": "[MV] ABM - '展示中毒' (Displayholic) feat. 初音ミク",
+     "artist": "AnythingBecomeMoe",
+     "thumbnail": "https://i.ytimg.com/vi/786OXxbw2aM/mqdefault.jpg",
+     "duration": 143
+    },
+    {
+     "rank": 26,
+     "videoId": "a01vA_7W6Z8",
+     "title": "Autumn Night(Prod.Rocoberry)",
+     "artist": "Joo Hyung Jin",
+     "thumbnail": "https://i.ytimg.com/vi/a01vA_7W6Z8/mqdefault.jpg",
+     "duration": 201
+    },
+    {
+     "rank": 27,
+     "videoId": "nNlojPr1F9k",
+     "title": "OUR STORY ",
+     "artist": "WOODZ",
+     "thumbnail": "https://i.ytimg.com/vi/nNlojPr1F9k/mqdefault.jpg",
+     "duration": 225
+    },
+    {
+     "rank": 28,
+     "videoId": "ON1a7XYDa1E",
+     "title": "Know My Name",
+     "artist": "True Damage",
+     "thumbnail": "https://i.ytimg.com/vi/ON1a7XYDa1E/mqdefault.jpg",
+     "duration": 213
+    },
+    {
+     "rank": 29,
+     "videoId": "HdjrIrRDhic",
+     "title": "musubi",
+     "artist": "Ayumu Imazu",
+     "thumbnail": "https://i.ytimg.com/vi/HdjrIrRDhic/mqdefault.jpg",
+     "duration": 207
+    },
+    {
+     "rank": 30,
+     "videoId": "T86rBo1d_yk",
+     "title": "김다현 자작곡 : \"광양에서 만난사랑\" 조부모님께 바치는 헌정곡 2026.10.8일 정오 발매 #광양에서만난사랑 #김다현 #광양시 #홍보대사 ",
+     "artist": "김다현TV",
+     "thumbnail": "https://i.ytimg.com/vi/T86rBo1d_yk/mqdefault.jpg",
+     "duration": 183
+    }
+   ]
+  }
+ ]
+}
