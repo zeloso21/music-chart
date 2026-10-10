@@ -2,7 +2,8 @@
 
 GitHub Actions에서 하루 1회 실행돼요. API 키는 환경 변수 YOUTUBE_API_KEY로 받아요.
 videos.list 호출 1회 = 1 unit이라, 4개국을 받아도 하루 4 unit이에요(한도 10,000).
-나라마다 YouTube가 매기는 인기 음악 순서를 그대로 탭 하나로 만들어요.
+나라마다 YouTube가 매기는 인기 음악 순서를 그대로 탭 하나로 만들고,
+마지막에 4개국 순위를 점수로 합산한 '종합' 탭을 붙여요.
 """
 
 import json
@@ -20,6 +21,7 @@ MAX_RESULTS = 50
 VIEWER_REGION = "KR"  # 보는 사람이 대부분 한국이라, 한국에서 막힌 영상은 빼요.
 # 탭 순서대로 (나라 코드, 탭 이름)
 COUNTRIES = [("KR", "한국"), ("US", "미국"), ("GB", "영국"), ("JP", "일본")]
+COMBINED_SIZE = 50
 
 
 def fetch_youtube_chart(api_key, region):
@@ -92,14 +94,39 @@ def to_items(videos):
     return items
 
 
+def merge_countries(by_country, size=COMBINED_SIZE):
+    """나라별 순위를 점수로 합산해요. 나라마다 1위 50점, 2위 49점 … 50위 1점.
+
+    점수가 같으면 오른 나라가 많은 쪽, 그다음 가장 높은 순위가 높은 쪽이 앞이에요.
+    재생할 수 없는 영상도 점수 계산에는 넣고, 목록에 넣을 때만 빼요.
+    """
+    stats = {}
+    for name, videos in by_country.items():
+        for pos, v in enumerate(videos):
+            s = stats.setdefault(v["id"], {"video": v, "score": 0, "countries": [], "best": pos})
+            s["score"] += MAX_RESULTS - pos
+            s["countries"].append(name)
+            s["best"] = min(s["best"], pos)
+    ranked = sorted(stats.values(), key=lambda s: (-s["score"], -len(s["countries"]), s["best"]))
+    items = []
+    for s in ranked:
+        if playable(s["video"]):
+            items.append(to_item(s["video"], len(items) + 1, regions=s["countries"]))
+            if len(items) == size:
+                break
+    return items
+
+
 def main():
     api_key = os.environ.get("YOUTUBE_API_KEY")
     if not api_key:
         sys.exit("YOUTUBE_API_KEY 환경 변수가 없어요.")
 
     charts = []
+    by_country = {}
     for code, name in COUNTRIES:
-        items = to_items(fetch_youtube_chart(api_key, code))
+        by_country[name] = fetch_youtube_chart(api_key, code)
+        items = to_items(by_country[name])
         print(f"{name}: {len(items)}곡")
         if not items:
             # 한 나라라도 비면 탭이 사라지지 않도록, 기존 data.json을 그대로 두고 실패로 끝내요.
@@ -111,6 +138,16 @@ def main():
                     "최근 조회가 빠르게 느는 영상이 위로 와요.",
             "items": items,
         })
+
+    names = "·".join(by_country)
+    charts.append({
+        "id": "combined",
+        "title": "종합",
+        "note": f"{names} 인기 음악 순위를 합산했어요. 나라마다 1위 {MAX_RESULTS}점, "
+                f"2위 {MAX_RESULTS - 1}점 … {MAX_RESULTS}위 1점을 주고 더한 점수 순이에요. "
+                "곡 옆의 나라는 그 곡이 순위에 오른 곳이에요.",
+        "items": merge_countries(by_country),
+    })
 
     data = {
         "updated": datetime.now(KST).isoformat(timespec="minutes"),
