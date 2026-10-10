@@ -163,7 +163,7 @@
       t.textContent = it.title;
       const a = document.createElement("div");
       a.className = "artist";
-      a.textContent = it.countries ? `${it.artist} · ${it.countries}개국` : it.artist;
+      a.textContent = it.regions ? `${it.artist} · ${it.regions.join("·")}` : it.artist;
       meta.append(t, a);
       const d = document.createElement("span");
       d.className = "dur";
