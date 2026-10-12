@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:11+09:00",
+ "updated": "2026-10-12T22:13+09:00",
  "charts": [
   {
    "id": "kr",
@@ -348,72 +348,39 @@
    "items": [
     {
      "rank": 1,
-     "videoId": "uoVcMhPg6wg",
-     "title": "You Raise Me Up (The Orchestral Music Of Secret Garden)",
-     "artist": "SecretGardenVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/uoVcMhPg6wg/mqdefault.jpg",
-     "duration": 404,
+     "videoId": "6kEuqJ4-xwo",
+     "title": "3-Year-Old Joelle Played with the Orchestra - Schubert's Marche Militaire",
+     "artist": "勞詩娘Shirley Lo",
+     "thumbnail": "https://i.ytimg.com/vi/6kEuqJ4-xwo/mqdefault.jpg",
+     "duration": 338,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 2,
-     "videoId": "5fi0-8d9B_0",
-     "title": "Gladiator | Imperial Orchestra & A.N.I.S.A.",
-     "artist": "Imperial Orchestra",
-     "thumbnail": "https://i.ytimg.com/vi/5fi0-8d9B_0/mqdefault.jpg",
-     "duration": 785,
+     "videoId": "ImmKnV7un9E",
+     "title": "Bach Toccata and Fugue in D Minor on Piano",
+     "artist": "Gamazda",
+     "thumbnail": "https://i.ytimg.com/vi/ImmKnV7un9E/mqdefault.jpg",
+     "duration": 532,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 3,
-     "videoId": "GnaQf1Tluyc",
-     "title": "The Odyssey | Imperial Orchestra",
-     "artist": "Imperial Orchestra",
-     "thumbnail": "https://i.ytimg.com/vi/GnaQf1Tluyc/mqdefault.jpg",
-     "duration": 979,
+     "videoId": "NTfLkq7cFEs",
+     "title": "Mối Tình Xa Xưa Johannes  Brahms sáng tác Lời Việt của Phạm Duy Vincent Nguyễn phối nhạc",
+     "artist": "Nguyễn Thành Vân",
+     "thumbnail": "https://i.ytimg.com/vi/NTfLkq7cFEs/mqdefault.jpg",
+     "duration": 324,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 4,
-     "videoId": "YPbIo2bpZpo",
-     "title": "I Played Beethoven’s Moonlight Sonata at a Train Station… and People Started Gathering!",
-     "artist": "YUKI PIANO",
-     "thumbnail": "https://i.ytimg.com/vi/YPbIo2bpZpo/mqdefault.jpg",
-     "duration": 383,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 5,
-     "videoId": "epcIxfc8kTk",
-     "title": "Morning Waltz Concert 🥐 | Cozy Classical in the Little Bakery",
-     "artist": "Tales & Tails Classics",
-     "thumbnail": "https://i.ytimg.com/vi/epcIxfc8kTk/mqdefault.jpg",
-     "duration": 886,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 6,
-     "videoId": "DD5NzLBLaz0",
-     "title": "I Tested Classical Music on 25 People. I Got It Backwards.",
-     "artist": "The Amateur",
-     "thumbnail": "https://i.ytimg.com/vi/DD5NzLBLaz0/mqdefault.jpg",
-     "duration": 712,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 7,
      "videoId": "CJBJCDTQVcE",
      "title": "쇼팽 : 즉흥환상곡 ｜ 건반의 한계를 넘어선 하프, 붉은 실 사이로 쏟아지는 환상 (Harp. 이수빈)",
      "artist": "Let's Clay Classical Music 렛츠클레이 클래식",
@@ -424,89 +391,287 @@
      ]
     },
     {
+     "rank": 5,
+     "videoId": "cOojjI5qJkM",
+     "title": "I'm a concert pianist. I've NEVER heard this Bach piece played like this.",
+     "artist": "Peterson Piano Academy",
+     "thumbnail": "https://i.ytimg.com/vi/cOojjI5qJkM/mqdefault.jpg",
+     "duration": 1059,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 6,
+     "videoId": "R7T-irnAP74",
+     "title": "Debussy - Arabesque no. 1 arranged for Electric Guitar",
+     "artist": "Guy Levinberg",
+     "thumbnail": "https://i.ytimg.com/vi/R7T-irnAP74/mqdefault.jpg",
+     "duration": 367,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 7,
+     "videoId": "ilqk0AMLjMg",
+     "title": "We Need to Talk About Yunchan Lim's 임윤찬 Ravel G Major Concerto",
+     "artist": "tonebase Piano",
+     "thumbnail": "https://i.ytimg.com/vi/ilqk0AMLjMg/mqdefault.jpg",
+     "duration": 1079,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 8,
-     "videoId": "E-PQJaTLKUA",
-     "title": "Classical musician hears SYSTEM OF A DOWN for the first time ever - \"Chop Suey!\" reaction/analysis",
-     "artist": "Sir Hairless",
-     "thumbnail": "https://i.ytimg.com/vi/E-PQJaTLKUA/mqdefault.jpg",
-     "duration": 1069,
+     "videoId": "ZtO_6oUccVo",
+     "title": "Sergei Kvitko - Bach — Die Seele ruht in Jesu Händen, from Cantata BWV 127 (arr. Harold Bauer)",
+     "artist": "sergeikvitkoVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/ZtO_6oUccVo/mqdefault.jpg",
+     "duration": 397,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 9,
-     "videoId": "x9-Y7c59HaQ",
-     "title": "Love Story — Indila | Epic Dark Gothic Orchestral Cover | NOCTAVEN",
-     "artist": "NOCTAVEN",
-     "thumbnail": "https://i.ytimg.com/vi/x9-Y7c59HaQ/mqdefault.jpg",
-     "duration": 304,
+     "videoId": "OCqD5HjQSqs",
+     "title": "Beethoven: \"Moonlight \"SonataⅠmov. (arr. Violin and piano) | Eimi Wakui",
+     "artist": "Eimi Wakui 和久井映見",
+     "thumbnail": "https://i.ytimg.com/vi/OCqD5HjQSqs/mqdefault.jpg",
+     "duration": 337,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 10,
-     "videoId": "LthDX6I2xA4",
-     "title": "ನೀ.. ಇರಲು ಜೊತೆಯಲ್ಲಿ | Nee Iralu Jotheyalli | Melody Mane Cover-classical frog rock fusion",
-     "artist": "Melody Mane 2.0",
-     "thumbnail": "https://i.ytimg.com/vi/LthDX6I2xA4/mqdefault.jpg",
-     "duration": 268,
+     "videoId": "nxZYJmwUHe8",
+     "title": "Beethoven – “Appassionata” Sonata No. 23, 3rd Movement | Street Piano",
+     "artist": "ぷにぴあの-PuniPiano-",
+     "thumbnail": "https://i.ytimg.com/vi/nxZYJmwUHe8/mqdefault.jpg",
+     "duration": 310,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 11,
-     "videoId": "YcsEozsEtmk",
-     "title": "Innisai --- Slowed + Reverb | Varalaru | A.R.Rahman | Mahathi, Saindhavi | Classical 🪷🦚",
-     "artist": "Slow_Bloom",
-     "thumbnail": "https://i.ytimg.com/vi/YcsEozsEtmk/mqdefault.jpg",
-     "duration": 273,
+     "videoId": "um8diQcliYw",
+     "title": "Claude Debussy: Première Rhapsodie for Clarinet and Piano - Selvadore Rähni, Tuuli Rähni",
+     "artist": "Selvadore Rähni, clarinet",
+     "thumbnail": "https://i.ytimg.com/vi/um8diQcliYw/mqdefault.jpg",
+     "duration": 489,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 12,
-     "videoId": "n74MA-qGN5o",
-     "title": "First Time Hearing Depeche Mode – Enjoy the Silence | Classical Musicians React",
-     "artist": "p3cubed",
-     "thumbnail": "https://i.ytimg.com/vi/n74MA-qGN5o/mqdefault.jpg",
-     "duration": 1012,
+     "videoId": "BjCeMohlJlk",
+     "title": "Teotronico suona il Preludio in Do Maggiore di Bach 🎹 a @LucillaKids",
+     "artist": "Alman Kids",
+     "thumbnail": "https://i.ytimg.com/vi/BjCeMohlJlk/mqdefault.jpg",
+     "duration": 265,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 13,
-     "videoId": "tm3pHc-u7aw",
-     "title": "System Of A Down - \"Aerials\" |  Classical Musician First Time Reaction & Analysis",
-     "artist": "Sir Hairless",
-     "thumbnail": "https://i.ytimg.com/vi/tm3pHc-u7aw/mqdefault.jpg",
-     "duration": 1164,
+     "videoId": "Y_3SMMbBHUc",
+     "title": "Ivan Bessonov — Rachmaninoff: Scherzo in D minor",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/Y_3SMMbBHUc/mqdefault.jpg",
+     "duration": 245,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 14,
-     "videoId": "DmcDBT13B84",
-     "title": "Upbeat fun pipe organ music! #pipeorgan #classicalmusic #organist",
-     "artist": "Brody Bett",
-     "thumbnail": "https://i.ytimg.com/vi/DmcDBT13B84/mqdefault.jpg",
-     "duration": 331,
+     "videoId": "-v8n1NEL4vw",
+     "title": "J.S. Bach's \"Menuets I & II\" BWV 1007 performed by Alan Mearns on a 2026 Eduardo Bossa guitar",
+     "artist": "Guitar Salon International",
+     "thumbnail": "https://i.ytimg.com/vi/-v8n1NEL4vw/mqdefault.jpg",
+     "duration": 313,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 15,
-     "videoId": "-lnai7WsPHs",
-     "title": "Anuroopane Priyanesuve  | Christian Prayer Dance 2026 | SHINTO EDASSERY | Opening Semi Classical",
-     "artist": "CST WORD & MISSION | Music & Mission",
-     "thumbnail": "https://i.ytimg.com/vi/-lnai7WsPHs/mqdefault.jpg",
-     "duration": 341,
+     "videoId": "FAdzfW604e0",
+     "title": "Bach - Fugue in B minor on a theme by Albinoni BWV 951 - Maude Gratton | Netherlands Bach Society",
+     "artist": "Netherlands Bach Society",
+     "thumbnail": "https://i.ytimg.com/vi/FAdzfW604e0/mqdefault.jpg",
+     "duration": 510,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 16,
+     "videoId": "K7tAJDfDJXM",
+     "title": "Beethoven: Symphony No. 7, II. Allegretto | AdventHealth Orchestra",
+     "artist": "Richard Hickam",
+     "thumbnail": "https://i.ytimg.com/vi/K7tAJDfDJXM/mqdefault.jpg",
+     "duration": 595,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 17,
+     "videoId": "XKNepqjWIv4",
+     "title": "Mozart vs Vivaldi: Classical Techno Battle | Winter vs Requiem | Melodic Techno Mix",
+     "artist": "Baroque Machine · Classical Techno",
+     "thumbnail": "https://i.ytimg.com/vi/XKNepqjWIv4/mqdefault.jpg",
+     "duration": 1111,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 18,
+     "videoId": "vKbokvVtEDE",
+     "title": "Chopin Piano Concerto No 1: Movement 2 Romance (Larghetto)",
+     "artist": "Piano Affair",
+     "thumbnail": "https://i.ytimg.com/vi/vKbokvVtEDE/mqdefault.jpg",
+     "duration": 629,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 19,
+     "videoId": "0eI7A8aI38Y",
+     "title": "전율의 속주! 클래식 명곡 비발디 '겨울'을 메탈 기타로 연주하면?",
+     "artist": "박창곤 GONITV 고니티비",
+     "thumbnail": "https://i.ytimg.com/vi/0eI7A8aI38Y/mqdefault.jpg",
+     "duration": 262,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 20,
+     "videoId": "lBAF0JYQvaE",
+     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – I. Moderato",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/lBAF0JYQvaE/mqdefault.jpg",
+     "duration": 676,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 21,
+     "videoId": "cXEwcfUIAxM",
+     "title": "Sheku Kanneh-Mason - Ravel's Kaddisch",
+     "artist": "Sheku Kanneh-Mason",
+     "thumbnail": "https://i.ytimg.com/vi/cXEwcfUIAxM/mqdefault.jpg",
+     "duration": 285,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 22,
+     "videoId": "RTVIonxzDAk",
+     "title": "Ricardo Gallén plays Prelude BWV 998 by Johann Sebastian Bach on a Siccas Luthiers \"Legacy\"",
+     "artist": "SiccasGuitars",
+     "thumbnail": "https://i.ytimg.com/vi/RTVIonxzDAk/mqdefault.jpg",
+     "duration": 249,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 23,
+     "videoId": "wWge3Yr6_0I",
+     "title": "Justus Eichhorn - Bach: Italian Concerto, BWV 971: I. Allegro",
+     "artist": "Deutsche Grammophon - DG",
+     "thumbnail": "https://i.ytimg.com/vi/wWge3Yr6_0I/mqdefault.jpg",
+     "duration": 257,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 24,
+     "videoId": "VtTg7LDSseU",
+     "title": "Rachmaninoff: Symphonic Dances - 1. Non allegro | Petrenko · Berliner Philharmoniker",
+     "artist": "Berliner Philharmoniker",
+     "thumbnail": "https://i.ytimg.com/vi/VtTg7LDSseU/mqdefault.jpg",
+     "duration": 741,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 25,
+     "videoId": "xddbpveUus8",
+     "title": "🇯🇵 LOVEBITES –「DYSTOPIA SYMPHONY」+ Beethoven「Moonlight Sonata」| アメリカ人ドラマー初見リアクション 🌙",
+     "artist": "Rea Reacts JP",
+     "thumbnail": "https://i.ytimg.com/vi/xddbpveUus8/mqdefault.jpg",
+     "duration": 1046,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 26,
+     "videoId": "aIQprt7KaLI",
+     "title": "\"A Reverie of the Soul: Piano Works by Robert Schumann\" FYC by Sophia Agranovich",
+     "artist": "Sophia Agranovich",
+     "thumbnail": "https://i.ytimg.com/vi/aIQprt7KaLI/mqdefault.jpg",
+     "duration": 337,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 27,
+     "videoId": "P7xt0kaJzbQ",
+     "title": "Mozart: Piano Concerto No. 20 in D minor, K. 466 – Edited Excerpt (I & III)",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/P7xt0kaJzbQ/mqdefault.jpg",
+     "duration": 290,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "C0tIy0Sp7M8",
+     "title": "Queen of the Night – Mozart | The Magic Flute (Dark Gothic Orchestra Remake)",
+     "artist": "Noctis Corvus",
+     "thumbnail": "https://i.ytimg.com/vi/C0tIy0Sp7M8/mqdefault.jpg",
+     "duration": 268,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 29,
+     "videoId": "3FgwuUOpPu4",
+     "title": "I Played Beethoven's Pathetique Sonata (3rd Movement) at a Street Piano 🎹",
+     "artist": "YUKI PIANO",
+     "thumbnail": "https://i.ytimg.com/vi/3FgwuUOpPu4/mqdefault.jpg",
+     "duration": 323,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 30,
+     "videoId": "kDsB300X_MA",
+     "title": "RACHMANINOFF - PRELUDE IN C SHARP MINOR OP. 3 NO. 2 - ORGAN - JONATHAN SCOTT - MARIENKIRCHE PRENZLAU",
+     "artist": "scottbrothersduo",
+     "thumbnail": "https://i.ytimg.com/vi/kDsB300X_MA/mqdefault.jpg",
+     "duration": 246,
      "genres": [
       "클래식"
      ]
@@ -656,6 +821,19 @@
     },
     {
      "rank": 12,
+     "videoId": "E8gmARGvPlI",
+     "title": "Wham! - Last Christmas (Official Video)",
+     "artist": "Wham!",
+     "thumbnail": "https://i.ytimg.com/vi/E8gmARGvPlI/mqdefault.jpg",
+     "duration": 279,
+     "genres": [
+      "팝",
+      "R&B·소울",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 13,
      "videoId": "FxYw0XPEoKE",
      "title": "Whitney Houston - I Have Nothing (Official HD Video)",
      "artist": "Whitney Houston",
@@ -667,7 +845,7 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 14,
      "videoId": "HgzGwKwLmgM",
      "title": "Queen - Don't Stop Me Now (Official Video Remastered 4K)",
      "artist": "Queen",
@@ -680,7 +858,7 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 15,
      "videoId": "NrLkTZrPZA4",
      "title": "Elton John - Sacrifice",
      "artist": "Elton John",
@@ -689,17 +867,6 @@
      "genres": [
       "팝",
       "R&B·소울"
-     ]
-    },
-    {
-     "rank": 15,
-     "videoId": "i_kF4zLNKio",
-     "title": "Fetty Wap  - Trap Queen (Official Video) Prod. By Tony Fadd",
-     "artist": "Queen",
-     "thumbnail": "https://i.ytimg.com/vi/i_kF4zLNKio/mqdefault.jpg",
-     "duration": 245,
-     "genres": [
-      "힙합"
      ]
     },
     {
@@ -754,6 +921,18 @@
     },
     {
      "rank": 20,
+     "videoId": "rY0WxgSXdEE",
+     "title": "Queen - Another One Bites the Dust (Official Video Remastered)",
+     "artist": "Queen",
+     "thumbnail": "https://i.ytimg.com/vi/rY0WxgSXdEE/mqdefault.jpg",
+     "duration": 219,
+     "genres": [
+      "팝",
+      "록"
+     ]
+    },
+    {
+     "rank": 21,
      "videoId": "O4irXQhgMqg",
      "title": "The Rolling Stones - Paint It, Black (Official Lyric Video)",
      "artist": "The Rolling Stones",
@@ -766,7 +945,7 @@
      ]
     },
     {
-     "rank": 21,
+     "rank": 22,
      "videoId": "LKaXY4IdZ40",
      "title": "Whitney Houston, Mariah Carey - When You Believe (Official HD Video)",
      "artist": "Whitney Houston",
@@ -778,7 +957,7 @@
      ]
     },
     {
-     "rank": 22,
+     "rank": 23,
      "videoId": "A_MjCqQoLLA",
      "title": "The Beatles - The Beatles - Hey Jude (Official Music Video) [Remastered 2015]",
      "artist": "The Beatles",
@@ -790,7 +969,7 @@
      ]
     },
     {
-     "rank": 23,
+     "rank": 24,
      "videoId": "l3QxT-w3WMo",
      "title": "Boney M. - Rivers of Babylon (Sopot Festival 1979)",
      "artist": "Boney M.",
@@ -803,7 +982,7 @@
      ]
     },
     {
-     "rank": 24,
+     "rank": 25,
      "videoId": "unfzfe8f9NI",
      "title": "ABBA - Mamma Mia (Official Music Video)",
      "artist": "ABBA",
@@ -815,7 +994,7 @@
      ]
     },
     {
-     "rank": 25,
+     "rank": 26,
      "videoId": "nREV8bQJ1MA",
      "title": "Bee Gees - Too Much Heaven (Official Video)",
      "artist": "Bee Gees",
