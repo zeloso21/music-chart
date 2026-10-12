@@ -278,6 +278,8 @@ def add_search_chart(charts, chart_id, title, fetch, api_key, note):
         print(f"{title}: 받기 실패 ({e})")
         items = []
     print(f"{title}: {len(items)}곡")
+    for it in items:  # 검색 탭은 결과가 들쭉날쭉할 수 있어서, 무엇이 들어갔는지 실행 기록에 남겨요
+        print(f"  {it['rank']:>2}. {it['artist']} | {it['title']}")
     if items:
         charts.append({"id": chart_id, "title": title, "note": note, "items": items})
     elif prev := previous_chart(chart_id):
