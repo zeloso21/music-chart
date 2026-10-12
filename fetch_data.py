@@ -45,9 +45,9 @@ CLASSICAL_WORDS = re.compile(
     r"交響曲|協奏曲",
     re.IGNORECASE,
 )
-# 클래식 탭에서 빼는 영상: 리액션·커버·속도 바꾼 편집 등
+# 클래식 탭에서 빼는 영상: 리액션·커버·속도 바꾼 편집·장르 섞은 편곡 등(제목·채널명 둘 다 봐요)
 CLASSICAL_EXCLUDE = re.compile(r"reaction|react|first time|hears|tested|cover|slowed|reverb|sped up|"
-                               r"remix|lofi|lo-fi|반응|커버", re.IGNORECASE)
+                               r"remix|lofi|lo-fi|techno|metal|gothic|battle|반응|커버|메탈", re.IGNORECASE)
 CLASSICAL_DAYS = 30
 CLASSICAL_SIZE = 30
 # 올드팝 가수 목록. 검색어와 '이 가수 영상인지' 확인에 같이 써요. 더하거나 빼도 돼요.
@@ -156,7 +156,7 @@ def fetch_classical(api_key):
     )
     classical = [v for v in videos
                  if CLASSICAL_WORDS.search(v["snippet"].get("title", "") + " " + v["snippet"].get("channelTitle", ""))
-                 and not CLASSICAL_EXCLUDE.search(v["snippet"].get("title", ""))]
+                 and not CLASSICAL_EXCLUDE.search(v["snippet"].get("title", "") + " " + v["snippet"].get("channelTitle", ""))]
     print(f"  클래식: 검색 {len(videos)}개, 클래식 낱말 있음 {len(classical)}개")
     items = to_items(classical)[:CLASSICAL_SIZE]
     for it in items:
