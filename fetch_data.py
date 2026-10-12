@@ -27,16 +27,27 @@ VIEWER_REGION = "KR"  # 보는 사람이 대부분 한국이라, 한국에서 �
 # 탭 순서대로 (나라 코드, 탭 이름)
 COUNTRIES = [("KR", "한국")]
 # YouTube 주제 정보의 '클래식'은 팝·인도 영화음악에도 붙어 있어서 믿을 수 없어요(2026-10-12 실측).
-# 그래서 클래식 용어로 검색하고, 제목·채널명에 아래 낱말이 있는 영상만 남겨요. 검색어의 |는 '또는'이에요.
-CLASSICAL_QUERY = "classical music|symphony|concerto|sonata|nocturne|orchestra|philharmonic|클래식"
+# 'classical'·'orchestra' 같은 넓은 낱말로 찾으면 리액션·커버 영상이 섞여서(같은 날 실측),
+# 작곡가 이름으로 검색하고, 제목·채널명에 작곡가나 곡 형식 이름이 있는 영상만 남겨요. 검색어의 |는 '또는'이에요.
+CLASSICAL_COMPOSERS = [
+    "Mozart", "Beethoven", "Bach", "Chopin", "Tchaikovsky", "Vivaldi", "Debussy", "Liszt",
+    "Rachmaninoff", "Brahms", "Schubert", "Handel", "Haydn", "Mahler", "Dvorak", "Ravel",
+    "Satie", "Mendelssohn", "Schumann", "Paganini", "Grieg", "Elgar",
+    "모차르트", "베토벤", "바흐", "쇼팽", "차이콥스키", "비발디", "드뷔시", "라흐마니노프", "브람스", "슈베르트",
+]
+CLASSICAL_QUERY = "|".join(CLASSICAL_COMPOSERS)
 CLASSICAL_WORDS = re.compile(
-    r"classical|symphon|concerto|sonata|nocturne|[eé]tude|pr[eé]lude|fugue|requiem|overture|"
-    r"orchestra|philharmoni|quartet|mozart|beethoven|\bbach\b|chopin|tchaikovsky|vivaldi|debussy|"
-    r"liszt|rachmanino|brahms|schubert|handel|haydn|mahler|dvo[rř][aá]k|ravel|satie|"
-    r"mendelssohn|schumann|paganini|puccini|verdi|bizet|grieg|elgar|"
-    r"클래식|교향곡|협주곡|소나타|녹턴|오케스트라|필하모닉|クラシック|交響曲|協奏曲",
+    r"symphon|concerto|sonata|nocturne|[eé]tude|pr[eé]lude|fugue|requiem|overture|"
+    r"philharmoni|string quartet|mozart|beethoven|\bbach\b|chopin|tchaikovsky|vivaldi|debussy|"
+    r"\bliszt\b|rachmanino|brahms|schubert|handel|haydn|mahler|dvo[rř][aá]k|\bravel\b|satie|"
+    r"mendelssohn|schumann|paganini|grieg|elgar|"
+    r"교향곡|협주곡|소나타|녹턴|모차르트|베토벤|바흐|쇼팽|차이콥스키|비발디|드뷔시|라흐마니노프|브람스|슈베르트|"
+    r"交響曲|協奏曲",
     re.IGNORECASE,
 )
+# 클래식 탭에서 빼는 영상: 리액션·커버·속도 바꾼 편집 등
+CLASSICAL_EXCLUDE = re.compile(r"reaction|react|first time|hears|tested|cover|slowed|reverb|sped up|"
+                               r"remix|lofi|lo-fi|반응|커버", re.IGNORECASE)
 CLASSICAL_DAYS = 30
 CLASSICAL_SIZE = 30
 # 올드팝 가수 목록. 검색어와 '이 가수 영상인지' 확인에 같이 써요. 더하거나 빼도 돼요.
@@ -133,7 +144,8 @@ def search_videos(api_key, **params):
 def fetch_classical(api_key):
     """최근 30일 동안 올라온 클래식 영상(4~20분)을 조회수 순으로 찾아요.
 
-    검색 결과에 다른 장르가 섞이므로, 제목·채널명에 클래식 낱말(CLASSICAL_WORDS)이 있는 영상만 남겨요.
+    작곡가 이름으로 검색하고, 제목·채널명에 클래식 낱말(CLASSICAL_WORDS)이 있고
+    리액션·커버(CLASSICAL_EXCLUDE)가 아닌 영상만 남겨요.
     """
     since = datetime.now(timezone.utc) - timedelta(days=CLASSICAL_DAYS)
     videos = search_videos(
@@ -143,7 +155,8 @@ def fetch_classical(api_key):
         videoDuration="medium",  # 4~20분
     )
     classical = [v for v in videos
-                 if CLASSICAL_WORDS.search(v["snippet"].get("title", "") + " " + v["snippet"].get("channelTitle", ""))]
+                 if CLASSICAL_WORDS.search(v["snippet"].get("title", "") + " " + v["snippet"].get("channelTitle", ""))
+                 and not CLASSICAL_EXCLUDE.search(v["snippet"].get("title", ""))]
     print(f"  클래식: 검색 {len(videos)}개, 클래식 낱말 있음 {len(classical)}개")
     items = to_items(classical)[:CLASSICAL_SIZE]
     for it in items:
@@ -154,20 +167,21 @@ def fetch_classical(api_key):
 def oldies_artist(video):
     """영상이 목록의 어느 가수 것인지 찾아요. 없으면 None.
 
-    채널명(끝의 VEVO·Topic은 떼고)을 먼저 보고, 없으면 제목에서 가장 앞에 나오는 가수를 골라요.
-    ('ABBA - Dancing Queen'처럼 제목에 다른 가수 이름이 섞일 수 있어서요.)
+    채널명(끝의 VEVO·Topic은 떼고)을 먼저 보고, 없으면 제목 맨 앞의 가수를 봐요.
+    ('ABBA - Dancing Queen'처럼 제목 뒤쪽에 다른 가수 이름이 섞일 수 있어서요.)
     """
-    def find(text):
+    def find(text, at_start):
         hits = []
         for name in OLDIES_ARTISTS:
             bare = name.lower().removeprefix("the ")
             m = re.search(r"(?<![a-z])" + re.escape(bare) + r"(?![a-z])", text)
-            if m:
+            if m and (not at_start or text[:m.start()].strip() in ("", "the")):
                 hits.append((m.start(), name))
         return min(hits)[1] if hits else None
 
     channel = re.sub(r"\s*(-\s*topic|vevo)$", "", video["snippet"].get("channelTitle", "").lower())
-    return find(channel) or find(video["snippet"].get("title", "").lower())
+    # 제목에서는 맨 앞에 가수 이름이 올 때만 인정해요('Fetty Wap - Trap Queen'이 Queen으로 잡히지 않게).
+    return find(channel, at_start=False) or find(video["snippet"].get("title", "").lower(), at_start=True)
 
 
 def fetch_oldies(api_key):

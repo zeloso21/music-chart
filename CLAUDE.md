@@ -10,8 +10,8 @@
 - 구성: `fetch_data.py`(차트 수집) → `.github/workflows/update.yml`(매일 06:07 KST, 수동 실행, `main`에 스크립트 바뀌면 실행) → `data.json` → `index.html`(목록 + IFrame 플레이어).
 - `data.json` 형식: `{updated, charts: [{id, title, note, items: [{rank, videoId, title, artist, thumbnail, duration(초), genres}]}]}`. 탭은 `charts` 항목마다 하나씩 생기고, `note`는 탭 아래 순위 설명이에요.
 - 탭: 한국·클래식·올드팝(2026-10-12 사용자 요청으로 일본·미국·영국 탭은 뺐어요). 한국은 `mostPopular` 음악 차트를 YouTube 순서 그대로 써요. 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 한국 30곡 유지로 정했어요(더 늘리려면 Apple Music 차트 등 다른 출처가 필요한데, 사용자가 지금처럼 유지하기로 함). 하루 약 203 unit(한국 1 + 클래식 101 + 올드팝 101).
-- 클래식 탭: 인기 차트에는 클래식이 거의 없어서 `search.list`(음악 카테고리, 클래식 낱말 검색어 `CLASSICAL_QUERY`, 최근 30일, `order=viewCount`, `videoDuration=medium`=4~20분, `videoEmbeddable`, `regionCode=KR`)로 후보 50개를 찾고, 제목·채널명에 클래식 낱말(`CLASSICAL_WORDS`: 작곡가·형식 이름)이 있는 것만 30곡. **YouTube 주제 정보의 '클래식'(topicId `/m/0ggq0m`, `Classical_music`)은 팝·인도 영화음악·바차타에도 붙어 있어 믿을 수 없어요(2026-10-12 실측).**
-- 올드팝 탭: `OLDIES_ARTISTS`(비틀즈·퀸·아바 등 60~80년대 가수 22팀)를 "가수"|"가수"… 검색어로 역대 조회수 순 검색. 채널명→제목 앞쪽 순으로 가수를 확인하고, 커버·노래방·리액션, 1분 30초~10분 밖 영상은 빼고, 가수당 3곡까지 30곡. 가수 이름은 목록의 이름을 써요.
+- 클래식 탭: 인기 차트에는 클래식이 거의 없어서 `search.list`(음악 카테고리, 작곡가 이름 검색어 `CLASSICAL_QUERY`, 최근 30일, `order=viewCount`, `videoDuration=medium`=4~20분, `videoEmbeddable`, `regionCode=KR`)로 후보 50개를 찾고, 제목·채널명에 작곡가·곡 형식 이름(`CLASSICAL_WORDS`)이 있고 리액션·커버(`CLASSICAL_EXCLUDE`)가 아닌 것만 30곡까지. **2026-10-12 실측: YouTube 주제 정보의 '클래식'(topicId `/m/0ggq0m`)은 팝·인도 영화음악에도 붙어 있고, 'classical'·'orchestra' 같은 넓은 낱말로 찾으면 리액션·커버가 절반이라 둘 다 쓰지 않아요.**
+- 올드팝 탭: `OLDIES_ARTISTS`(비틀즈·퀸·아바 등 60~80년대 가수 22팀)를 "가수"|"가수"… 검색어로 역대 조회수 순 검색. 채널명을 먼저 보고, 없으면 제목 맨 앞의 가수 이름으로 확인하고('Fetty Wap - Trap Queen'이 Queen으로 잡히지 않게), 커버·노래방·리액션, 1분 30초~10분 밖 영상은 빼고, 가수당 3곡까지 30곡. 가수 이름은 목록의 이름을 써요.
 - 검색 탭(클래식·올드팝)은 실패하거나 비면 기존 `data.json`의 같은 탭을 그대로 써요.
 - 장르: `videos.list`의 `topicDetails.topicCategories`(위키백과 주소)를 `fetch_data.py`의 `GENRES`로 한국어 장르 이름에 대응시켜 곡마다 `genres`로 저장해요(추가 unit 없음). 화면에서는 나라 탭 아래 목록 상자로 '장르 전체'/장르별을 고르고, 순위 번호는 원래 나라 순위 그대로예요.
 - 여러 나라 점수를 합산한 '전세계'·'종합' 탭, 일본·미국·영국 탭은 써 봤다가 사용자 요청으로 뺐어요.
