@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:12+09:00",
+ "updated": "2026-10-12T09:29+09:00",
  "charts": [
   {
    "id": "kr",
@@ -98,6 +98,17 @@
     },
     {
      "rank": 9,
+     "videoId": "n9h7WZg1oYs",
+     "title": "Waste My Time",
+     "artist": "Marc Atlas",
+     "thumbnail": "https://i.ytimg.com/vi/n9h7WZg1oYs/mqdefault.jpg",
+     "duration": 190,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 10,
      "videoId": "8CCOcYXiV-I",
      "title": "The Way We Were",
      "artist": "N.Flying",
@@ -108,36 +119,23 @@
      ]
     },
     {
-     "rank": 10,
-     "videoId": "LEyldGY4ggM",
-     "title": "ME AND MY CLAN",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/LEyldGY4ggM/mqdefault.jpg",
-     "duration": 152,
-     "genres": [
-      "힙합"
-     ]
-    },
-    {
      "rank": 11,
-     "videoId": "rr_mHc_Cvyw",
-     "title": "DO IT LIKE THIS",
-     "artist": "ALLDAY PROJECT",
-     "thumbnail": "https://i.ytimg.com/vi/rr_mHc_Cvyw/mqdefault.jpg",
-     "duration": 135,
-     "genres": [
-      "팝",
-      "힙합",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 12,
      "videoId": "iUNLe0iD9P8",
      "title": "ICONIC HEART (Korean Version)",
      "artist": "Hearts2Hearts",
      "thumbnail": "https://i.ytimg.com/vi/iUNLe0iD9P8/mqdefault.jpg",
      "duration": 189,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 12,
+     "videoId": "MAIWvlrymlE",
+     "title": "Recharge Me",
+     "artist": "WENDY",
+     "thumbnail": "https://i.ytimg.com/vi/MAIWvlrymlE/mqdefault.jpg",
+     "duration": 171,
      "genres": [
       "팝"
      ]
@@ -155,30 +153,6 @@
     },
     {
      "rank": 14,
-     "videoId": "Vu0sdxb3A8I",
-     "title": "Period",
-     "artist": "Woody",
-     "thumbnail": "https://i.ytimg.com/vi/Vu0sdxb3A8I/mqdefault.jpg",
-     "duration": 200,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 15,
-     "videoId": "CbVqeMUJDr8",
-     "title": "TALK",
-     "artist": "ALLDAY PROJECT",
-     "thumbnail": "https://i.ytimg.com/vi/CbVqeMUJDr8/mqdefault.jpg",
-     "duration": 171,
-     "genres": [
-      "팝",
-      "힙합",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 16,
      "videoId": "RHc2-jncx4w",
      "title": "눈부신 계절을 달려",
      "artist": "Boramiyu",
@@ -189,25 +163,51 @@
      ]
     },
     {
+     "rank": 15,
+     "videoId": "LEyldGY4ggM",
+     "title": "ME AND MY CLAN",
+     "artist": "CHANGMO",
+     "thumbnail": "https://i.ytimg.com/vi/LEyldGY4ggM/mqdefault.jpg",
+     "duration": 152,
+     "genres": [
+      "힙합"
+     ]
+    },
+    {
+     "rank": 16,
+     "videoId": "rr_mHc_Cvyw",
+     "title": "DO IT LIKE THIS",
+     "artist": "ALLDAY PROJECT",
+     "thumbnail": "https://i.ytimg.com/vi/rr_mHc_Cvyw/mqdefault.jpg",
+     "duration": 135,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
+    },
+    {
      "rank": 17,
-     "videoId": "n9h7WZg1oYs",
-     "title": "Waste My Time",
-     "artist": "Marc Atlas",
-     "thumbnail": "https://i.ytimg.com/vi/n9h7WZg1oYs/mqdefault.jpg",
-     "duration": 190,
+     "videoId": "Vu0sdxb3A8I",
+     "title": "Period",
+     "artist": "Woody",
+     "thumbnail": "https://i.ytimg.com/vi/Vu0sdxb3A8I/mqdefault.jpg",
+     "duration": 200,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 18,
-     "videoId": "MAIWvlrymlE",
-     "title": "Recharge Me",
-     "artist": "WENDY",
-     "thumbnail": "https://i.ytimg.com/vi/MAIWvlrymlE/mqdefault.jpg",
+     "videoId": "CbVqeMUJDr8",
+     "title": "TALK",
+     "artist": "ALLDAY PROJECT",
+     "thumbnail": "https://i.ytimg.com/vi/CbVqeMUJDr8/mqdefault.jpg",
      "duration": 171,
      "genres": [
-      "팝"
+      "팝",
+      "힙합",
+      "일렉트로닉"
      ]
     },
     {
@@ -234,28 +234,15 @@
     },
     {
      "rank": 21,
-     "videoId": "apZeMNBM5Gw",
-     "title": "Like The First Day",
-     "artist": "FTISLAND",
-     "thumbnail": "https://i.ytimg.com/vi/apZeMNBM5Gw/mqdefault.jpg",
-     "duration": 231,
-     "genres": [
-      "팝"
-     ]
+     "videoId": "aacJLrnNOYk",
+     "title": "생각날 리 없잖아 (Feat.진혁)",
+     "artist": "Private Story",
+     "thumbnail": "https://i.ytimg.com/vi/aacJLrnNOYk/mqdefault.jpg",
+     "duration": 220,
+     "genres": []
     },
     {
      "rank": 22,
-     "videoId": "7lhg38sKq_Y",
-     "title": "Just because I love you more",
-     "artist": "Bangssong",
-     "thumbnail": "https://i.ytimg.com/vi/7lhg38sKq_Y/mqdefault.jpg",
-     "duration": 255,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 23,
      "videoId": "ON1a7XYDa1E",
      "title": "Know My Name",
      "artist": "True Damage",
@@ -267,18 +254,49 @@
      ]
     },
     {
+     "rank": 23,
+     "videoId": "7lhg38sKq_Y",
+     "title": "Just because I love you more",
+     "artist": "Bangssong",
+     "thumbnail": "https://i.ytimg.com/vi/7lhg38sKq_Y/mqdefault.jpg",
+     "duration": 255,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 24,
-     "videoId": "Ra9rIXtlt6M",
-     "title": "Toy",
-     "artist": "PATEKO",
-     "thumbnail": "https://i.ytimg.com/vi/Ra9rIXtlt6M/mqdefault.jpg",
-     "duration": 178,
+     "videoId": "apZeMNBM5Gw",
+     "title": "Like The First Day",
+     "artist": "FTISLAND",
+     "thumbnail": "https://i.ytimg.com/vi/apZeMNBM5Gw/mqdefault.jpg",
+     "duration": 231,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 25,
+     "videoId": "i6HW_p5V1-8",
+     "title": "Sunset",
+     "artist": "Lim Ga Young",
+     "thumbnail": "https://i.ytimg.com/vi/i6HW_p5V1-8/mqdefault.jpg",
+     "duration": 231,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 26,
+     "videoId": "T86rBo1d_yk",
+     "title": "김다현 자작곡 : \"광양에서 만난사랑\" 조부모님께 바치는 헌정곡 2026.10.8일 정오 발매 #광양에서만난사랑 #김다현 #광양시 #홍보대사 ",
+     "artist": "김다현TV",
+     "thumbnail": "https://i.ytimg.com/vi/T86rBo1d_yk/mqdefault.jpg",
+     "duration": 183,
+     "genres": []
+    },
+    {
+     "rank": 27,
      "videoId": "62qQxaFZFZo",
      "title": "Dreamer",
      "artist": "QWER",
@@ -289,7 +307,7 @@
      ]
     },
     {
-     "rank": 26,
+     "rank": 28,
      "videoId": "786OXxbw2aM",
      "title": "[MV] ABM - '展示中毒' (Displayholic) feat. 初音ミク",
      "artist": "AnythingBecomeMoe",
@@ -298,44 +316,24 @@
      "genres": []
     },
     {
-     "rank": 27,
+     "rank": 29,
+     "videoId": "Ra9rIXtlt6M",
+     "title": "Toy",
+     "artist": "PATEKO",
+     "thumbnail": "https://i.ytimg.com/vi/Ra9rIXtlt6M/mqdefault.jpg",
+     "duration": 178,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 30,
      "videoId": "a01vA_7W6Z8",
      "title": "Autumn Night(Prod.Rocoberry)",
      "artist": "Joo Hyung Jin",
      "thumbnail": "https://i.ytimg.com/vi/a01vA_7W6Z8/mqdefault.jpg",
      "duration": 201,
      "genres": []
-    },
-    {
-     "rank": 28,
-     "videoId": "nNlojPr1F9k",
-     "title": "OUR STORY ",
-     "artist": "WOODZ",
-     "thumbnail": "https://i.ytimg.com/vi/nNlojPr1F9k/mqdefault.jpg",
-     "duration": 225,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "T86rBo1d_yk",
-     "title": "김다현 자작곡 : \"광양에서 만난사랑\" 조부모님께 바치는 헌정곡 2026.10.8일 정오 발매 #광양에서만난사랑 #김다현 #광양시 #홍보대사 ",
-     "artist": "김다현TV",
-     "thumbnail": "https://i.ytimg.com/vi/T86rBo1d_yk/mqdefault.jpg",
-     "duration": 183,
-     "genres": []
-    },
-    {
-     "rank": 30,
-     "videoId": "HdjrIrRDhic",
-     "title": "musubi",
-     "artist": "Ayumu Imazu",
-     "thumbnail": "https://i.ytimg.com/vi/HdjrIrRDhic/mqdefault.jpg",
-     "duration": 207,
-     "genres": [
-      "팝"
-     ]
     }
    ]
   },
@@ -368,17 +366,6 @@
     },
     {
      "rank": 3,
-     "videoId": "gaf-pO2PdO8",
-     "title": "Mrs. GREEN APPLE「ア・ポステリオリ」Official Music Video",
-     "artist": "Mrs. GREEN APPLE",
-     "thumbnail": "https://i.ytimg.com/vi/gaf-pO2PdO8/mqdefault.jpg",
-     "duration": 205,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 4,
      "videoId": "LnG4ekpYFug",
      "title": "Ayumu Imazu - 結び [Lyric Video]",
      "artist": "Ayumu Imazu",
@@ -389,12 +376,23 @@
      ]
     },
     {
-     "rank": 5,
+     "rank": 4,
      "videoId": "-7Tar3VlrIw",
      "title": "なにわ男子 - Moonlit [Official Music Video]",
      "artist": "なにわ男子",
      "thumbnail": "https://i.ytimg.com/vi/-7Tar3VlrIw/mqdefault.jpg",
      "duration": 267,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 5,
+     "videoId": "gaf-pO2PdO8",
+     "title": "Mrs. GREEN APPLE「ア・ポステリオリ」Official Music Video",
+     "artist": "Mrs. GREEN APPLE",
+     "thumbnail": "https://i.ytimg.com/vi/gaf-pO2PdO8/mqdefault.jpg",
+     "duration": 205,
      "genres": [
       "팝"
      ]
@@ -424,22 +422,22 @@
     },
     {
      "rank": 8,
-     "videoId": "YYSnrmuz6WI",
-     "title": "Cinderella",
-     "artist": "Mrs. GREEN APPLE",
-     "thumbnail": "https://i.ytimg.com/vi/YYSnrmuz6WI/mqdefault.jpg",
-     "duration": 276,
+     "videoId": "j5yxDVboR00",
+     "title": "Aぇ! group - Mrs.Vampire（Dance Practice）",
+     "artist": "Aぇ! group",
+     "thumbnail": "https://i.ytimg.com/vi/j5yxDVboR00/mqdefault.jpg",
+     "duration": 197,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 9,
-     "videoId": "j5yxDVboR00",
-     "title": "Aぇ! group - Mrs.Vampire（Dance Practice）",
-     "artist": "Aぇ! group",
-     "thumbnail": "https://i.ytimg.com/vi/j5yxDVboR00/mqdefault.jpg",
-     "duration": 197,
+     "videoId": "YYSnrmuz6WI",
+     "title": "Cinderella",
+     "artist": "Mrs. GREEN APPLE",
+     "thumbnail": "https://i.ytimg.com/vi/YYSnrmuz6WI/mqdefault.jpg",
+     "duration": 276,
      "genres": [
       "팝"
      ]
@@ -468,6 +466,18 @@
     },
     {
      "rank": 12,
+     "videoId": "L-tQ2lx27t8",
+     "title": "RADWIMPS - 夕星 -ゆうづつ- / Yuzutsu [Official Music Video]",
+     "artist": "RADWIMPS",
+     "thumbnail": "https://i.ytimg.com/vi/L-tQ2lx27t8/mqdefault.jpg",
+     "duration": 304,
+     "genres": [
+      "팝",
+      "인디"
+     ]
+    },
+    {
+     "rank": 13,
      "videoId": "OWDcn7hl16A",
      "title": "Aiobahn +81 feat. DEMONDICE - DEMON'S SHOT (Official MV) [Theme for PUKEY GODDESS SHOT TRICK]",
      "artist": "Aiobahn",
@@ -479,7 +489,7 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 14,
      "videoId": "IuaNJzi21a0",
      "title": "ONE N' ONLY／ “Golden Sun” Music Video",
      "artist": "ONE N' ONLY TV",
@@ -490,23 +500,12 @@
      ]
     },
     {
-     "rank": 14,
-     "videoId": "smFp0sksH84",
-     "title": "#Kroi - SPIN [Official Video] (スティール・ボール・ラン ジョジョの奇妙な冒険 オープニングテーマ)",
-     "artist": "Kroi",
-     "thumbnail": "https://i.ytimg.com/vi/smFp0sksH84/mqdefault.jpg",
-     "duration": 306,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 15,
-     "videoId": "nn2V3mptPLg",
-     "title": "MAZZEL × STARGLOW / Nameless MythS -Music Video-",
-     "artist": "BMSG",
-     "thumbnail": "https://i.ytimg.com/vi/nn2V3mptPLg/mqdefault.jpg",
-     "duration": 257,
+     "videoId": "z12U3ZWckqU",
+     "title": "KEY TO LIT【Strawberry Breakfast(SixTONES)】Arena Tour 2026 NEO CLASSICSより",
+     "artist": "ジュニアCHANNEL",
+     "thumbnail": "https://i.ytimg.com/vi/z12U3ZWckqU/mqdefault.jpg",
+     "duration": 212,
      "genres": [
       "팝"
      ]
@@ -522,12 +521,14 @@
     },
     {
      "rank": 17,
-     "videoId": "2rhLKnWCo6Y",
-     "title": "AIYOU - Eve Music Video",
-     "artist": "Eve",
-     "thumbnail": "https://i.ytimg.com/vi/2rhLKnWCo6Y/mqdefault.jpg",
-     "duration": 165,
-     "genres": []
+     "videoId": "smFp0sksH84",
+     "title": "#Kroi - SPIN [Official Video] (スティール・ボール・ラン ジョジョの奇妙な冒険 オープニングテーマ)",
+     "artist": "Kroi",
+     "thumbnail": "https://i.ytimg.com/vi/smFp0sksH84/mqdefault.jpg",
+     "duration": 306,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 18,
@@ -543,32 +544,35 @@
     },
     {
      "rank": 19,
-     "videoId": "FvRaYwGW0k4",
-     "title": "【MV】怠。 / ILLGATOR",
-     "artist": "Paradox Live 公式チャンネル",
-     "thumbnail": "https://i.ytimg.com/vi/FvRaYwGW0k4/mqdefault.jpg",
-     "duration": 184,
-     "genres": []
+     "videoId": "b3Y0vjJ1owA",
+     "title": "Fujii Kaze - You (Live at FUJI ROCK FESTIVAL '26)",
+     "artist": "Fujii Kaze",
+     "thumbnail": "https://i.ytimg.com/vi/b3Y0vjJ1owA/mqdefault.jpg",
+     "duration": 334,
+     "genres": [
+      "팝",
+      "록",
+      "재즈"
+     ]
     },
     {
      "rank": 20,
-     "videoId": "9M4W-t8_zK8",
-     "title": "NiziU(니쥬) \"Sour Grapes\" M/V",
-     "artist": "JYP Entertainment",
-     "thumbnail": "https://i.ytimg.com/vi/9M4W-t8_zK8/mqdefault.jpg",
-     "duration": 189,
+     "videoId": "nn2V3mptPLg",
+     "title": "MAZZEL × STARGLOW / Nameless MythS -Music Video-",
+     "artist": "BMSG",
+     "thumbnail": "https://i.ytimg.com/vi/nn2V3mptPLg/mqdefault.jpg",
+     "duration": 257,
      "genres": [
-      "팝",
-      "일렉트로닉"
+      "팝"
      ]
     },
     {
      "rank": 21,
-     "videoId": "58TbfRY2R8Y",
-     "title": "エメラルド / キタニタツヤ - Emerald / Tatsuya Kitani",
-     "artist": "キタニタツヤ / Tatsuya Kitani",
-     "thumbnail": "https://i.ytimg.com/vi/58TbfRY2R8Y/mqdefault.jpg",
-     "duration": 238,
+     "videoId": "2rhLKnWCo6Y",
+     "title": "AIYOU - Eve Music Video",
+     "artist": "Eve",
+     "thumbnail": "https://i.ytimg.com/vi/2rhLKnWCo6Y/mqdefault.jpg",
+     "duration": 165,
      "genres": []
     },
     {
@@ -584,63 +588,24 @@
     },
     {
      "rank": 23,
-     "videoId": "gFv6CAD5rcc",
-     "title": "BE:FIRST / DEAD EYES EVERYWHERE feat. ATL Jacob -Special Dance Performance-",
-     "artist": "BE:FIRST Official",
-     "thumbnail": "https://i.ytimg.com/vi/gFv6CAD5rcc/mqdefault.jpg",
-     "duration": 158,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 24,
-     "videoId": "U3cl-z5PH8o",
-     "title": "JO1 | 'ANIMAL' Official MV",
-     "artist": "JO1",
-     "thumbnail": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
-     "duration": 198,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 25,
-     "videoId": "iWsLWfkFJUk",
-     "title": "ボルテッカー feat. 初音ミク / DECO*27 【加賀美ハヤト Cover】#にじポケミクリレー",
-     "artist": "加賀美 ハヤト/Hayato Kagami",
-     "thumbnail": "https://i.ytimg.com/vi/iWsLWfkFJUk/mqdefault.jpg",
-     "duration": 154,
+     "videoId": "58TbfRY2R8Y",
+     "title": "エメラルド / キタニタツヤ - Emerald / Tatsuya Kitani",
+     "artist": "キタニタツヤ / Tatsuya Kitani",
+     "thumbnail": "https://i.ytimg.com/vi/58TbfRY2R8Y/mqdefault.jpg",
+     "duration": 238,
      "genres": []
     },
     {
-     "rank": 26,
-     "videoId": "1Gw28BgEp6o",
-     "title": "京本大我 – Butterfly",
-     "artist": "京本大我 from ART-PUT",
-     "thumbnail": "https://i.ytimg.com/vi/1Gw28BgEp6o/mqdefault.jpg",
-     "duration": 216,
-     "genres": [
-      "팝"
-     ]
+     "rank": 24,
+     "videoId": "FvRaYwGW0k4",
+     "title": "【MV】怠。 / ILLGATOR",
+     "artist": "Paradox Live 公式チャンネル",
+     "thumbnail": "https://i.ytimg.com/vi/FvRaYwGW0k4/mqdefault.jpg",
+     "duration": 184,
+     "genres": []
     },
     {
-     "rank": 27,
-     "videoId": "b3Y0vjJ1owA",
-     "title": "Fujii Kaze - You (Live at FUJI ROCK FESTIVAL '26)",
-     "artist": "Fujii Kaze",
-     "thumbnail": "https://i.ytimg.com/vi/b3Y0vjJ1owA/mqdefault.jpg",
-     "duration": 334,
-     "genres": [
-      "팝",
-      "록",
-      "재즈"
-     ]
-    },
-    {
-     "rank": 28,
+     "rank": 25,
      "videoId": "NuPVr1BxqU8",
      "title": "Vaundy LIVE ＂しわあわせ＂(映画『ママがもうこの世界にいなくても 私の命の日記』主題歌) | ASIA ARENA TOUR 2026@ INSPIRE ARENA in SEOUL",
      "artist": "Vaundy",
@@ -653,12 +618,60 @@
      ]
     },
     {
-     "rank": 29,
-     "videoId": "nUmNCyxE29A",
-     "title": "板倉可奈 (CUTIE STREET) - DOLL / HIGHLIGHT",
+     "rank": 26,
+     "videoId": "9M4W-t8_zK8",
+     "title": "NiziU(니쥬) \"Sour Grapes\" M/V",
+     "artist": "JYP Entertainment",
+     "thumbnail": "https://i.ytimg.com/vi/9M4W-t8_zK8/mqdefault.jpg",
+     "duration": 189,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 27,
+     "videoId": "gFv6CAD5rcc",
+     "title": "BE:FIRST / DEAD EYES EVERYWHERE feat. ATL Jacob -Special Dance Performance-",
+     "artist": "BE:FIRST Official",
+     "thumbnail": "https://i.ytimg.com/vi/gFv6CAD5rcc/mqdefault.jpg",
+     "duration": 158,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "4zWvHgLTjNs",
+     "title": "忘れらんねえよ - アイラブ言う / THE FIRST TAKE",
      "artist": "THE FIRST TAKE",
-     "thumbnail": "https://i.ytimg.com/vi/nUmNCyxE29A/mqdefault.jpg",
-     "duration": 139,
+     "thumbnail": "https://i.ytimg.com/vi/4zWvHgLTjNs/mqdefault.jpg",
+     "duration": 285,
+     "genres": [
+      "팝",
+      "록"
+     ]
+    },
+    {
+     "rank": 29,
+     "videoId": "U3cl-z5PH8o",
+     "title": "JO1 | 'ANIMAL' Official MV",
+     "artist": "JO1",
+     "thumbnail": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
+     "duration": 198,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 30,
+     "videoId": "iWsLWfkFJUk",
+     "title": "ボルテッカー feat. 初音ミク / DECO*27 【加賀美ハヤト Cover】#にじポケミクリレー",
+     "artist": "加賀美 ハヤト/Hayato Kagami",
+     "thumbnail": "https://i.ytimg.com/vi/iWsLWfkFJUk/mqdefault.jpg",
+     "duration": 154,
      "genres": []
     }
    ]
@@ -670,18 +683,6 @@
    "items": [
     {
      "rank": 1,
-     "videoId": "mw3kSNIxjqo",
-     "title": "Taylor Swift - Patient Zero (Official Music Video)",
-     "artist": "Taylor Swift",
-     "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
-     "duration": 313,
-     "genres": [
-      "팝",
-      "인디"
-     ]
-    },
-    {
-     "rank": 2,
      "videoId": "VUIgT-E4IS0",
      "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
      "artist": "Bulin 47 Oficial",
@@ -690,6 +691,18 @@
      "genres": [
       "힙합",
       "라틴"
+     ]
+    },
+    {
+     "rank": 2,
+     "videoId": "mw3kSNIxjqo",
+     "title": "Taylor Swift - Patient Zero (Official Music Video)",
+     "artist": "Taylor Swift",
+     "thumbnail": "https://i.ytimg.com/vi/mw3kSNIxjqo/mqdefault.jpg",
+     "duration": 313,
+     "genres": [
+      "팝",
+      "인디"
      ]
     },
     {
@@ -730,40 +743,6 @@
     },
     {
      "rank": 6,
-     "videoId": "gpjocObn2BQ",
-     "title": "5.0",
-     "artist": "LOS DOS DE TAMAULIPAS",
-     "thumbnail": "https://i.ytimg.com/vi/gpjocObn2BQ/mqdefault.jpg",
-     "duration": 144,
-     "genres": [
-      "라틴"
-     ]
-    },
-    {
-     "rank": 7,
-     "videoId": "eJFi2TK5174",
-     "title": "Solar Eclipse",
-     "artist": "Drake",
-     "thumbnail": "https://i.ytimg.com/vi/eJFi2TK5174/mqdefault.jpg",
-     "duration": 219,
-     "genres": [
-      "힙합"
-     ]
-    },
-    {
-     "rank": 8,
-     "videoId": "Zb3H_W6z9Ak",
-     "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
-     "artist": "LilBabyVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/Zb3H_W6z9Ak/mqdefault.jpg",
-     "duration": 254,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 9,
      "videoId": "3juuih0WdH8",
      "title": "Anuel AA - Vuelve (Video Oficial)",
      "artist": "Anuel AA",
@@ -776,32 +755,18 @@
      ]
     },
     {
-     "rank": 10,
-     "videoId": "WDgiZpKJBHQ",
-     "title": "Ricardo Arjona y Grupo Firme - Amor Factura (Video Oficial)  ⁨@ArjonaOficial @GrupoFirmeOficial",
-     "artist": "Ricardo Arjona",
-     "thumbnail": "https://i.ytimg.com/vi/WDgiZpKJBHQ/mqdefault.jpg",
-     "duration": 237,
+     "rank": 7,
+     "videoId": "gpjocObn2BQ",
+     "title": "5.0",
+     "artist": "LOS DOS DE TAMAULIPAS",
+     "thumbnail": "https://i.ytimg.com/vi/gpjocObn2BQ/mqdefault.jpg",
+     "duration": 144,
      "genres": [
-      "팝",
       "라틴"
      ]
     },
     {
-     "rank": 11,
-     "videoId": "6gRbAU4Puek",
-     "title": "Quebec",
-     "artist": "Drake",
-     "thumbnail": "https://i.ytimg.com/vi/6gRbAU4Puek/mqdefault.jpg",
-     "duration": 131,
-     "genres": [
-      "팝",
-      "힙합",
-      "R&B·소울"
-     ]
-    },
-    {
-     "rank": 12,
+     "rank": 8,
      "videoId": "gXSQdXSPsDs",
      "title": "Paciencia",
      "artist": "LOS DOS DE TAMAULIPAS",
@@ -812,7 +777,20 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 9,
+     "videoId": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "artist": "DrakeVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/vBk30V8AukM/mqdefault.jpg",
+     "duration": 245,
+     "genres": [
+      "팝",
+      "힙합",
+      "R&B·소울"
+     ]
+    },
+    {
+     "rank": 10,
      "videoId": "48rRv5ISfrg",
      "title": "Gunna - pop it [Official Video]",
      "artist": "Gunna",
@@ -824,7 +802,19 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 11,
+     "videoId": "Zb3H_W6z9Ak",
+     "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
+     "artist": "LilBabyVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/Zb3H_W6z9Ak/mqdefault.jpg",
+     "duration": 254,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
+     "rank": 12,
      "videoId": "yFMNbaD9-uo",
      "title": "En Dios Confío",
      "artist": "LOS DOS DE TAMAULIPAS",
@@ -835,7 +825,7 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 13,
      "videoId": "9KVsSUFW5Bk",
      "title": "EZ MIL & Eminem - MADARA (feat. Neil Kaplan & Hideyoshi) [Official Lyric Video]",
      "artist": "EZ MIL",
@@ -848,7 +838,43 @@
      ]
     },
     {
+     "rank": 14,
+     "videoId": "WDgiZpKJBHQ",
+     "title": "Ricardo Arjona y Grupo Firme - Amor Factura (Video Oficial)  ⁨@ArjonaOficial @GrupoFirmeOficial",
+     "artist": "Ricardo Arjona",
+     "thumbnail": "https://i.ytimg.com/vi/WDgiZpKJBHQ/mqdefault.jpg",
+     "duration": 237,
+     "genres": [
+      "팝",
+      "라틴"
+     ]
+    },
+    {
+     "rank": 15,
+     "videoId": "6gRbAU4Puek",
+     "title": "Quebec",
+     "artist": "Drake",
+     "thumbnail": "https://i.ytimg.com/vi/6gRbAU4Puek/mqdefault.jpg",
+     "duration": 131,
+     "genres": [
+      "팝",
+      "힙합",
+      "R&B·소울"
+     ]
+    },
+    {
      "rank": 16,
+     "videoId": "CgayKlnjmMg",
+     "title": "The Aura Farmer - Horror Skunx (official song)",
+     "artist": "Horror Skunx",
+     "thumbnail": "https://i.ytimg.com/vi/CgayKlnjmMg/mqdefault.jpg",
+     "duration": 139,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 17,
      "videoId": "ZfdwnCz-kiA",
      "title": "DADDY YANKEE-  BOTZ (Bésame OTra veZ) Official Video",
      "artist": "Daddy Yankee",
@@ -861,54 +887,20 @@
      ]
     },
     {
-     "rank": 17,
-     "videoId": "JdXdQsP2_9M",
-     "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
-     "artist": "Kid Rock",
-     "thumbnail": "https://i.ytimg.com/vi/JdXdQsP2_9M/mqdefault.jpg",
-     "duration": 345,
-     "genres": [
-      "팝",
-      "록"
-     ]
-    },
-    {
      "rank": 18,
-     "videoId": "bzO58iQM19g",
-     "title": "Cold Shoulder",
-     "artist": "Drake",
-     "thumbnail": "https://i.ytimg.com/vi/bzO58iQM19g/mqdefault.jpg",
-     "duration": 235,
-     "genres": [
-      "힙합"
-     ]
-    },
-    {
-     "rank": 19,
-     "videoId": "l9T2RuAKRLs",
-     "title": "Tomala Cochino - Cartel de Santa | @elcarteldesantatv",
-     "artist": "elcarteldesantatv",
-     "thumbnail": "https://i.ytimg.com/vi/l9T2RuAKRLs/mqdefault.jpg",
-     "duration": 210,
-     "genres": [
-      "힙합",
-      "라틴"
-     ]
-    },
-    {
-     "rank": 20,
-     "videoId": "1l7wbZmdtys",
-     "title": "Bruno Mars - Dance With Me [Official Music Video]",
-     "artist": "Bruno Mars",
-     "thumbnail": "https://i.ytimg.com/vi/1l7wbZmdtys/mqdefault.jpg",
-     "duration": 220,
+     "videoId": "AzUzdpHSUTo",
+     "title": "Drake, Don Toliver, Yebba - Cold Shoulder",
+     "artist": "DrakeVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/AzUzdpHSUTo/mqdefault.jpg",
+     "duration": 246,
      "genres": [
       "팝",
+      "힙합",
       "R&B·소울"
      ]
     },
     {
-     "rank": 21,
+     "rank": 19,
      "videoId": "MWULhyrh998",
      "title": "hunnid PROBLEMS.",
      "artist": "YFN Lucci",
@@ -920,41 +912,54 @@
      ]
     },
     {
-     "rank": 22,
-     "videoId": "Qd76DppRIjk",
-     "title": "Fullychop - Rap n Clap (Official Music Video)",
-     "artist": "FullyChop",
-     "thumbnail": "https://i.ytimg.com/vi/Qd76DppRIjk/mqdefault.jpg",
-     "duration": 126,
+     "rank": 20,
+     "videoId": "lV1DPjdLBOg",
+     "title": "pop it",
+     "artist": "Gunna",
+     "thumbnail": "https://i.ytimg.com/vi/lV1DPjdLBOg/mqdefault.jpg",
+     "duration": 139,
      "genres": [
       "힙합"
      ]
     },
     {
-     "rank": 23,
-     "videoId": "CgayKlnjmMg",
-     "title": "The Aura Farmer - Horror Skunx (official song)",
-     "artist": "Horror Skunx",
-     "thumbnail": "https://i.ytimg.com/vi/CgayKlnjmMg/mqdefault.jpg",
-     "duration": 139,
+     "rank": 21,
+     "videoId": "l9T2RuAKRLs",
+     "title": "Tomala Cochino - Cartel de Santa | @elcarteldesantatv",
+     "artist": "elcarteldesantatv",
+     "thumbnail": "https://i.ytimg.com/vi/l9T2RuAKRLs/mqdefault.jpg",
+     "duration": 210,
      "genres": [
-      "팝"
+      "힙합",
+      "라틴"
+     ]
+    },
+    {
+     "rank": 22,
+     "videoId": "JdXdQsP2_9M",
+     "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
+     "artist": "Kid Rock",
+     "thumbnail": "https://i.ytimg.com/vi/JdXdQsP2_9M/mqdefault.jpg",
+     "duration": 345,
+     "genres": [
+      "팝",
+      "록"
+     ]
+    },
+    {
+     "rank": 23,
+     "videoId": "1l7wbZmdtys",
+     "title": "Bruno Mars - Dance With Me [Official Music Video]",
+     "artist": "Bruno Mars",
+     "thumbnail": "https://i.ytimg.com/vi/1l7wbZmdtys/mqdefault.jpg",
+     "duration": 220,
+     "genres": [
+      "팝",
+      "R&B·소울"
      ]
     },
     {
      "rank": 24,
-     "videoId": "fYaF00OZ69U",
-     "title": "Troye Sivan - FF (Official Music Video)",
-     "artist": "TroyeSivanVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
-     "duration": 292,
-     "genres": [
-      "팝",
-      "인디"
-     ]
-    },
-    {
-     "rank": 25,
      "videoId": "9_yFutQBfug",
      "title": "Los Caro - No Hay Loco [Video Oficial]",
      "artist": "STREET MOB",
@@ -965,29 +970,18 @@
      ]
     },
     {
-     "rank": 26,
-     "videoId": "5L8HtOh-RMw",
-     "title": "Come Back To Me",
-     "artist": "Russ",
-     "thumbnail": "https://i.ytimg.com/vi/5L8HtOh-RMw/mqdefault.jpg",
-     "duration": 187,
+     "rank": 25,
+     "videoId": "Qd76DppRIjk",
+     "title": "Fullychop - Rap n Clap (Official Music Video)",
+     "artist": "FullyChop",
+     "thumbnail": "https://i.ytimg.com/vi/Qd76DppRIjk/mqdefault.jpg",
+     "duration": 126,
      "genres": [
       "힙합"
      ]
     },
     {
-     "rank": 27,
-     "videoId": "_aKgAniBxY8",
-     "title": "Jane!",
-     "artist": "The Long Faces",
-     "thumbnail": "https://i.ytimg.com/vi/_aKgAniBxY8/mqdefault.jpg",
-     "duration": 187,
-     "genres": [
-      "인디"
-     ]
-    },
-    {
-     "rank": 28,
+     "rank": 26,
      "videoId": "2ZTcvsdMR1c",
      "title": "Ayra Starr - Heaven Baby ft. ZAYN",
      "artist": "AyraStarrVEVO",
@@ -999,28 +993,48 @@
      ]
     },
     {
-     "rank": 29,
-     "videoId": "Lca7VGqAHaY",
-     "title": "Kodak Black - Little Birdie  [Official Music Video]",
-     "artist": "Kodak Black",
-     "thumbnail": "https://i.ytimg.com/vi/Lca7VGqAHaY/mqdefault.jpg",
-     "duration": 157,
+     "rank": 27,
+     "videoId": "fYaF00OZ69U",
+     "title": "Troye Sivan - FF (Official Music Video)",
+     "artist": "TroyeSivanVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
+     "duration": 292,
      "genres": [
       "팝",
+      "인디"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "ENXLhu3UYto",
+     "title": "Suzuki (from GTAVI: The Album)",
+     "artist": "Fuerza Regida",
+     "thumbnail": "https://i.ytimg.com/vi/ENXLhu3UYto/mqdefault.jpg",
+     "duration": 112,
+     "genres": []
+    },
+    {
+     "rank": 29,
+     "videoId": "Sf-uA4PNLEw",
+     "title": "Trigga500k - 60 Days In (Official Video)",
+     "artist": "Trigga500kVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/Sf-uA4PNLEw/mqdefault.jpg",
+     "duration": 138,
+     "genres": [
       "힙합"
      ]
     },
     {
      "rank": 30,
-     "videoId": "MYFFA242azM",
-     "title": "Natanael Cano x Tito Double P x Victor Mendivil x Ovi - OLIVIA LA FLAKA [Oficial Video]",
-     "artist": "Natanael Cano",
-     "thumbnail": "https://i.ytimg.com/vi/MYFFA242azM/mqdefault.jpg",
-     "duration": 363,
+     "videoId": "6Y-T--EBq-0",
+     "title": "Me, a God",
+     "artist": "Seb Lowe",
+     "thumbnail": "https://i.ytimg.com/vi/6Y-T--EBq-0/mqdefault.jpg",
+     "duration": 166,
      "genres": [
       "팝",
-      "힙합",
-      "라틴"
+      "록",
+      "인디"
      ]
     }
    ]
@@ -1065,18 +1079,6 @@
     },
     {
      "rank": 4,
-     "videoId": "2ZTcvsdMR1c",
-     "title": "Ayra Starr - Heaven Baby ft. ZAYN",
-     "artist": "AyraStarrVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
-     "duration": 165,
-     "genres": [
-      "팝",
-      "R&B·소울"
-     ]
-    },
-    {
-     "rank": 5,
      "videoId": "C9OmyNRyz4E",
      "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
      "artist": "Sidhu Moose Wala",
@@ -1085,6 +1087,18 @@
      "genres": [
       "팝",
       "힙합"
+     ]
+    },
+    {
+     "rank": 5,
+     "videoId": "2ZTcvsdMR1c",
+     "title": "Ayra Starr - Heaven Baby ft. ZAYN",
+     "artist": "AyraStarrVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/2ZTcvsdMR1c/mqdefault.jpg",
+     "duration": 165,
+     "genres": [
+      "팝",
+      "R&B·소울"
      ]
     },
     {
@@ -1102,14 +1116,13 @@
     },
     {
      "rank": 7,
-     "videoId": "Pd1yGW_g2T8",
-     "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
-     "artist": "Karan Aujla",
-     "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg",
-     "duration": 218,
+     "videoId": "CgayKlnjmMg",
+     "title": "The Aura Farmer - Horror Skunx (official song)",
+     "artist": "Horror Skunx",
+     "thumbnail": "https://i.ytimg.com/vi/CgayKlnjmMg/mqdefault.jpg",
+     "duration": 139,
      "genres": [
-      "팝",
-      "힙합"
+      "팝"
      ]
     },
     {
@@ -1136,18 +1149,6 @@
     },
     {
      "rank": 10,
-     "videoId": "3Rmi6JBZjAE",
-     "title": "Headie One - 'TALKIN MY LANGUAGE' (Music Video)",
-     "artist": "Headie One",
-     "thumbnail": "https://i.ytimg.com/vi/3Rmi6JBZjAE/mqdefault.jpg",
-     "duration": 161,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 11,
      "videoId": "dFK83k379mU",
      "title": "Girls All Around The World",
      "artist": "Digga",
@@ -1159,64 +1160,7 @@
      ]
     },
     {
-     "rank": 12,
-     "videoId": "fYaF00OZ69U",
-     "title": "Troye Sivan - FF (Official Music Video)",
-     "artist": "TroyeSivanVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
-     "duration": 292,
-     "genres": [
-      "팝",
-      "인디"
-     ]
-    },
-    {
-     "rank": 13,
-     "videoId": "1GKyX3PFW-Q",
-     "title": "Bugzy Malone - Tears (Official Video)",
-     "artist": "Bugzy Malone",
-     "thumbnail": "https://i.ytimg.com/vi/1GKyX3PFW-Q/mqdefault.jpg",
-     "duration": 198,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 14,
-     "videoId": "vBk30V8AukM",
-     "title": "Drake, Don Toliver - Solar Eclipse",
-     "artist": "DrakeVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/vBk30V8AukM/mqdefault.jpg",
-     "duration": 245,
-     "genres": [
-      "팝",
-      "힙합",
-      "R&B·소울"
-     ]
-    },
-    {
-     "rank": 15,
-     "videoId": "I5JGLhUQDHs",
-     "title": "Toni de la Brasov  ❌️  Roberto Bunea  ❌️  Armăsarul",
-     "artist": "AmmA Music & Sound",
-     "thumbnail": "https://i.ytimg.com/vi/I5JGLhUQDHs/mqdefault.jpg",
-     "duration": 157,
-     "genres": []
-    },
-    {
-     "rank": 16,
-     "videoId": "CgayKlnjmMg",
-     "title": "The Aura Farmer - Horror Skunx (official song)",
-     "artist": "Horror Skunx",
-     "thumbnail": "https://i.ytimg.com/vi/CgayKlnjmMg/mqdefault.jpg",
-     "duration": 139,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 17,
+     "rank": 11,
      "videoId": "jvsXV3m26e8",
      "title": "French Montana, Max B, Skepta, D-Block Europe - Ever Since U Left Me (UK Remix) [Official Video]",
      "artist": "French Montana",
@@ -1229,24 +1173,96 @@
      ]
     },
     {
+     "rank": 12,
+     "videoId": "Pd1yGW_g2T8",
+     "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
+     "artist": "Karan Aujla",
+     "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/mqdefault.jpg",
+     "duration": 218,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
+     "rank": 13,
+     "videoId": "fYaF00OZ69U",
+     "title": "Troye Sivan - FF (Official Music Video)",
+     "artist": "TroyeSivanVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/fYaF00OZ69U/mqdefault.jpg",
+     "duration": 292,
+     "genres": [
+      "팝",
+      "인디"
+     ]
+    },
+    {
+     "rank": 14,
+     "videoId": "3Rmi6JBZjAE",
+     "title": "Headie One - 'TALKIN MY LANGUAGE' (Music Video)",
+     "artist": "Headie One",
+     "thumbnail": "https://i.ytimg.com/vi/3Rmi6JBZjAE/mqdefault.jpg",
+     "duration": 161,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
+     "rank": 15,
+     "videoId": "vBk30V8AukM",
+     "title": "Drake, Don Toliver - Solar Eclipse",
+     "artist": "DrakeVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/vBk30V8AukM/mqdefault.jpg",
+     "duration": 245,
+     "genres": [
+      "팝",
+      "힙합",
+      "R&B·소울"
+     ]
+    },
+    {
+     "rank": 16,
+     "videoId": "1GKyX3PFW-Q",
+     "title": "Bugzy Malone - Tears (Official Video)",
+     "artist": "Bugzy Malone",
+     "thumbnail": "https://i.ytimg.com/vi/1GKyX3PFW-Q/mqdefault.jpg",
+     "duration": 198,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
+     "rank": 17,
+     "videoId": "I5JGLhUQDHs",
+     "title": "Toni de la Brasov  ❌️  Roberto Bunea  ❌️  Armăsarul",
+     "artist": "AmmA Music & Sound",
+     "thumbnail": "https://i.ytimg.com/vi/I5JGLhUQDHs/mqdefault.jpg",
+     "duration": 157,
+     "genres": []
+    },
+    {
      "rank": 18,
+     "videoId": "Omtq4Qsk0uY",
+     "title": "Chase & Status - Carnage (ft. Little Simz)",
+     "artist": "Chase & Status",
+     "thumbnail": "https://i.ytimg.com/vi/Omtq4Qsk0uY/mqdefault.jpg",
+     "duration": 189,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 19,
      "videoId": "uEJA-OZ75VU",
      "title": "Florin Cercel ❌️ Edward Sanda - O sa fie bine [Video Oficial] 2026",
      "artist": "FLORIN CERCEL",
      "thumbnail": "https://i.ytimg.com/vi/uEJA-OZ75VU/mqdefault.jpg",
      "duration": 254,
      "genres": []
-    },
-    {
-     "rank": 19,
-     "videoId": "4Xc6P3m3mtc",
-     "title": "INAT - Zeynep Bastık X Dhurata Dora | Music Video",
-     "artist": "Zeynep Bastık",
-     "thumbnail": "https://i.ytimg.com/vi/4Xc6P3m3mtc/mqdefault.jpg",
-     "duration": 178,
-     "genres": [
-      "팝"
-     ]
     },
     {
      "rank": 20,
@@ -1276,53 +1292,17 @@
     },
     {
      "rank": 22,
-     "videoId": "d2-dpM0crY0",
-     "title": "SIENNA SPIRO - Great Expectation (Live from the 2026 VMAs)",
-     "artist": "SiennaSpiroVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/d2-dpM0crY0/mqdefault.jpg",
-     "duration": 184,
+     "videoId": "4Xc6P3m3mtc",
+     "title": "INAT - Zeynep Bastık X Dhurata Dora | Music Video",
+     "artist": "Zeynep Bastık",
+     "thumbnail": "https://i.ytimg.com/vi/4Xc6P3m3mtc/mqdefault.jpg",
+     "duration": 178,
      "genres": [
-      "팝",
-      "R&B·소울"
+      "팝"
      ]
     },
     {
      "rank": 23,
-     "videoId": "VQC1XXfsPrI",
-     "title": "Marnz Malone x Clavish - Get It How You Live (Official Music Video)",
-     "artist": "Marnz Malone",
-     "thumbnail": "https://i.ytimg.com/vi/VQC1XXfsPrI/mqdefault.jpg",
-     "duration": 272,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 24,
-     "videoId": "3g6deNjbuxs",
-     "title": "Blaqbonez- Ikebe 3000 (feat. Asake) [Official Music Video]",
-     "artist": "Blaqbonez",
-     "thumbnail": "https://i.ytimg.com/vi/3g6deNjbuxs/mqdefault.jpg",
-     "duration": 218,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 25,
-     "videoId": "gpkYsJighUY",
-     "title": "Aujla Szn (Official Audio) Karan Aujla  | Mxrci  | Aujla Szn 1",
-     "artist": "Karan Aujla",
-     "thumbnail": "https://i.ytimg.com/vi/gpkYsJighUY/mqdefault.jpg",
-     "duration": 219,
-     "genres": [
-      "힙합"
-     ]
-    },
-    {
-     "rank": 26,
      "videoId": "48rRv5ISfrg",
      "title": "Gunna - pop it [Official Video]",
      "artist": "Gunna",
@@ -1334,20 +1314,40 @@
      ]
     },
     {
-     "rank": 27,
-     "videoId": "pBxrtb89y_I",
-     "title": "BADASS",
-     "artist": "Arjan Dhillon",
-     "thumbnail": "https://i.ytimg.com/vi/pBxrtb89y_I/mqdefault.jpg",
-     "duration": 162,
+     "rank": 24,
+     "videoId": "AVu5p2DMIf8",
+     "title": "Grimes - ACCELERANDO (Official Music Video)",
+     "artist": "Grimes",
+     "thumbnail": "https://i.ytimg.com/vi/AVu5p2DMIf8/mqdefault.jpg",
+     "duration": 272,
      "genres": [
       "팝",
-      "힙합",
       "일렉트로닉"
      ]
     },
     {
-     "rank": 28,
+     "rank": 25,
+     "videoId": "7Ho6htGh350",
+     "title": "Leo de la Rosiori - Platesc eu diferenta [Official Video] 2026",
+     "artist": "ZENYS",
+     "thumbnail": "https://i.ytimg.com/vi/7Ho6htGh350/mqdefault.jpg",
+     "duration": 167,
+     "genres": []
+    },
+    {
+     "rank": 26,
+     "videoId": "d2-dpM0crY0",
+     "title": "SIENNA SPIRO - Great Expectation (Live from the 2026 VMAs)",
+     "artist": "SiennaSpiroVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/d2-dpM0crY0/mqdefault.jpg",
+     "duration": 184,
+     "genres": [
+      "팝",
+      "R&B·소울"
+     ]
+    },
+    {
+     "rank": 27,
      "videoId": "AzUzdpHSUTo",
      "title": "Drake, Don Toliver, Yebba - Cold Shoulder",
      "artist": "DrakeVEVO",
@@ -1360,26 +1360,37 @@
      ]
     },
     {
+     "rank": 28,
+     "videoId": "gpkYsJighUY",
+     "title": "Aujla Szn (Official Audio) Karan Aujla  | Mxrci  | Aujla Szn 1",
+     "artist": "Karan Aujla",
+     "thumbnail": "https://i.ytimg.com/vi/gpkYsJighUY/mqdefault.jpg",
+     "duration": 219,
+     "genres": [
+      "힙합"
+     ]
+    },
+    {
      "rank": 29,
-     "videoId": "Omtq4Qsk0uY",
-     "title": "Chase & Status - Carnage (ft. Little Simz)",
-     "artist": "Chase & Status",
-     "thumbnail": "https://i.ytimg.com/vi/Omtq4Qsk0uY/mqdefault.jpg",
-     "duration": 189,
+     "videoId": "VQC1XXfsPrI",
+     "title": "Marnz Malone x Clavish - Get It How You Live (Official Music Video)",
+     "artist": "Marnz Malone",
+     "thumbnail": "https://i.ytimg.com/vi/VQC1XXfsPrI/mqdefault.jpg",
+     "duration": 272,
      "genres": [
       "팝",
-      "힙합",
-      "일렉트로닉"
+      "힙합"
      ]
     },
     {
      "rank": 30,
-     "videoId": "-BGuJUq5D0g",
-     "title": "GGL WUNI X KWENGFACE - WAIT UP (OFFICIAL MUSIC VIDEO)",
-     "artist": "Kwengface",
-     "thumbnail": "https://i.ytimg.com/vi/-BGuJUq5D0g/mqdefault.jpg",
-     "duration": 152,
+     "videoId": "3g6deNjbuxs",
+     "title": "Blaqbonez- Ikebe 3000 (feat. Asake) [Official Music Video]",
+     "artist": "Blaqbonez",
+     "thumbnail": "https://i.ytimg.com/vi/3g6deNjbuxs/mqdefault.jpg",
+     "duration": 218,
      "genres": [
+      "팝",
       "힙합"
      ]
     }
