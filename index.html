@@ -155,7 +155,8 @@
     const counts = new Map();
     for (const it of items) for (const g of it.genres || []) counts.set(g, (counts.get(g) || 0) + 1);
     if (!counts.has(genre)) genre = "";
-    $("genreRow").hidden = counts.size === 0;
+    // 장르가 없거나, 모든 곡이 한 장르뿐이면(예: 클래식 탭) 고를 게 없으니 숨겨요.
+    $("genreRow").hidden = counts.size === 0 || (counts.size === 1 && [...counts.values()][0] === items.length);
     const sel = $("genre");
     sel.replaceChildren(
       new Option(`장르 전체 (${items.length})`, ""),

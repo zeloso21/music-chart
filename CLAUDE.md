@@ -9,7 +9,8 @@
 - 배포 주소: https://zeloso21.github.io/music-chart/ (저장소 root의 `index.html`)
 - 구성: `fetch_data.py`(차트 수집) → `.github/workflows/update.yml`(매일 06:07 KST, 수동 실행, `main`에 스크립트 바뀌면 실행) → `data.json` → `index.html`(목록 + IFrame 플레이어).
 - `data.json` 형식: `{updated, charts: [{id, title, note, items: [{rank, videoId, title, artist, thumbnail, duration(초), genres}]}]}`. 탭은 `charts` 항목마다 하나씩 생기고, `note`는 탭 아래 순위 설명이에요.
-- 탭: 한국·일본·미국·영국. 나라마다 `mostPopular` 음악 차트를 YouTube 순서 그대로 써요. 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 하루 4 unit. 나라별 30곡 유지로 정했어요(더 늘리려면 Apple Music 차트 등 다른 출처가 필요한데, 사용자가 지금처럼 유지하기로 함).
+- 탭: 한국·일본·미국·영국·클래식. 나라마다 `mostPopular` 음악 차트를 YouTube 순서 그대로 써요. 한국에서 막힌 영상(`regionRestriction`)과 퍼가기 금지 영상은 빼요. 하루 4 unit(클래식 탭 포함 하루 약 105 unit). 나라별 30곡 유지로 정했어요(더 늘리려면 Apple Music 차트 등 다른 출처가 필요한데, 사용자가 지금처럼 유지하기로 함).
+- 클래식 탭: 인기 차트에는 클래식이 거의 없어서(2026-10-12 실측 KR·JP·US 0곡) `search.list`(topicId `/m/0ggq0m`, 음악 카테고리, 최근 30일, `order=viewCount`, `videoDuration=medium`=4~20분, `videoEmbeddable`, `regionCode=KR`)로 후보 50개를 찾고, `videos.list`로 상세를 받아 주제가 클래식인 것만 30곡. 하루 101 unit. 검색이 실패하면 기존 `data.json`의 클래식 목록을 그대로 써요.
 - 장르: `videos.list`의 `topicDetails.topicCategories`(위키백과 주소)를 `fetch_data.py`의 `GENRES`로 한국어 장르 이름에 대응시켜 곡마다 `genres`로 저장해요(추가 unit 없음). 화면에서는 나라 탭 아래 목록 상자로 '장르 전체'/장르별을 고르고, 순위 번호는 원래 나라 순위 그대로예요.
 - 여러 나라 점수를 합산한 '전세계'·'종합' 탭은 써 봤다가 사용자 요청으로 뺐어요. 나라별 탭만 둬요.
 
