@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:14+09:00",
+ "updated": "2026-10-12T22:17+09:00",
  "charts": [
   {
    "id": "kr",
@@ -676,12 +676,13 @@
       "클래식"
      ]
     }
-   ]
+   ],
+   "refreshed": "2026-10-12"
   },
   {
    "id": "oldies",
    "title": "올드팝",
-   "note": "비틀즈·퀸·아바·엘비스 등 60~80년대 가수 영상을 역대 조회수 순으로 모았어요. 한 가수는 3곡까지, 커버·노래방 영상은 빼요.",
+   "note": "비틀즈·퀸·아바·엘비스·카펜터스 등 60~80년대 가수 22팀의 영상을 역대 조회수 순으로 모았어요. 가수마다 최소 1곡, 많아야 3곡이고 커버·노래방 영상은 빼요. 7일마다 새로 받아요.",
    "items": [
     {
      "rank": 1,
@@ -734,6 +735,20 @@
     },
     {
      "rank": 5,
+     "videoId": "OMOGaugKpzs",
+     "title": "The Police - Every Breath You Take (Official Music Video)",
+     "artist": "The Police",
+     "thumbnail": "https://i.ytimg.com/vi/OMOGaugKpzs/mqdefault.jpg",
+     "duration": 229,
+     "genres": [
+      "팝",
+      "R&B·소울",
+      "록",
+      "인디"
+     ]
+    },
+    {
+     "rank": 6,
      "videoId": "PIb6AZdTr-A",
      "title": "Cyndi Lauper - Girls Just Want To Have Fun (Official Video)",
      "artist": "Cyndi Lauper",
@@ -747,24 +762,12 @@
      ]
     },
     {
-     "rank": 6,
+     "rank": 7,
      "videoId": "vx2u5uUu3DE",
      "title": "Bon Jovi - It's My Life (Official Music Video)",
      "artist": "Bon Jovi",
      "thumbnail": "https://i.ytimg.com/vi/vx2u5uUu3DE/mqdefault.jpg",
      "duration": 267,
-     "genres": [
-      "팝",
-      "록"
-     ]
-    },
-    {
-     "rank": 7,
-     "videoId": "lDK9QqIzhwk",
-     "title": "Bon Jovi - Livin' On A Prayer",
-     "artist": "Bon Jovi",
-     "thumbnail": "https://i.ytimg.com/vi/lDK9QqIzhwk/mqdefault.jpg",
-     "duration": 249,
      "genres": [
       "팝",
       "록"
@@ -784,6 +787,18 @@
     },
     {
      "rank": 9,
+     "videoId": "lDK9QqIzhwk",
+     "title": "Bon Jovi - Livin' On A Prayer",
+     "artist": "Bon Jovi",
+     "thumbnail": "https://i.ytimg.com/vi/lDK9QqIzhwk/mqdefault.jpg",
+     "duration": 249,
+     "genres": [
+      "팝",
+      "록"
+     ]
+    },
+    {
+     "rank": 10,
      "videoId": "QNJL6nfu__Q",
      "title": "Michael Jackson - They Don't Care About Us",
      "artist": "Michael Jackson",
@@ -795,7 +810,7 @@
      ]
     },
     {
-     "rank": 10,
+     "rank": 11,
      "videoId": "9BMwcO6_hyA",
      "title": "Bon Jovi - Always (Official Music Video)",
      "artist": "Bon Jovi",
@@ -807,7 +822,20 @@
      ]
     },
     {
-     "rank": 11,
+     "rank": 12,
+     "videoId": "zpzdgmqIHOQ",
+     "title": "Madonna - La Isla Bonita (Official Video)",
+     "artist": "Madonna",
+     "thumbnail": "https://i.ytimg.com/vi/zpzdgmqIHOQ/mqdefault.jpg",
+     "duration": 242,
+     "genres": [
+      "팝",
+      "R&B·소울",
+      "라틴"
+     ]
+    },
+    {
+     "rank": 13,
      "videoId": "xFrGuyw1V8s",
      "title": "ABBA - Dancing Queen (Official Music Video)",
      "artist": "ABBA",
@@ -820,7 +848,7 @@
      ]
     },
     {
-     "rank": 12,
+     "rank": 14,
      "videoId": "E8gmARGvPlI",
      "title": "Wham! - Last Christmas (Official Video)",
      "artist": "Wham!",
@@ -833,7 +861,7 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 15,
      "videoId": "FxYw0XPEoKE",
      "title": "Whitney Houston - I Have Nothing (Official HD Video)",
      "artist": "Whitney Houston",
@@ -845,7 +873,7 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 16,
      "videoId": "HgzGwKwLmgM",
      "title": "Queen - Don't Stop Me Now (Official Video Remastered 4K)",
      "artist": "Queen",
@@ -858,7 +886,7 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 17,
      "videoId": "NrLkTZrPZA4",
      "title": "Elton John - Sacrifice",
      "artist": "Elton John",
@@ -870,7 +898,7 @@
      ]
     },
     {
-     "rank": 16,
+     "rank": 18,
      "videoId": "I_izvAbhExY",
      "title": "Bee Gees - Stayin' Alive (Official Video)",
      "artist": "Bee Gees",
@@ -883,7 +911,7 @@
      ]
     },
     {
-     "rank": 17,
+     "rank": 19,
      "videoId": "XpqqjU7u5Yc",
      "title": "Bee Gees - How Deep Is Your Love (Official Video)",
      "artist": "Bee Gees",
@@ -895,7 +923,7 @@
      ]
     },
     {
-     "rank": 18,
+     "rank": 20,
      "videoId": "16y1AkoZkmQ",
      "title": "Boney M. - Rasputin (Sopot Festival 1979)",
      "artist": "Boney M.",
@@ -908,7 +936,7 @@
      ]
     },
     {
-     "rank": 19,
+     "rank": 21,
      "videoId": "XEjLoHdbVeE",
      "title": "ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
      "artist": "ABBA",
@@ -920,19 +948,7 @@
      ]
     },
     {
-     "rank": 20,
-     "videoId": "rY0WxgSXdEE",
-     "title": "Queen - Another One Bites the Dust (Official Video Remastered)",
-     "artist": "Queen",
-     "thumbnail": "https://i.ytimg.com/vi/rY0WxgSXdEE/mqdefault.jpg",
-     "duration": 219,
-     "genres": [
-      "팝",
-      "록"
-     ]
-    },
-    {
-     "rank": 21,
+     "rank": 22,
      "videoId": "O4irXQhgMqg",
      "title": "The Rolling Stones - Paint It, Black (Official Lyric Video)",
      "artist": "The Rolling Stones",
@@ -945,49 +961,35 @@
      ]
     },
     {
-     "rank": 22,
-     "videoId": "LKaXY4IdZ40",
-     "title": "Whitney Houston, Mariah Carey - When You Believe (Official HD Video)",
-     "artist": "Whitney Houston",
-     "thumbnail": "https://i.ytimg.com/vi/LKaXY4IdZ40/mqdefault.jpg",
-     "duration": 299,
+     "rank": 23,
+     "videoId": "BciS5krYL80",
+     "title": "Hotel California (2013 Remaster)",
+     "artist": "Eagles",
+     "thumbnail": "https://i.ytimg.com/vi/BciS5krYL80/mqdefault.jpg",
+     "duration": 392,
      "genres": [
-      "팝",
-      "R&B·소울"
+      "팝"
      ]
     },
     {
-     "rank": 23,
-     "videoId": "A_MjCqQoLLA",
-     "title": "The Beatles - The Beatles - Hey Jude (Official Music Video) [Remastered 2015]",
+     "rank": 24,
+     "videoId": "NCtzkaL2t_Y",
+     "title": "The Beatles - The Beatles - Don't Let Me Down (Live Performance) [Mono / 2009 Remaster]",
      "artist": "The Beatles",
-     "thumbnail": "https://i.ytimg.com/vi/A_MjCqQoLLA/mqdefault.jpg",
-     "duration": 490,
+     "thumbnail": "https://i.ytimg.com/vi/NCtzkaL2t_Y/mqdefault.jpg",
+     "duration": 212,
      "genres": [
       "팝",
       "록"
      ]
     },
     {
-     "rank": 24,
-     "videoId": "l3QxT-w3WMo",
-     "title": "Boney M. - Rivers of Babylon (Sopot Festival 1979)",
-     "artist": "Boney M.",
-     "thumbnail": "https://i.ytimg.com/vi/l3QxT-w3WMo/mqdefault.jpg",
-     "duration": 255,
-     "genres": [
-      "팝",
-      "R&B·소울",
-      "일렉트로닉"
-     ]
-    },
-    {
      "rank": 25,
-     "videoId": "unfzfe8f9NI",
-     "title": "ABBA - Mamma Mia (Official Music Video)",
-     "artist": "ABBA",
-     "thumbnail": "https://i.ytimg.com/vi/unfzfe8f9NI/mqdefault.jpg",
-     "duration": 211,
+     "videoId": "vGJTaP6anOU",
+     "title": "Elvis Presley - Can't Help Falling In Love (Official Audio)",
+     "artist": "Elvis Presley",
+     "thumbnail": "https://i.ytimg.com/vi/vGJTaP6anOU/mqdefault.jpg",
+     "duration": 181,
      "genres": [
       "팝",
       "R&B·소울"
@@ -995,17 +997,69 @@
     },
     {
      "rank": 26,
-     "videoId": "nREV8bQJ1MA",
-     "title": "Bee Gees - Too Much Heaven (Official Video)",
-     "artist": "Bee Gees",
-     "thumbnail": "https://i.ytimg.com/vi/nREV8bQJ1MA/mqdefault.jpg",
-     "duration": 300,
+     "videoId": "swJOIjjW69U",
+     "title": "Dreams (2004 Remaster)",
+     "artist": "Fleetwood Mac",
+     "thumbnail": "https://i.ytimg.com/vi/swJOIjjW69U/mqdefault.jpg",
+     "duration": 258,
+     "genres": [
+      "팝",
+      "R&B·소울",
+      "록"
+     ]
+    },
+    {
+     "rank": 27,
+     "videoId": "nqAvFx3NxUM",
+     "title": "Lionel Richie - All Night Long (All Night)",
+     "artist": "Lionel Richie",
+     "thumbnail": "https://i.ytimg.com/vi/nqAvFx3NxUM/mqdefault.jpg",
+     "duration": 229,
+     "genres": [
+      "팝",
+      "R&B·소울",
+      "재즈"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "NAEppFUWLfc",
+     "title": "Simon & Garfunkel - The Sound of Silence (from The Concert in Central Park)",
+     "artist": "Simon & Garfunkel",
+     "thumbnail": "https://i.ytimg.com/vi/NAEppFUWLfc/mqdefault.jpg",
+     "duration": 239,
      "genres": [
       "팝",
       "R&B·소울"
      ]
+    },
+    {
+     "rank": 29,
+     "videoId": "0CFuCYNx-1g",
+     "title": "Stevie Wonder Superstition",
+     "artist": "Stevie Wonder",
+     "thumbnail": "https://i.ytimg.com/vi/0CFuCYNx-1g/mqdefault.jpg",
+     "duration": 268,
+     "genres": [
+      "팝",
+      "R&B·소울"
+     ]
+    },
+    {
+     "rank": 30,
+     "videoId": "PjFoQxjgbrs",
+     "title": "Carpenters - Rainy Days And Mondays",
+     "artist": "Carpenters",
+     "thumbnail": "https://i.ytimg.com/vi/PjFoQxjgbrs/mqdefault.jpg",
+     "duration": 212,
+     "genres": [
+      "팝",
+      "R&B·소울",
+      "재즈"
+     ]
     }
-   ]
+   ],
+   "refreshed": "2026-10-12"
   }
  ]
 }
