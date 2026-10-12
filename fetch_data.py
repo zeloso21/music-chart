@@ -6,8 +6,9 @@ GitHub Actions에서 하루 1회 실행돼요. API 키는 환경 변수 YOUTUBE_
   곡마다 YouTube 주제 정보(topicDetails)로 장르를 붙여, 화면에서 장르별로 골라 볼 수 있어요.
 - 클래식: 인기 차트에는 클래식이 거의 없어서 search.list(100 unit)로 따로 찾아요.
   최근 30일 동안 올라온 클래식 영상(4~20분) 중 조회수 순이에요.
-- 올드팝: 정해 둔 60~80년대 가수(OLDIES_ARTISTS)의 영상을 search.list로 역대 조회수 순으로 찾아요.
-하루 약 203 unit이에요(한도 10,000).
+- 올드팝: 정해 둔 60~80년대 가수(OLDIES_ARTISTS)마다 search.list로 역대 조회수 순으로 찾아요.
+  가수 22팀 × 100 unit이라 일주일에 한 번만 새로 받아요.
+하루 약 102 unit, 올드팝을 새로 받는 날은 약 2,300 unit이에요(한도 10,000).
 """
 
 import json
@@ -59,6 +60,7 @@ OLDIES_ARTISTS = [
 ]
 OLDIES_SIZE = 30
 OLDIES_PER_ARTIST = 3   # 한 가수가 목록을 다 차지하지 않도록 가수당 최대 곡 수
+OLDIES_REFRESH_DAYS = 7  # 가수마다 검색해서 22팀 × 100 unit이 들어, 일주일에 한 번만 새로 받아요
 OLDIES_EXCLUDE = re.compile(r"cover|karaoke|reaction|tutorial|lesson|instrumental|remix|tribute|"
                             r"커버|노래방|반응", re.IGNORECASE)
 # YouTube 주제(위키백과 문서 이름) → 화면에 보일 장르 이름. 이 순서가 곡의 장르 표시 순서예요.
@@ -132,7 +134,7 @@ def search_videos(api_key, **params):
     if not ids:
         return []
     details = get_json(API_URL, {
-        "part": "snippet,contentDetails,status,topicDetails",
+        "part": "snippet,contentDetails,status,topicDetails,statistics",
         "id": ",".join(ids),
         "maxResults": "50",
         "key": api_key,
@@ -185,28 +187,37 @@ def oldies_artist(video):
 
 
 def fetch_oldies(api_key):
-    """목록의 가수 영상을 역대 조회수 순으로 찾아요.
+    """목록의 가수마다 따로 검색해서, 모든 가수가 최소 1곡씩 들어가게 만들어요.
 
-    커버·노래방·리액션 영상과 1분 30초~10분 밖의 영상(모음·짧은 클립)은 빼고,
-    가수당 최대 OLDIES_PER_ARTIST곡까지만 넣어요. 가수 이름은 채널명 대신 목록의 이름을 써요.
+    한 번에 검색하면 조회수가 아주 많은 가수(퀸·마이클 잭슨 등)가 결과를 다 차지해서
+    엘비스·카펜터스 같은 가수가 빠졌어요(2026-10-12 실측). 그래서 가수당 search.list 1회(100 unit)예요.
+    커버·노래방·리액션 영상과 1분 30초~10분 밖의 영상은 빼고, 가수당 최대 OLDIES_PER_ARTIST곡이에요.
+    각 가수의 1위 곡은 반드시 넣고, 남은 자리는 조회수 순으로 채운 뒤 전체를 조회수 순으로 정렬해요.
+    가수 이름은 채널명 대신 목록의 이름을 써요.
     """
-    videos = search_videos(api_key, q="|".join(f'"{a}"' for a in OLDIES_ARTISTS))
-    per_artist, picked = {}, []
-    for v in videos:
-        artist = oldies_artist(v)
-        dur = parse_duration(v.get("contentDetails", {}).get("duration"))
-        if not artist or OLDIES_EXCLUDE.search(v["snippet"].get("title", "")) or not 90 <= dur <= 600:
-            continue
-        if per_artist.get(artist, 0) >= OLDIES_PER_ARTIST:
-            continue
-        per_artist[artist] = per_artist.get(artist, 0) + 1
-        picked.append((v, artist))
-    print(f"  올드팝: 검색 {len(videos)}개, 남은 곡 {len(picked)}개")
-    items = to_items([v for v, _ in picked])
-    artists = {v["id"]: a for v, a in picked}
-    for it in items:
-        it["artist"] = artists[it["videoId"]]
-    return items[:OLDIES_SIZE]
+    per_artist = {}
+    for artist in OLDIES_ARTISTS:
+        picked = []
+        for v in search_videos(api_key, q=f'"{artist}"', maxResults="15"):
+            dur = parse_duration(v.get("contentDetails", {}).get("duration"))
+            if oldies_artist(v) != artist or OLDIES_EXCLUDE.search(v["snippet"].get("title", "")) or not 90 <= dur <= 600:
+                continue
+            picked.append(v)
+            if len(picked) == OLDIES_PER_ARTIST:
+                break
+        print(f"  올드팝 {artist}: {len(picked)}곡")
+        per_artist[artist] = [v for v in picked if playable(v)]
+
+    views = lambda v: int(v.get("statistics", {}).get("viewCount", 0))  # noqa: E731
+    firsts = [vs[0] for vs in per_artist.values() if vs]
+    rest = sorted((v for vs in per_artist.values() for v in vs[1:]), key=views, reverse=True)
+    chosen = sorted(firsts + rest[:max(0, OLDIES_SIZE - len(firsts))], key=views, reverse=True)
+
+    artist_of = {v["id"]: a for a, vs in per_artist.items() for v in vs}
+    items = to_items(chosen)
+    for it, v in zip(items, chosen):
+        it["artist"] = artist_of[v["id"]]
+    return items
 
 
 def previous_chart(chart_id):
@@ -284,8 +295,19 @@ def to_items(videos):
     return items
 
 
-def add_search_chart(charts, chart_id, title, fetch, api_key, note):
-    """검색으로 만드는 탭을 붙여요. 실패하거나 비면 기존 data.json의 같은 탭을 그대로 써요."""
+def add_search_chart(charts, chart_id, title, fetch, api_key, note, refresh_days=None):
+    """검색으로 만드는 탭을 붙여요. 실패하거나 비면 기존 data.json의 같은 탭을 그대로 써요.
+
+    refresh_days를 주면, 그 기간이 지나지 않은 동안은 검색하지 않고 지난 목록을 그대로 써요.
+    """
+    prev = previous_chart(chart_id)
+    today = datetime.now(KST).date()
+    if refresh_days and prev and prev.get("refreshed"):
+        age = (today - datetime.fromisoformat(prev["refreshed"]).date()).days
+        if 0 <= age < refresh_days:
+            print(f"{title}: {prev['refreshed']}에 받은 목록을 그대로 써요({refresh_days}일마다 새로 받아요).")
+            charts.append({**prev, "note": note})
+            return
     try:
         items = fetch(api_key)
     except Exception as e:  # noqa: BLE001 - 할당량 초과 등 무엇이든 어제 것으로 대신해요
@@ -295,8 +317,9 @@ def add_search_chart(charts, chart_id, title, fetch, api_key, note):
     for it in items:  # 검색 탭은 결과가 들쭉날쭉할 수 있어서, 무엇이 들어갔는지 실행 기록에 남겨요
         print(f"  {it['rank']:>2}. {it['artist']} | {it['title']}")
     if items:
-        charts.append({"id": chart_id, "title": title, "note": note, "items": items})
-    elif prev := previous_chart(chart_id):
+        charts.append({"id": chart_id, "title": title, "note": note, "items": items,
+                       "refreshed": today.isoformat()})
+    elif prev:
         print(f"{title}: 어제 목록을 그대로 써요.")
         charts.append(prev)
 
@@ -326,8 +349,10 @@ def main():
                      f"최근 {CLASSICAL_DAYS}일 동안 올라온 클래식 영상(4~20분) 중 조회수 순이에요. "
                      "YouTube 공식 차트가 아니라 검색 결과라서 순위 번호는 조회수 순서예요.")
     add_search_chart(charts, "oldies", "올드팝", fetch_oldies, api_key,
-                     "비틀즈·퀸·아바·엘비스 등 60~80년대 가수 영상을 역대 조회수 순으로 모았어요. "
-                     f"한 가수는 {OLDIES_PER_ARTIST}곡까지, 커버·노래방 영상은 빼요.")
+                     f"비틀즈·퀸·아바·엘비스·카펜터스 등 60~80년대 가수 {len(OLDIES_ARTISTS)}팀의 영상을 "
+                     f"역대 조회수 순으로 모았어요. 가수마다 최소 1곡, 많아야 {OLDIES_PER_ARTIST}곡이고 "
+                     f"커버·노래방 영상은 빼요. {OLDIES_REFRESH_DAYS}일마다 새로 받아요.",
+                     refresh_days=OLDIES_REFRESH_DAYS)
 
     data = {
         "updated": datetime.now(KST).isoformat(timespec="minutes"),
