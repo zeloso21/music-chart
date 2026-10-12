@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:17+09:00",
+ "updated": "2026-10-12T22:18+09:00",
  "charts": [
   {
    "id": "kr",
@@ -502,22 +502,22 @@
     },
     {
      "rank": 15,
-     "videoId": "K7tAJDfDJXM",
-     "title": "Beethoven: Symphony No. 7, II. Allegretto | AdventHealth Orchestra",
-     "artist": "Richard Hickam",
-     "thumbnail": "https://i.ytimg.com/vi/K7tAJDfDJXM/mqdefault.jpg",
-     "duration": 595,
+     "videoId": "FAdzfW604e0",
+     "title": "Bach - Fugue in B minor on a theme by Albinoni BWV 951 - Maude Gratton | Netherlands Bach Society",
+     "artist": "Netherlands Bach Society",
+     "thumbnail": "https://i.ytimg.com/vi/FAdzfW604e0/mqdefault.jpg",
+     "duration": 510,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 16,
-     "videoId": "FAdzfW604e0",
-     "title": "Bach - Fugue in B minor on a theme by Albinoni BWV 951 - Maude Gratton | Netherlands Bach Society",
-     "artist": "Netherlands Bach Society",
-     "thumbnail": "https://i.ytimg.com/vi/FAdzfW604e0/mqdefault.jpg",
-     "duration": 510,
+     "videoId": "K7tAJDfDJXM",
+     "title": "Beethoven: Symphony No. 7, II. Allegretto | AdventHealth Orchestra",
+     "artist": "Richard Hickam",
+     "thumbnail": "https://i.ytimg.com/vi/K7tAJDfDJXM/mqdefault.jpg",
+     "duration": 595,
      "genres": [
       "클래식"
      ]
@@ -535,22 +535,22 @@
     },
     {
      "rank": 18,
-     "videoId": "cXEwcfUIAxM",
-     "title": "Sheku Kanneh-Mason - Ravel's Kaddisch",
-     "artist": "Sheku Kanneh-Mason",
-     "thumbnail": "https://i.ytimg.com/vi/cXEwcfUIAxM/mqdefault.jpg",
-     "duration": 285,
+     "videoId": "lBAF0JYQvaE",
+     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – I. Moderato",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/lBAF0JYQvaE/mqdefault.jpg",
+     "duration": 676,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 19,
-     "videoId": "lBAF0JYQvaE",
-     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – I. Moderato",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/lBAF0JYQvaE/mqdefault.jpg",
-     "duration": 676,
+     "videoId": "cXEwcfUIAxM",
+     "title": "Sheku Kanneh-Mason - Ravel's Kaddisch",
+     "artist": "Sheku Kanneh-Mason",
+     "thumbnail": "https://i.ytimg.com/vi/cXEwcfUIAxM/mqdefault.jpg",
+     "duration": 285,
      "genres": [
       "클래식"
      ]
@@ -612,17 +612,6 @@
     },
     {
      "rank": 25,
-     "videoId": "GNtKnSRao9E",
-     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
-     "duration": 704,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 26,
      "videoId": "3FgwuUOpPu4",
      "title": "I Played Beethoven's Pathetique Sonata (3rd Movement) at a Street Piano 🎹",
      "artist": "YUKI PIANO",
@@ -633,7 +622,7 @@
      ]
     },
     {
-     "rank": 27,
+     "rank": 26,
      "videoId": "kDsB300X_MA",
      "title": "RACHMANINOFF - PRELUDE IN C SHARP MINOR OP. 3 NO. 2 - ORGAN - JONATHAN SCOTT - MARIENKIRCHE PRENZLAU",
      "artist": "scottbrothersduo",
@@ -644,7 +633,7 @@
      ]
     },
     {
-     "rank": 28,
+     "rank": 27,
      "videoId": "nh6_hdGvcqw",
      "title": "Beethoven and the Italians--The Stupidest, Most Badly Conducted Concept Album EVER?",
      "artist": "The Ultimate Classical Music Guide by Dave Hurwitz",
@@ -655,12 +644,23 @@
      ]
     },
     {
-     "rank": 29,
+     "rank": 28,
      "videoId": "soOWC8bJpL0",
      "title": "Stiff Movements Are Ruining Your Playing... Chopin Ballade No.1 | Subscriber Fryday",
      "artist": "Heart of the Keys",
      "thumbnail": "https://i.ytimg.com/vi/soOWC8bJpL0/mqdefault.jpg",
      "duration": 777,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 29,
+     "videoId": "GNtKnSRao9E",
+     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
+     "duration": 704,
      "genres": [
       "클래식"
      ]
