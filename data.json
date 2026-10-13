@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:18+09:00",
+ "updated": "2026-10-13T11:32+09:00",
  "charts": [
   {
    "id": "kr",
@@ -19,6 +19,17 @@
     },
     {
      "rank": 2,
+     "videoId": "JqdlzX5zFzg",
+     "title": "Still",
+     "artist": "N.Flying",
+     "thumbnail": "https://i.ytimg.com/vi/JqdlzX5zFzg/mqdefault.jpg",
+     "duration": 187,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 3,
      "videoId": "-JInUb_G6Jc",
      "title": "CRASH",
      "artist": "ALLDAY PROJECT",
@@ -31,36 +42,25 @@
      ]
     },
     {
-     "rank": 3,
-     "videoId": "JqdlzX5zFzg",
-     "title": "Still",
-     "artist": "N.Flying",
-     "thumbnail": "https://i.ytimg.com/vi/JqdlzX5zFzg/mqdefault.jpg",
-     "duration": 187,
+     "rank": 4,
+     "videoId": "TBmE7m0yEwY",
+     "title": "PLAVE 'Star Trace' M/V",
+     "artist": "PLAVE 플레이브",
+     "thumbnail": "https://i.ytimg.com/vi/TBmE7m0yEwY/mqdefault.jpg",
+     "duration": 219,
      "genres": [
-      "팝"
+      "팝",
+      "일렉트로닉"
      ]
     },
     {
-     "rank": 4,
+     "rank": 5,
      "videoId": "rE2gwiBwg9s",
      "title": "Epilogue",
      "artist": "Parc Jae Jung",
      "thumbnail": "https://i.ytimg.com/vi/rE2gwiBwg9s/mqdefault.jpg",
      "duration": 326,
      "genres": []
-    },
-    {
-     "rank": 5,
-     "videoId": "C8j3hMJIeFg",
-     "title": "Call Me",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/C8j3hMJIeFg/mqdefault.jpg",
-     "duration": 176,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
     },
     {
      "rank": 6,
@@ -75,6 +75,18 @@
     },
     {
      "rank": 7,
+     "videoId": "C8j3hMJIeFg",
+     "title": "Call Me",
+     "artist": "CHANGMO",
+     "thumbnail": "https://i.ytimg.com/vi/C8j3hMJIeFg/mqdefault.jpg",
+     "duration": 176,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
+     "rank": 8,
      "videoId": "n9h7WZg1oYs",
      "title": "Waste My Time",
      "artist": "Marc Atlas",
@@ -85,7 +97,7 @@
      ]
     },
     {
-     "rank": 8,
+     "rank": 9,
      "videoId": "MAIWvlrymlE",
      "title": "Recharge Me",
      "artist": "WENDY",
@@ -96,7 +108,19 @@
      ]
     },
     {
-     "rank": 9,
+     "rank": 10,
+     "videoId": "xIlFjHHUfI0",
+     "title": "NCT WISH 엔시티 위시 'I SPY' MV",
+     "artist": "SMTOWN",
+     "thumbnail": "https://i.ytimg.com/vi/xIlFjHHUfI0/mqdefault.jpg",
+     "duration": 196,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 11,
      "videoId": "iUNLe0iD9P8",
      "title": "ICONIC HEART (Korean Version)",
      "artist": "Hearts2Hearts",
@@ -107,7 +131,7 @@
      ]
     },
     {
-     "rank": 10,
+     "rank": 12,
      "videoId": "8CCOcYXiV-I",
      "title": "The Way We Were",
      "artist": "N.Flying",
@@ -118,7 +142,7 @@
      ]
     },
     {
-     "rank": 11,
+     "rank": 13,
      "videoId": "UC6Al_Ha-kw",
      "title": "UGRS RIGHT HERE!",
      "artist": "CHANGMO",
@@ -130,7 +154,7 @@
      ]
     },
     {
-     "rank": 12,
+     "rank": 14,
      "videoId": "-wGXnDzPovw",
      "title": "임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2",
      "artist": "임영웅",
@@ -141,7 +165,7 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 15,
      "videoId": "5_R8DlWZf_Q",
      "title": "Hongsil",
      "artist": "N.Flying",
@@ -152,7 +176,7 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 16,
      "videoId": "RHc2-jncx4w",
      "title": "눈부신 계절을 달려",
      "artist": "Boramiyu",
@@ -163,18 +187,7 @@
      ]
     },
     {
-     "rank": 15,
-     "videoId": "LEyldGY4ggM",
-     "title": "ME AND MY CLAN",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/LEyldGY4ggM/mqdefault.jpg",
-     "duration": 152,
-     "genres": [
-      "힙합"
-     ]
-    },
-    {
-     "rank": 16,
+     "rank": 17,
      "videoId": "i6HW_p5V1-8",
      "title": "Sunset",
      "artist": "Lim Ga Young",
@@ -185,7 +198,42 @@
      ]
     },
     {
-     "rank": 17,
+     "rank": 18,
+     "videoId": "8aKR2Ho--5k",
+     "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
+     "artist": "THEBLACKLABEL",
+     "thumbnail": "https://i.ytimg.com/vi/8aKR2Ho--5k/mqdefault.jpg",
+     "duration": 192,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 19,
+     "videoId": "ON1a7XYDa1E",
+     "title": "Know My Name",
+     "artist": "True Damage",
+     "thumbnail": "https://i.ytimg.com/vi/ON1a7XYDa1E/mqdefault.jpg",
+     "duration": 213,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 20,
+     "videoId": "LEyldGY4ggM",
+     "title": "ME AND MY CLAN",
+     "artist": "CHANGMO",
+     "thumbnail": "https://i.ytimg.com/vi/LEyldGY4ggM/mqdefault.jpg",
+     "duration": 152,
+     "genres": [
+      "힙합"
+     ]
+    },
+    {
+     "rank": 21,
      "videoId": "rr_mHc_Cvyw",
      "title": "DO IT LIKE THIS",
      "artist": "ALLDAY PROJECT",
@@ -198,42 +246,7 @@
      ]
     },
     {
-     "rank": 18,
-     "videoId": "ON1a7XYDa1E",
-     "title": "Know My Name",
-     "artist": "True Damage",
-     "thumbnail": "https://i.ytimg.com/vi/ON1a7XYDa1E/mqdefault.jpg",
-     "duration": 213,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 19,
-     "videoId": "TBmE7m0yEwY",
-     "title": "PLAVE 'Star Trace' M/V",
-     "artist": "PLAVE 플레이브",
-     "thumbnail": "https://i.ytimg.com/vi/TBmE7m0yEwY/mqdefault.jpg",
-     "duration": 219,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 20,
-     "videoId": "Vu0sdxb3A8I",
-     "title": "Period",
-     "artist": "Woody",
-     "thumbnail": "https://i.ytimg.com/vi/Vu0sdxb3A8I/mqdefault.jpg",
-     "duration": 200,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 21,
+     "rank": 22,
      "videoId": "VDxg_Shr_4U",
      "title": "Dime Girl",
      "artist": "Release",
@@ -244,7 +257,18 @@
      ]
     },
     {
-     "rank": 22,
+     "rank": 23,
+     "videoId": "Vu0sdxb3A8I",
+     "title": "Period",
+     "artist": "Woody",
+     "thumbnail": "https://i.ytimg.com/vi/Vu0sdxb3A8I/mqdefault.jpg",
+     "duration": 200,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 24,
      "videoId": "CbVqeMUJDr8",
      "title": "TALK",
      "artist": "ALLDAY PROJECT",
@@ -257,61 +281,7 @@
      ]
     },
     {
-     "rank": 23,
-     "videoId": "xIlFjHHUfI0",
-     "title": "NCT WISH 엔시티 위시 'I SPY' MV",
-     "artist": "SMTOWN",
-     "thumbnail": "https://i.ytimg.com/vi/xIlFjHHUfI0/mqdefault.jpg",
-     "duration": 196,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 24,
-     "videoId": "3gkSzjp-aoY",
-     "title": "Mili - Rendezvous [Limbus Company]",
-     "artist": "Mili",
-     "thumbnail": "https://i.ytimg.com/vi/3gkSzjp-aoY/mqdefault.jpg",
-     "duration": 226,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 25,
-     "videoId": "7lhg38sKq_Y",
-     "title": "Just because I love you more",
-     "artist": "Bangssong",
-     "thumbnail": "https://i.ytimg.com/vi/7lhg38sKq_Y/mqdefault.jpg",
-     "duration": 255,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "aacJLrnNOYk",
-     "title": "생각날 리 없잖아 (Feat.진혁)",
-     "artist": "Private Story",
-     "thumbnail": "https://i.ytimg.com/vi/aacJLrnNOYk/mqdefault.jpg",
-     "duration": 220,
-     "genres": []
-    },
-    {
-     "rank": 27,
-     "videoId": "apZeMNBM5Gw",
-     "title": "Like The First Day",
-     "artist": "FTISLAND",
-     "thumbnail": "https://i.ytimg.com/vi/apZeMNBM5Gw/mqdefault.jpg",
-     "duration": 231,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 28,
      "videoId": "T7EugiNQ9RA",
      "title": "미야 (Miya)",
      "artist": "장한별 JANG HAN BYUL",
@@ -322,21 +292,56 @@
      ]
     },
     {
+     "rank": 26,
+     "videoId": "3gkSzjp-aoY",
+     "title": "Mili - Rendezvous [Limbus Company]",
+     "artist": "Mili",
+     "thumbnail": "https://i.ytimg.com/vi/3gkSzjp-aoY/mqdefault.jpg",
+     "duration": 226,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 27,
+     "videoId": "7lhg38sKq_Y",
+     "title": "Just because I love you more",
+     "artist": "Bangssong",
+     "thumbnail": "https://i.ytimg.com/vi/7lhg38sKq_Y/mqdefault.jpg",
+     "duration": 255,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "FqB_g8Qw_V4",
+     "title": "꿈결 Like A Dream",
+     "artist": "NCT WISH",
+     "thumbnail": "https://i.ytimg.com/vi/FqB_g8Qw_V4/mqdefault.jpg",
+     "duration": 194,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 29,
-     "videoId": "T86rBo1d_yk",
-     "title": "김다현 자작곡 : \"광양에서 만난사랑\" 조부모님께 바치는 헌정곡 2026.10.8일 정오 발매 #광양에서만난사랑 #김다현 #광양시 #홍보대사 ",
-     "artist": "김다현TV",
-     "thumbnail": "https://i.ytimg.com/vi/T86rBo1d_yk/mqdefault.jpg",
-     "duration": 183,
-     "genres": []
+     "videoId": "E7CSVaczMJU",
+     "title": "PLAVE '푸른 하늘에 단비' Official Audio",
+     "artist": "PLAVE 플레이브",
+     "thumbnail": "https://i.ytimg.com/vi/E7CSVaczMJU/mqdefault.jpg",
+     "duration": 218,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 30,
-     "videoId": "786OXxbw2aM",
-     "title": "[MV] ABM - '展示中毒' (Displayholic) feat. 初音ミク",
-     "artist": "AnythingBecomeMoe",
-     "thumbnail": "https://i.ytimg.com/vi/786OXxbw2aM/mqdefault.jpg",
-     "duration": 143,
+     "videoId": "aacJLrnNOYk",
+     "title": "생각날 리 없잖아 (Feat.진혁)",
+     "artist": "Private Story",
+     "thumbnail": "https://i.ytimg.com/vi/aacJLrnNOYk/mqdefault.jpg",
+     "duration": 220,
      "genres": []
     }
    ]
@@ -491,17 +496,6 @@
     },
     {
      "rank": 14,
-     "videoId": "-v8n1NEL4vw",
-     "title": "J.S. Bach's \"Menuets I & II\" BWV 1007 performed by Alan Mearns on a 2026 Eduardo Bossa guitar",
-     "artist": "Guitar Salon International",
-     "thumbnail": "https://i.ytimg.com/vi/-v8n1NEL4vw/mqdefault.jpg",
-     "duration": 313,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 15,
      "videoId": "FAdzfW604e0",
      "title": "Bach - Fugue in B minor on a theme by Albinoni BWV 951 - Maude Gratton | Netherlands Bach Society",
      "artist": "Netherlands Bach Society",
@@ -512,7 +506,7 @@
      ]
     },
     {
-     "rank": 16,
+     "rank": 15,
      "videoId": "K7tAJDfDJXM",
      "title": "Beethoven: Symphony No. 7, II. Allegretto | AdventHealth Orchestra",
      "artist": "Richard Hickam",
@@ -523,7 +517,7 @@
      ]
     },
     {
-     "rank": 17,
+     "rank": 16,
      "videoId": "vKbokvVtEDE",
      "title": "Chopin Piano Concerto No 1: Movement 2 Romance (Larghetto)",
      "artist": "Piano Affair",
@@ -534,7 +528,7 @@
      ]
     },
     {
-     "rank": 18,
+     "rank": 17,
      "videoId": "lBAF0JYQvaE",
      "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – I. Moderato",
      "artist": "Release",
@@ -545,7 +539,7 @@
      ]
     },
     {
-     "rank": 19,
+     "rank": 18,
      "videoId": "cXEwcfUIAxM",
      "title": "Sheku Kanneh-Mason - Ravel's Kaddisch",
      "artist": "Sheku Kanneh-Mason",
@@ -556,7 +550,7 @@
      ]
     },
     {
-     "rank": 20,
+     "rank": 19,
      "videoId": "RTVIonxzDAk",
      "title": "Ricardo Gallén plays Prelude BWV 998 by Johann Sebastian Bach on a Siccas Luthiers \"Legacy\"",
      "artist": "SiccasGuitars",
@@ -567,12 +561,23 @@
      ]
     },
     {
-     "rank": 21,
+     "rank": 20,
      "videoId": "wWge3Yr6_0I",
      "title": "Justus Eichhorn - Bach: Italian Concerto, BWV 971: I. Allegro",
      "artist": "Deutsche Grammophon - DG",
      "thumbnail": "https://i.ytimg.com/vi/wWge3Yr6_0I/mqdefault.jpg",
      "duration": 257,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 21,
+     "videoId": "3FgwuUOpPu4",
+     "title": "I Played Beethoven's Pathetique Sonata (3rd Movement) at a Street Piano 🎹",
+     "artist": "YUKI PIANO",
+     "thumbnail": "https://i.ytimg.com/vi/3FgwuUOpPu4/mqdefault.jpg",
+     "duration": 323,
      "genres": [
       "클래식"
      ]
@@ -612,17 +617,28 @@
     },
     {
      "rank": 25,
-     "videoId": "3FgwuUOpPu4",
-     "title": "I Played Beethoven's Pathetique Sonata (3rd Movement) at a Street Piano 🎹",
-     "artist": "YUKI PIANO",
-     "thumbnail": "https://i.ytimg.com/vi/3FgwuUOpPu4/mqdefault.jpg",
-     "duration": 323,
+     "videoId": "GNtKnSRao9E",
+     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
+     "duration": 704,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 26,
+     "videoId": "kiCJ8HUK1Wo",
+     "title": "Twisted Sister Featuring Sebastian Bach - I Remember You (Skid Row) - 10/2/26 - The Big E Arena - MA",
+     "artist": "Henry LaPierre",
+     "thumbnail": "https://i.ytimg.com/vi/kiCJ8HUK1Wo/mqdefault.jpg",
+     "duration": 470,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 27,
      "videoId": "kDsB300X_MA",
      "title": "RACHMANINOFF - PRELUDE IN C SHARP MINOR OP. 3 NO. 2 - ORGAN - JONATHAN SCOTT - MARIENKIRCHE PRENZLAU",
      "artist": "scottbrothersduo",
@@ -633,7 +649,7 @@
      ]
     },
     {
-     "rank": 27,
+     "rank": 28,
      "videoId": "nh6_hdGvcqw",
      "title": "Beethoven and the Italians--The Stupidest, Most Badly Conducted Concept Album EVER?",
      "artist": "The Ultimate Classical Music Guide by Dave Hurwitz",
@@ -644,23 +660,12 @@
      ]
     },
     {
-     "rank": 28,
+     "rank": 29,
      "videoId": "soOWC8bJpL0",
      "title": "Stiff Movements Are Ruining Your Playing... Chopin Ballade No.1 | Subscriber Fryday",
      "artist": "Heart of the Keys",
      "thumbnail": "https://i.ytimg.com/vi/soOWC8bJpL0/mqdefault.jpg",
      "duration": 777,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "GNtKnSRao9E",
-     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
-     "duration": 704,
      "genres": [
       "클래식"
      ]
@@ -677,7 +682,7 @@
      ]
     }
    ],
-   "refreshed": "2026-10-12"
+   "refreshed": "2026-10-13"
   },
   {
    "id": "oldies",
