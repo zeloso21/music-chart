@@ -46,9 +46,18 @@ CLASSICAL_WORDS = re.compile(
     r"交響曲|協奏曲",
     re.IGNORECASE,
 )
-# 클래식 탭에서 빼는 영상: 리액션·커버·속도 바꾼 편집·장르 섞은 편곡 등(제목·채널명 둘 다 봐요)
-CLASSICAL_EXCLUDE = re.compile(r"reaction|react|first time|hears|tested|cover|slowed|reverb|sped up|"
-                               r"remix|lofi|lo-fi|techno|metal|gothic|battle|반응|커버|메탈", re.IGNORECASE)
+# 클래식 탭에서 빼는 영상: 리액션·커버·속도 바꾼 편집·장르 섞은 편곡·설명/레슨 영상 등(제목·채널명 둘 다 봐요)
+CLASSICAL_EXCLUDE = re.compile(
+    r"reaction|react|first time|hears|tested|cover|slowed|reverb|sped up|"
+    r"remix|lofi|lo-fi|techno|metal|gothic|battle|반응|커버|메탈|"
+    # 연주가 아니라 말로 설명·리뷰·레슨하는 영상(2026-10-13 실측: tonebase, Dave Hurwitz 등)
+    r"talk|review|lesson|tutorial|how to|explain|analysis|masterclass|podcast|interview|"
+    r"never heard|i'm a |ruining|your playing|fixing|subscriber|tips|learn|guide|stupidest|worst|"
+    r"설명|해설|강의|레슨|리뷰|"
+    # 록 가수 Sebastian Bach (J.S. Bach가 아닌)
+    r"(?<!johann )sebastian bach",
+    re.IGNORECASE,
+)
 CLASSICAL_DAYS = 30
 CLASSICAL_SIZE = 30
 # 올드팝 가수 목록. 검색어와 '이 가수 영상인지' 확인에 같이 써요. 더하거나 빼도 돼요.
