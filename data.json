@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:19+09:00",
+ "updated": "2026-10-13T13:21+09:00",
  "charts": [
   {
    "id": "kr",
@@ -641,17 +641,6 @@
     },
     {
      "rank": 27,
-     "videoId": "kd_MuJt1-20",
-     "title": "Fixing Chopin Nocturne Op.9 No.2 before I get a Heart Attack | Subscriber Fryday",
-     "artist": "Heart of the Keys",
-     "thumbnail": "https://i.ytimg.com/vi/kd_MuJt1-20/mqdefault.jpg",
-     "duration": 988,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 28,
      "videoId": "rjezeOts2Ns",
      "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – III. Allegro scherzando",
      "artist": "Release",
@@ -662,7 +651,7 @@
      ]
     },
     {
-     "rank": 29,
+     "rank": 28,
      "videoId": "UjFuQruvti0",
      "title": "Liszt: Consolations, S. 172 – No. 3 in D-flat major, Lento placido",
      "artist": "Release",
@@ -673,12 +662,23 @@
      ]
     },
     {
-     "rank": 30,
+     "rank": 29,
      "videoId": "YrS0OmeYY1Y",
      "title": "Yekwon Sunwoo - Liszt: Paraphrase on Mendelssohn's Wedding March (Arr. Horowitz)",
      "artist": "Deutsche Grammophon - DG",
      "thumbnail": "https://i.ytimg.com/vi/YrS0OmeYY1Y/mqdefault.jpg",
      "duration": 299,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 30,
+     "videoId": "A_gNH2P1Hd8",
+     "title": "악덕 피아니스트 쇼팽 발라드로 직접 참교육 해버린 쇼팽 ㅋㅋㅋㅋ[클래식 최초 AI 드라마]",
+     "artist": "또모TOWMOO",
+     "thumbnail": "https://i.ytimg.com/vi/A_gNH2P1Hd8/mqdefault.jpg",
+     "duration": 926,
      "genres": [
       "클래식"
      ]
