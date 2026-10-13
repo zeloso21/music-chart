@@ -52,7 +52,7 @@ CLASSICAL_EXCLUDE = re.compile(
     r"remix|lofi|lo-fi|techno|metal|gothic|battle|반응|커버|메탈|"
     # 연주가 아니라 말로 설명·리뷰·레슨하는 영상(2026-10-13 실측: tonebase, Dave Hurwitz 등)
     r"talk|review|lesson|tutorial|how to|explain|analysis|masterclass|podcast|interview|"
-    r"never heard|i'm a |ruining|your playing|tips|learn|guide|stupidest|worst|"
+    r"never heard|i'm a |ruining|your playing|fixing|subscriber|tips|learn|guide|stupidest|worst|"
     r"설명|해설|강의|레슨|리뷰|"
     # 록 가수 Sebastian Bach (J.S. Bach가 아닌)
     r"(?<!johann )sebastian bach",
