@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:39+09:00",
+ "updated": "2026-10-17T08:31+09:00",
  "charts": [
   {
    "id": "kr",
@@ -42,13 +42,14 @@
     },
     {
      "rank": 4,
-     "videoId": "JqdlzX5zFzg",
-     "title": "Still",
-     "artist": "N.Flying",
-     "thumbnail": "https://i.ytimg.com/vi/JqdlzX5zFzg/mqdefault.jpg",
-     "duration": 187,
+     "videoId": "8aKR2Ho--5k",
+     "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
+     "artist": "THEBLACKLABEL",
+     "thumbnail": "https://i.ytimg.com/vi/8aKR2Ho--5k/mqdefault.jpg",
+     "duration": 192,
      "genres": [
-      "팝"
+      "팝",
+      "일렉트로닉"
      ]
     },
     {
@@ -64,14 +65,13 @@
     },
     {
      "rank": 6,
-     "videoId": "8aKR2Ho--5k",
-     "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
-     "artist": "THEBLACKLABEL",
-     "thumbnail": "https://i.ytimg.com/vi/8aKR2Ho--5k/mqdefault.jpg",
-     "duration": 192,
+     "videoId": "JqdlzX5zFzg",
+     "title": "Still",
+     "artist": "N.Flying",
+     "thumbnail": "https://i.ytimg.com/vi/JqdlzX5zFzg/mqdefault.jpg",
+     "duration": 187,
      "genres": [
-      "팝",
-      "일렉트로닉"
+      "팝"
      ]
     },
     {
@@ -99,15 +99,13 @@
     },
     {
      "rank": 9,
-     "videoId": "-JInUb_G6Jc",
-     "title": "CRASH",
-     "artist": "ALLDAY PROJECT",
-     "thumbnail": "https://i.ytimg.com/vi/-JInUb_G6Jc/mqdefault.jpg",
+     "videoId": "PYcxdFVxtCo",
+     "title": "GGUN",
+     "artist": "PLAVE",
+     "thumbnail": "https://i.ytimg.com/vi/PYcxdFVxtCo/mqdefault.jpg",
      "duration": 173,
      "genres": [
-      "팝",
-      "힙합",
-      "일렉트로닉"
+      "팝"
      ]
     },
     {
@@ -123,17 +121,6 @@
     },
     {
      "rank": 11,
-     "videoId": "PYcxdFVxtCo",
-     "title": "GGUN",
-     "artist": "PLAVE",
-     "thumbnail": "https://i.ytimg.com/vi/PYcxdFVxtCo/mqdefault.jpg",
-     "duration": 173,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 12,
      "videoId": "XmDTuNJE-t4",
      "title": "소원빌기",
      "artist": "Woo Yerin",
@@ -144,7 +131,31 @@
      ]
     },
     {
+     "rank": 12,
+     "videoId": "-JInUb_G6Jc",
+     "title": "CRASH",
+     "artist": "ALLDAY PROJECT",
+     "thumbnail": "https://i.ytimg.com/vi/-JInUb_G6Jc/mqdefault.jpg",
+     "duration": 173,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
+    },
+    {
      "rank": 13,
+     "videoId": "mzaDWi7mU38",
+     "title": "Every Moment Of You",
+     "artist": "D.O.",
+     "thumbnail": "https://i.ytimg.com/vi/mzaDWi7mU38/mqdefault.jpg",
+     "duration": 234,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 14,
      "videoId": "mHAkko__z-8",
      "title": "Everything about you",
      "artist": "Release",
@@ -155,7 +166,7 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 15,
      "videoId": "aCWufV6ECsM",
      "title": "We Own This Street",
      "artist": "NCT WISH",
@@ -166,25 +177,15 @@
      ]
     },
     {
-     "rank": 15,
-     "videoId": "T7EugiNQ9RA",
-     "title": "미야 (Miya)",
-     "artist": "장한별 JANG HAN BYUL",
-     "thumbnail": "https://i.ytimg.com/vi/T7EugiNQ9RA/mqdefault.jpg",
-     "duration": 249,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 16,
-     "videoId": "n9h7WZg1oYs",
-     "title": "Waste My Time",
-     "artist": "Marc Atlas",
-     "thumbnail": "https://i.ytimg.com/vi/n9h7WZg1oYs/mqdefault.jpg",
-     "duration": 190,
+     "videoId": "nTs0Gc0b6Ww",
+     "title": "SUPERSTAR",
+     "artist": "A2O",
+     "thumbnail": "https://i.ytimg.com/vi/nTs0Gc0b6Ww/mqdefault.jpg",
+     "duration": 248,
      "genres": [
-      "팝"
+      "팝",
+      "일렉트로닉"
      ]
     },
     {
@@ -200,17 +201,61 @@
     },
     {
      "rank": 18,
-     "videoId": "MAIWvlrymlE",
-     "title": "Recharge Me",
-     "artist": "WENDY",
-     "thumbnail": "https://i.ytimg.com/vi/MAIWvlrymlE/mqdefault.jpg",
-     "duration": 171,
+     "videoId": "T7EugiNQ9RA",
+     "title": "미야 (Miya)",
+     "artist": "장한별 JANG HAN BYUL",
+     "thumbnail": "https://i.ytimg.com/vi/T7EugiNQ9RA/mqdefault.jpg",
+     "duration": 249,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 19,
+     "videoId": "n9h7WZg1oYs",
+     "title": "Waste My Time",
+     "artist": "Marc Atlas",
+     "thumbnail": "https://i.ytimg.com/vi/n9h7WZg1oYs/mqdefault.jpg",
+     "duration": 190,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 20,
+     "videoId": "Mx481RQ2VAw",
+     "title": "TATA",
+     "artist": "Loco",
+     "thumbnail": "https://i.ytimg.com/vi/Mx481RQ2VAw/mqdefault.jpg",
+     "duration": 164,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 21,
+     "videoId": "PFK4442H2cQ",
+     "title": "Love Again",
+     "artist": "POW",
+     "thumbnail": "https://i.ytimg.com/vi/PFK4442H2cQ/mqdefault.jpg",
+     "duration": 172,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 22,
+     "videoId": "OMw2MhB8Mss",
+     "title": "Someday, Again",
+     "artist": "Lim Ga Young",
+     "thumbnail": "https://i.ytimg.com/vi/OMw2MhB8Mss/mqdefault.jpg",
+     "duration": 186,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 23,
      "videoId": "iUNLe0iD9P8",
      "title": "ICONIC HEART (Korean Version)",
      "artist": "Hearts2Hearts",
@@ -221,16 +266,18 @@
      ]
     },
     {
-     "rank": 20,
-     "videoId": "rE2gwiBwg9s",
-     "title": "Epilogue",
-     "artist": "Parc Jae Jung",
-     "thumbnail": "https://i.ytimg.com/vi/rE2gwiBwg9s/mqdefault.jpg",
-     "duration": 326,
-     "genres": []
+     "rank": 24,
+     "videoId": "MAIWvlrymlE",
+     "title": "Recharge Me",
+     "artist": "WENDY",
+     "thumbnail": "https://i.ytimg.com/vi/MAIWvlrymlE/mqdefault.jpg",
+     "duration": 171,
+     "genres": [
+      "팝"
+     ]
     },
     {
-     "rank": 21,
+     "rank": 25,
      "videoId": "ON1a7XYDa1E",
      "title": "Know My Name",
      "artist": "True Damage",
@@ -242,7 +289,16 @@
      ]
     },
     {
-     "rank": 22,
+     "rank": 26,
+     "videoId": "rE2gwiBwg9s",
+     "title": "Epilogue",
+     "artist": "Parc Jae Jung",
+     "thumbnail": "https://i.ytimg.com/vi/rE2gwiBwg9s/mqdefault.jpg",
+     "duration": 326,
+     "genres": []
+    },
+    {
+     "rank": 27,
      "videoId": "6yRnuoiSDq8",
      "title": "Our Ending",
      "artist": "N.Flying",
@@ -253,18 +309,18 @@
      ]
     },
     {
-     "rank": 23,
-     "videoId": "PFK4442H2cQ",
-     "title": "Love Again",
-     "artist": "POW",
-     "thumbnail": "https://i.ytimg.com/vi/PFK4442H2cQ/mqdefault.jpg",
-     "duration": 172,
+     "rank": 28,
+     "videoId": "u9uw2U-0Emc",
+     "title": "Not Quite Us",
+     "artist": "Lee Min Jeong",
+     "thumbnail": "https://i.ytimg.com/vi/u9uw2U-0Emc/mqdefault.jpg",
+     "duration": 199,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 24,
+     "rank": 29,
      "videoId": "8CCOcYXiV-I",
      "title": "The Way We Were",
      "artist": "N.Flying",
@@ -275,19 +331,7 @@
      ]
     },
     {
-     "rank": 25,
-     "videoId": "nTs0Gc0b6Ww",
-     "title": "SUPERSTAR",
-     "artist": "A2O",
-     "thumbnail": "https://i.ytimg.com/vi/nTs0Gc0b6Ww/mqdefault.jpg",
-     "duration": 248,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 26,
+     "rank": 30,
      "videoId": "i6HW_p5V1-8",
      "title": "Sunset",
      "artist": "Lim Ga Young",
@@ -295,52 +339,6 @@
      "duration": 231,
      "genres": [
       "팝"
-     ]
-    },
-    {
-     "rank": 27,
-     "videoId": "ZnPMTLKEh9g",
-     "title": "나를 건 미래에 우린",
-     "artist": "Boramiyu",
-     "thumbnail": "https://i.ytimg.com/vi/ZnPMTLKEh9g/mqdefault.jpg",
-     "duration": 176,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 28,
-     "videoId": "C8j3hMJIeFg",
-     "title": "Call Me",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/C8j3hMJIeFg/mqdefault.jpg",
-     "duration": 176,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "-wGXnDzPovw",
-     "title": "임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2",
-     "artist": "임영웅",
-     "thumbnail": "https://i.ytimg.com/vi/-wGXnDzPovw/mqdefault.jpg",
-     "duration": 191,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 30,
-     "videoId": "UC6Al_Ha-kw",
-     "title": "UGRS RIGHT HERE!",
-     "artist": "CHANGMO",
-     "thumbnail": "https://i.ytimg.com/vi/UC6Al_Ha-kw/mqdefault.jpg",
-     "duration": 190,
-     "genres": [
-      "팝",
-      "힙합"
      ]
     }
    ]
@@ -451,17 +449,6 @@
     },
     {
      "rank": 10,
-     "videoId": "um8diQcliYw",
-     "title": "Claude Debussy: Première Rhapsodie for Clarinet and Piano - Selvadore Rähni, Tuuli Rähni",
-     "artist": "Selvadore Rähni, clarinet",
-     "thumbnail": "https://i.ytimg.com/vi/um8diQcliYw/mqdefault.jpg",
-     "duration": 489,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 11,
      "videoId": "BjCeMohlJlk",
      "title": "Teotronico suona il Preludio in Do Maggiore di Bach 🎹 a @LucillaKids",
      "artist": "Alman Kids",
@@ -472,23 +459,34 @@
      ]
     },
     {
+     "rank": 11,
+     "videoId": "um8diQcliYw",
+     "title": "Claude Debussy: Première Rhapsodie for Clarinet and Piano - Selvadore Rähni, Tuuli Rähni",
+     "artist": "Selvadore Rähni, clarinet",
+     "thumbnail": "https://i.ytimg.com/vi/um8diQcliYw/mqdefault.jpg",
+     "duration": 489,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 12,
-     "videoId": "Y_3SMMbBHUc",
-     "title": "Ivan Bessonov — Rachmaninoff: Scherzo in D minor",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/Y_3SMMbBHUc/mqdefault.jpg",
-     "duration": 245,
+     "videoId": "y3pvUVi_gSI",
+     "title": "Vivaldi - Autumn / The Four Seasons",
+     "artist": "Kassia",
+     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
+     "duration": 275,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 13,
-     "videoId": "y3pvUVi_gSI",
-     "title": "Vivaldi - Autumn / The Four Seasons",
-     "artist": "Kassia",
-     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
-     "duration": 275,
+     "videoId": "Y_3SMMbBHUc",
+     "title": "Ivan Bessonov — Rachmaninoff: Scherzo in D minor",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/Y_3SMMbBHUc/mqdefault.jpg",
+     "duration": 245,
      "genres": [
       "클래식"
      ]
@@ -528,22 +526,22 @@
     },
     {
      "rank": 17,
-     "videoId": "cXEwcfUIAxM",
-     "title": "Sheku Kanneh-Mason - Ravel's Kaddisch",
-     "artist": "Sheku Kanneh-Mason",
-     "thumbnail": "https://i.ytimg.com/vi/cXEwcfUIAxM/mqdefault.jpg",
-     "duration": 285,
+     "videoId": "wWge3Yr6_0I",
+     "title": "Justus Eichhorn - Bach: Italian Concerto, BWV 971: I. Allegro",
+     "artist": "Deutsche Grammophon - DG",
+     "thumbnail": "https://i.ytimg.com/vi/wWge3Yr6_0I/mqdefault.jpg",
+     "duration": 257,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 18,
-     "videoId": "wWge3Yr6_0I",
-     "title": "Justus Eichhorn - Bach: Italian Concerto, BWV 971: I. Allegro",
-     "artist": "Deutsche Grammophon - DG",
-     "thumbnail": "https://i.ytimg.com/vi/wWge3Yr6_0I/mqdefault.jpg",
-     "duration": 257,
+     "videoId": "cXEwcfUIAxM",
+     "title": "Sheku Kanneh-Mason - Ravel's Kaddisch",
+     "artist": "Sheku Kanneh-Mason",
+     "thumbnail": "https://i.ytimg.com/vi/cXEwcfUIAxM/mqdefault.jpg",
+     "duration": 285,
      "genres": [
       "클래식"
      ]
@@ -583,17 +581,6 @@
     },
     {
      "rank": 22,
-     "videoId": "GNtKnSRao9E",
-     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
-     "artist": "JuYoung Park",
-     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
-     "duration": 704,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 23,
      "videoId": "cdLwSfU06f8",
      "title": "Laura Lootens - Waltz Op. 34 No. 2 by Frederic Chopin (Official Video)",
      "artist": "Laura Lootens",
@@ -604,12 +591,23 @@
      ]
     },
     {
+     "rank": 23,
+     "videoId": "QsMfa0R1i1w",
+     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
+     "artist": "sergeikvitkoVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
+     "duration": 573,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 24,
-     "videoId": "hFhPmjWdrTM",
-     "title": "Rick Beato Interrogates Giant About Mozart - WEIRD",
-     "artist": "Sor Hands",
-     "thumbnail": "https://i.ytimg.com/vi/hFhPmjWdrTM/mqdefault.jpg",
-     "duration": 918,
+     "videoId": "GNtKnSRao9E",
+     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
+     "artist": "JuYoung Park",
+     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
+     "duration": 704,
      "genres": [
       "클래식"
      ]
@@ -627,6 +625,17 @@
     },
     {
      "rank": 26,
+     "videoId": "hFhPmjWdrTM",
+     "title": "Rick Beato Interrogates Giant About Mozart - WEIRD",
+     "artist": "Sor Hands",
+     "thumbnail": "https://i.ytimg.com/vi/hFhPmjWdrTM/mqdefault.jpg",
+     "duration": 918,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 27,
      "videoId": "UjFuQruvti0",
      "title": "Liszt: Consolations, S. 172 – No. 3 in D-flat major, Lento placido",
      "artist": "JuYoung Park",
@@ -637,29 +646,7 @@
      ]
     },
     {
-     "rank": 27,
-     "videoId": "QsMfa0R1i1w",
-     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
-     "artist": "sergeikvitkoVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
-     "duration": 573,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
      "rank": 28,
-     "videoId": "rjezeOts2Ns",
-     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – III. Allegro scherzando",
-     "artist": "JuYoung Park",
-     "thumbnail": "https://i.ytimg.com/vi/rjezeOts2Ns/mqdefault.jpg",
-     "duration": 703,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 29,
      "videoId": "LubvP4Z0nw4",
      "title": "Beethoven: Piano Sonata No. 8 in C minor, Op. 13 “Pathétique” – I. Grave—Allegro di...",
      "artist": "Minsung Lee",
@@ -670,18 +657,29 @@
      ]
     },
     {
+     "rank": 29,
+     "videoId": "rjezeOts2Ns",
+     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – III. Allegro scherzando",
+     "artist": "JuYoung Park",
+     "thumbnail": "https://i.ytimg.com/vi/rjezeOts2Ns/mqdefault.jpg",
+     "duration": 703,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 30,
-     "videoId": "kDsB300X_MA",
-     "title": "RACHMANINOFF - PRELUDE IN C SHARP MINOR OP. 3 NO. 2 - ORGAN - JONATHAN SCOTT - MARIENKIRCHE PRENZLAU",
-     "artist": "scottbrothersduo",
-     "thumbnail": "https://i.ytimg.com/vi/kDsB300X_MA/mqdefault.jpg",
-     "duration": 246,
+     "videoId": "YrXwezTTsrU",
+     "title": "King Bach vs. Yung Gravy (feat. Ari Kytsya)",
+     "artist": "Morgan Jay",
+     "thumbnail": "https://i.ytimg.com/vi/YrXwezTTsrU/mqdefault.jpg",
+     "duration": 291,
      "genres": [
       "클래식"
      ]
     }
    ],
-   "refreshed": "2026-10-16"
+   "refreshed": "2026-10-17"
   },
   {
    "id": "oldies",
