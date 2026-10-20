@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:04+09:00",
+ "updated": "2026-10-20T09:17+09:00",
  "charts": [
   {
    "id": "kr",
@@ -54,6 +54,18 @@
     },
     {
      "rank": 5,
+     "videoId": "rsNhWkC4neE",
+     "title": "IVE 아이브 'Looks Can Kill' MV",
+     "artist": "STARSHIP",
+     "thumbnail": "https://i.ytimg.com/vi/rsNhWkC4neE/mqdefault.jpg",
+     "duration": 243,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 6,
      "videoId": "TNC6ZdLylXM",
      "title": "I SPY",
      "artist": "NCT WISH",
@@ -64,7 +76,7 @@
      ]
     },
     {
-     "rank": 6,
+     "rank": 7,
      "videoId": "TBmE7m0yEwY",
      "title": "PLAVE 'Star Trace' M/V",
      "artist": "PLAVE 플레이브",
@@ -76,7 +88,7 @@
      ]
     },
     {
-     "rank": 7,
+     "rank": 8,
      "videoId": "JqdlzX5zFzg",
      "title": "Still",
      "artist": "N.Flying",
@@ -87,40 +99,7 @@
      ]
     },
     {
-     "rank": 8,
-     "videoId": "R4kmk4CDVHM",
-     "title": "CRY OUT LOUD",
-     "artist": "Roy Kim",
-     "thumbnail": "https://i.ytimg.com/vi/R4kmk4CDVHM/mqdefault.jpg",
-     "duration": 237,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 9,
-     "videoId": "u9uw2U-0Emc",
-     "title": "Not Quite Us",
-     "artist": "Lee Min Jeong",
-     "thumbnail": "https://i.ytimg.com/vi/u9uw2U-0Emc/mqdefault.jpg",
-     "duration": 199,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 10,
-     "videoId": "NMElrxGM1MI",
-     "title": "Sweet Rain",
-     "artist": "PLAVE",
-     "thumbnail": "https://i.ytimg.com/vi/NMElrxGM1MI/mqdefault.jpg",
-     "duration": 218,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 11,
      "videoId": "nTs0Gc0b6Ww",
      "title": "SUPERSTAR",
      "artist": "A2O",
@@ -132,7 +111,40 @@
      ]
     },
     {
+     "rank": 10,
+     "videoId": "R4kmk4CDVHM",
+     "title": "CRY OUT LOUD",
+     "artist": "Roy Kim",
+     "thumbnail": "https://i.ytimg.com/vi/R4kmk4CDVHM/mqdefault.jpg",
+     "duration": 237,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 11,
+     "videoId": "u9uw2U-0Emc",
+     "title": "Not Quite Us",
+     "artist": "Lee Min Jeong",
+     "thumbnail": "https://i.ytimg.com/vi/u9uw2U-0Emc/mqdefault.jpg",
+     "duration": 199,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 12,
+     "videoId": "NMElrxGM1MI",
+     "title": "Sweet Rain",
+     "artist": "PLAVE",
+     "thumbnail": "https://i.ytimg.com/vi/NMElrxGM1MI/mqdefault.jpg",
+     "duration": 218,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 13,
      "videoId": "FqB_g8Qw_V4",
      "title": "꿈결 Like A Dream",
      "artist": "NCT WISH",
@@ -143,7 +155,7 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 14,
      "videoId": "PYcxdFVxtCo",
      "title": "GGUN",
      "artist": "PLAVE",
@@ -154,7 +166,53 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 15,
+     "videoId": "Mx481RQ2VAw",
+     "title": "TATA",
+     "artist": "Loco",
+     "thumbnail": "https://i.ytimg.com/vi/Mx481RQ2VAw/mqdefault.jpg",
+     "duration": 164,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 16,
+     "videoId": "wlmQnXVWV5I",
+     "title": "Hide and Seek",
+     "artist": "Kim Gyeol",
+     "thumbnail": "https://i.ytimg.com/vi/wlmQnXVWV5I/mqdefault.jpg",
+     "duration": 215,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 17,
+     "videoId": "roHWN9fL2SM",
+     "title": "NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V",
+     "artist": "JYP Entertainment",
+     "thumbnail": "https://i.ytimg.com/vi/roHWN9fL2SM/mqdefault.jpg",
+     "duration": 211,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 18,
+     "videoId": "77sRWlOTfkA",
+     "title": "Propose",
+     "artist": "썸데이(Someday)",
+     "thumbnail": "https://i.ytimg.com/vi/77sRWlOTfkA/mqdefault.jpg",
+     "duration": 257,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 19,
      "videoId": "XmDTuNJE-t4",
      "title": "소원빌기",
      "artist": "Woo Yerin",
@@ -165,7 +223,7 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 20,
      "videoId": "-JInUb_G6Jc",
      "title": "CRASH",
      "artist": "ALLDAY PROJECT",
@@ -178,29 +236,7 @@
      ]
     },
     {
-     "rank": 16,
-     "videoId": "Mx481RQ2VAw",
-     "title": "TATA",
-     "artist": "Loco",
-     "thumbnail": "https://i.ytimg.com/vi/Mx481RQ2VAw/mqdefault.jpg",
-     "duration": 164,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 17,
-     "videoId": "77sRWlOTfkA",
-     "title": "Propose",
-     "artist": "썸데이(Someday)",
-     "thumbnail": "https://i.ytimg.com/vi/77sRWlOTfkA/mqdefault.jpg",
-     "duration": 257,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 18,
+     "rank": 21,
      "videoId": "aCWufV6ECsM",
      "title": "We Own This Street",
      "artist": "NCT WISH",
@@ -211,7 +247,7 @@
      ]
     },
     {
-     "rank": 19,
+     "rank": 22,
      "videoId": "mHAkko__z-8",
      "title": "Everything about you",
      "artist": "Release",
@@ -222,7 +258,18 @@
      ]
     },
     {
-     "rank": 20,
+     "rank": 23,
+     "videoId": "OMw2MhB8Mss",
+     "title": "Someday, Again",
+     "artist": "Lim Ga Young",
+     "thumbnail": "https://i.ytimg.com/vi/OMw2MhB8Mss/mqdefault.jpg",
+     "duration": 186,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 24,
      "videoId": "PFK4442H2cQ",
      "title": "Love Again",
      "artist": "POW",
@@ -233,7 +280,7 @@
      ]
     },
     {
-     "rank": 21,
+     "rank": 25,
      "videoId": "lBfysK-tSrU",
      "title": "바보야 (Feat.희진)",
      "artist": "Kadi Korgi",
@@ -245,18 +292,7 @@
      ]
     },
     {
-     "rank": 22,
-     "videoId": "OMw2MhB8Mss",
-     "title": "Someday, Again",
-     "artist": "Lim Ga Young",
-     "thumbnail": "https://i.ytimg.com/vi/OMw2MhB8Mss/mqdefault.jpg",
-     "duration": 186,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 23,
+     "rank": 26,
      "videoId": "n9h7WZg1oYs",
      "title": "Waste My Time",
      "artist": "Marc Atlas",
@@ -267,7 +303,18 @@
      ]
     },
     {
-     "rank": 24,
+     "rank": 27,
+     "videoId": "KFtR_-2fFVs",
+     "title": "사랑이 끝난 자리에 남아 (Feat.순길)",
+     "artist": "KYOE",
+     "thumbnail": "https://i.ytimg.com/vi/KFtR_-2fFVs/mqdefault.jpg",
+     "duration": 258,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 28,
      "videoId": "iUNLe0iD9P8",
      "title": "ICONIC HEART (Korean Version)",
      "artist": "Hearts2Hearts",
@@ -278,7 +325,19 @@
      ]
     },
     {
-     "rank": 25,
+     "rank": 29,
+     "videoId": "t3WHpXN0gQE",
+     "title": "RudE TaLK",
+     "artist": "NMIXX",
+     "thumbnail": "https://i.ytimg.com/vi/t3WHpXN0gQE/mqdefault.jpg",
+     "duration": 154,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 30,
      "videoId": "ON1a7XYDa1E",
      "title": "Know My Name",
      "artist": "True Damage",
@@ -287,60 +346,6 @@
      "genres": [
       "팝",
       "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "rE2gwiBwg9s",
-     "title": "Epilogue",
-     "artist": "Parc Jae Jung",
-     "thumbnail": "https://i.ytimg.com/vi/rE2gwiBwg9s/mqdefault.jpg",
-     "duration": 326,
-     "genres": []
-    },
-    {
-     "rank": 27,
-     "videoId": "MAIWvlrymlE",
-     "title": "Recharge Me",
-     "artist": "WENDY",
-     "thumbnail": "https://i.ytimg.com/vi/MAIWvlrymlE/mqdefault.jpg",
-     "duration": 171,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 28,
-     "videoId": "6yRnuoiSDq8",
-     "title": "Our Ending",
-     "artist": "N.Flying",
-     "thumbnail": "https://i.ytimg.com/vi/6yRnuoiSDq8/mqdefault.jpg",
-     "duration": 154,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "wlmQnXVWV5I",
-     "title": "Hide and Seek",
-     "artist": "Kim Gyeol",
-     "thumbnail": "https://i.ytimg.com/vi/wlmQnXVWV5I/mqdefault.jpg",
-     "duration": 215,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 30,
-     "videoId": "8CCOcYXiV-I",
-     "title": "The Way We Were",
-     "artist": "N.Flying",
-     "thumbnail": "https://i.ytimg.com/vi/8CCOcYXiV-I/mqdefault.jpg",
-     "duration": 171,
-     "genres": [
-      "팝"
      ]
     }
    ]
@@ -396,6 +401,17 @@
     },
     {
      "rank": 5,
+     "videoId": "y3pvUVi_gSI",
+     "title": "Vivaldi - Autumn / The Four Seasons",
+     "artist": "Kassia",
+     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
+     "duration": 275,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 6,
      "videoId": "FAdzfW604e0",
      "title": "Bach - Fugue in B minor on a theme by Albinoni BWV 951 - Maude Gratton | Netherlands Bach Society",
      "artist": "Netherlands Bach Society",
@@ -406,23 +422,12 @@
      ]
     },
     {
-     "rank": 6,
+     "rank": 7,
      "videoId": "vKbokvVtEDE",
      "title": "Chopin Piano Concerto No 1: Movement 2 Romance (Larghetto)",
      "artist": "Piano Affair",
      "thumbnail": "https://i.ytimg.com/vi/vKbokvVtEDE/mqdefault.jpg",
      "duration": 629,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 7,
-     "videoId": "y3pvUVi_gSI",
-     "title": "Vivaldi - Autumn / The Four Seasons",
-     "artist": "Kassia",
-     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
-     "duration": 275,
      "genres": [
       "클래식"
      ]
@@ -462,11 +467,11 @@
     },
     {
      "rank": 11,
-     "videoId": "Y_3SMMbBHUc",
-     "title": "Ivan Bessonov — Rachmaninoff: Scherzo in D minor",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/Y_3SMMbBHUc/mqdefault.jpg",
-     "duration": 245,
+     "videoId": "S_2tgp4gziU",
+     "title": "Bach Gaye Bach Gaye Rama Ji Tere Laxman De Paran",
+     "artist": "Gunjan",
+     "thumbnail": "https://i.ytimg.com/vi/S_2tgp4gziU/mqdefault.jpg",
+     "duration": 312,
      "genres": [
       "클래식"
      ]
@@ -506,28 +511,6 @@
     },
     {
      "rank": 15,
-     "videoId": "VtTg7LDSseU",
-     "title": "Rachmaninoff: Symphonic Dances - 1. Non allegro | Petrenko · Berliner Philharmoniker",
-     "artist": "Berliner Philharmoniker",
-     "thumbnail": "https://i.ytimg.com/vi/VtTg7LDSseU/mqdefault.jpg",
-     "duration": 741,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "GNtKnSRao9E",
-     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
-     "artist": "JuYoung Park",
-     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
-     "duration": 704,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 17,
      "videoId": "QsMfa0R1i1w",
      "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
      "artist": "sergeikvitkoVEVO",
@@ -538,18 +521,29 @@
      ]
     },
     {
-     "rank": 18,
-     "videoId": "S_2tgp4gziU",
-     "title": "Bach Gaye Bach Gaye Rama Ji Tere Laxman De Paran",
-     "artist": "Gunjan",
-     "thumbnail": "https://i.ytimg.com/vi/S_2tgp4gziU/mqdefault.jpg",
-     "duration": 312,
+     "rank": 16,
+     "videoId": "VtTg7LDSseU",
+     "title": "Rachmaninoff: Symphonic Dances - 1. Non allegro | Petrenko · Berliner Philharmoniker",
+     "artist": "Berliner Philharmoniker",
+     "thumbnail": "https://i.ytimg.com/vi/VtTg7LDSseU/mqdefault.jpg",
+     "duration": 741,
      "genres": [
       "클래식"
      ]
     },
     {
-     "rank": 19,
+     "rank": 17,
+     "videoId": "GNtKnSRao9E",
+     "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – II. Adagio sostenuto (Arranged for 2...",
+     "artist": "JuYoung Park",
+     "thumbnail": "https://i.ytimg.com/vi/GNtKnSRao9E/mqdefault.jpg",
+     "duration": 704,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 18,
      "videoId": "YC-I_0BXypE",
      "title": "Ivan Bessonov — Sergei Rachmaninoff: Prelude in G minor, Op. 23, No. 5",
      "artist": "Ivan Bessonov",
@@ -560,7 +554,7 @@
      ]
     },
     {
-     "rank": 20,
+     "rank": 19,
      "videoId": "UjFuQruvti0",
      "title": "Liszt: Consolations, S. 172 – No. 3 in D-flat major, Lento placido",
      "artist": "JuYoung Park",
@@ -571,7 +565,7 @@
      ]
     },
     {
-     "rank": 21,
+     "rank": 20,
      "videoId": "LubvP4Z0nw4",
      "title": "Beethoven: Piano Sonata No. 8 in C minor, Op. 13 “Pathétique” – I. Grave—Allegro di...",
      "artist": "Minsung Lee",
@@ -582,7 +576,7 @@
      ]
     },
     {
-     "rank": 22,
+     "rank": 21,
      "videoId": "rjezeOts2Ns",
      "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – III. Allegro scherzando",
      "artist": "JuYoung Park",
@@ -593,23 +587,34 @@
      ]
     },
     {
+     "rank": 22,
+     "videoId": "3Nhd6lf1WO8",
+     "title": "Saifi Naat || Jo bach gai zindagi dil ahday || Muhammad Zahid Saifi || New Saifi Naat 2026",
+     "artist": "Muhammad Zahid Saifi Official",
+     "thumbnail": "https://i.ytimg.com/vi/3Nhd6lf1WO8/mqdefault.jpg",
+     "duration": 523,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 23,
-     "videoId": "YrXwezTTsrU",
-     "title": "King Bach vs. Yung Gravy (feat. Ari Kytsya)",
-     "artist": "Morgan Jay",
-     "thumbnail": "https://i.ytimg.com/vi/YrXwezTTsrU/mqdefault.jpg",
-     "duration": 291,
+     "videoId": "mQ0l3_vFzr4",
+     "title": "Jawad Zemmouri & Soukaina Zemmouria - Bach Mwalfa | جواد الزموري & سكينة الزمورية",
+     "artist": "studio zemmour",
+     "thumbnail": "https://i.ytimg.com/vi/mQ0l3_vFzr4/mqdefault.jpg",
+     "duration": 414,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 24,
-     "videoId": "3Nhd6lf1WO8",
-     "title": "Saifi Naat || Jo bach gai zindagi dil ahday || Muhammad Zahid Saifi || New Saifi Naat 2026",
-     "artist": "Muhammad Zahid Saifi Official",
-     "thumbnail": "https://i.ytimg.com/vi/3Nhd6lf1WO8/mqdefault.jpg",
-     "duration": 523,
+     "videoId": "IMFZVI29utg",
+     "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
+     "artist": "클래식타벅스",
+     "thumbnail": "https://i.ytimg.com/vi/IMFZVI29utg/mqdefault.jpg",
+     "duration": 705,
      "genres": [
       "클래식"
      ]
@@ -638,11 +643,11 @@
     },
     {
      "rank": 27,
-     "videoId": "IMFZVI29utg",
-     "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
-     "artist": "클래식타벅스",
-     "thumbnail": "https://i.ytimg.com/vi/IMFZVI29utg/mqdefault.jpg",
-     "duration": 705,
+     "videoId": "YrS0OmeYY1Y",
+     "title": "Yekwon Sunwoo - Liszt: Paraphrase on Mendelssohn's Wedding March (Arr. Horowitz)",
+     "artist": "Deutsche Grammophon - DG",
+     "thumbnail": "https://i.ytimg.com/vi/YrS0OmeYY1Y/mqdefault.jpg",
+     "duration": 299,
      "genres": [
       "클래식"
      ]
@@ -681,7 +686,7 @@
      ]
     }
    ],
-   "refreshed": "2026-10-19"
+   "refreshed": "2026-10-20"
   },
   {
    "id": "oldies",
