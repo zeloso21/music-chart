@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T09:03+09:00",
+ "updated": "2026-11-02T09:37+09:00",
  "charts": [
   {
    "id": "kr",
@@ -8,11 +8,11 @@
    "items": [
     {
      "rank": 1,
-     "videoId": "rlYOsUfpi3M",
-     "title": "NEON",
-     "artist": "A2O",
-     "thumbnail": "https://i.ytimg.com/vi/rlYOsUfpi3M/mqdefault.jpg",
-     "duration": 208,
+     "videoId": "qsqvJpOgrWw",
+     "title": "You’re Under Arrest",
+     "artist": "ILLIT",
+     "thumbnail": "https://i.ytimg.com/vi/qsqvJpOgrWw/mqdefault.jpg",
+     "duration": 182,
      "genres": [
       "팝",
       "일렉트로닉"
@@ -20,11 +20,11 @@
     },
     {
      "rank": 2,
-     "videoId": "qsqvJpOgrWw",
-     "title": "You’re Under Arrest",
-     "artist": "ILLIT",
-     "thumbnail": "https://i.ytimg.com/vi/qsqvJpOgrWw/mqdefault.jpg",
-     "duration": 182,
+     "videoId": "rlYOsUfpi3M",
+     "title": "NEON",
+     "artist": "A2O",
+     "thumbnail": "https://i.ytimg.com/vi/rlYOsUfpi3M/mqdefault.jpg",
+     "duration": 208,
      "genres": [
       "팝",
       "일렉트로닉"
@@ -90,17 +90,6 @@
     },
     {
      "rank": 8,
-     "videoId": "F_EGihOgXsg",
-     "title": "Mise en scène",
-     "artist": "Epik High",
-     "thumbnail": "https://i.ytimg.com/vi/F_EGihOgXsg/mqdefault.jpg",
-     "duration": 179,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 9,
      "videoId": "E4s8Gy1TpAw",
      "title": "How Did We End Up Apart",
      "artist": "Cha ga eul",
@@ -111,38 +100,18 @@
      ]
     },
     {
+     "rank": 9,
+     "videoId": "F_EGihOgXsg",
+     "title": "Mise en scène",
+     "artist": "Epik High",
+     "thumbnail": "https://i.ytimg.com/vi/F_EGihOgXsg/mqdefault.jpg",
+     "duration": 179,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 10,
-     "videoId": "Mmw-PpWhKFg",
-     "title": "K/DA - FIRESTARTER ft. MIYEON and SOYEON of i-dle, Sophie Powers, Mimi Webb (Official Music Video)",
-     "artist": "League of Legends",
-     "thumbnail": "https://i.ytimg.com/vi/Mmw-PpWhKFg/mqdefault.jpg",
-     "duration": 207,
-     "genres": []
-    },
-    {
-     "rank": 11,
-     "videoId": "M2Tb2kjzzxo",
-     "title": "Pop",
-     "artist": "ILLIT",
-     "thumbnail": "https://i.ytimg.com/vi/M2Tb2kjzzxo/mqdefault.jpg",
-     "duration": 144,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 12,
-     "videoId": "r2he71F8J_A",
-     "title": "To You",
-     "artist": "Rocoberry",
-     "thumbnail": "https://i.ytimg.com/vi/r2he71F8J_A/mqdefault.jpg",
-     "duration": 176,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 13,
      "videoId": "v3XAAzPOWyg",
      "title": "Drunk (Feat. Coogie)",
      "artist": "BE'O",
@@ -154,7 +123,47 @@
      ]
     },
     {
+     "rank": 11,
+     "videoId": "Mmw-PpWhKFg",
+     "title": "K/DA - FIRESTARTER ft. MIYEON and SOYEON of i-dle, Sophie Powers, Mimi Webb (Official Music Video)",
+     "artist": "League of Legends",
+     "thumbnail": "https://i.ytimg.com/vi/Mmw-PpWhKFg/mqdefault.jpg",
+     "duration": 207,
+     "genres": []
+    },
+    {
+     "rank": 12,
+     "videoId": "M2Tb2kjzzxo",
+     "title": "Pop",
+     "artist": "ILLIT",
+     "thumbnail": "https://i.ytimg.com/vi/M2Tb2kjzzxo/mqdefault.jpg",
+     "duration": 144,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 13,
+     "videoId": "r2he71F8J_A",
+     "title": "To You",
+     "artist": "Rocoberry",
+     "thumbnail": "https://i.ytimg.com/vi/r2he71F8J_A/mqdefault.jpg",
+     "duration": 176,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 14,
+     "videoId": "EFbS6gS5b1w",
+     "title": "Our Days in Bloom",
+     "artist": "Sunjin",
+     "thumbnail": "https://i.ytimg.com/vi/EFbS6gS5b1w/mqdefault.jpg",
+     "duration": 219,
+     "genres": []
+    },
+    {
+     "rank": 15,
      "videoId": "K2yUigzpe9M",
      "title": "DESERVE",
      "artist": "BABYMONSTER",
@@ -165,93 +174,7 @@
      ]
     },
     {
-     "rank": 15,
-     "videoId": "sIT238KAths",
-     "title": "366 Days",
-     "artist": "DEOK(Kim Yong Deok)",
-     "thumbnail": "https://i.ytimg.com/vi/sIT238KAths/mqdefault.jpg",
-     "duration": 244,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 16,
-     "videoId": "EFbS6gS5b1w",
-     "title": "Our Days in Bloom",
-     "artist": "Sunjin",
-     "thumbnail": "https://i.ytimg.com/vi/EFbS6gS5b1w/mqdefault.jpg",
-     "duration": 219,
-     "genres": []
-    },
-    {
-     "rank": 17,
-     "videoId": "NdA116ebez4",
-     "title": "Like the first time (feat. E.ul)",
-     "artist": "hayawn",
-     "thumbnail": "https://i.ytimg.com/vi/NdA116ebez4/mqdefault.jpg",
-     "duration": 172,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 18,
-     "videoId": "XuAseDuT_eE",
-     "title": "Until We Meet",
-     "artist": "Private Story",
-     "thumbnail": "https://i.ytimg.com/vi/XuAseDuT_eE/mqdefault.jpg",
-     "duration": 224,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 19,
-     "videoId": "jHQF6OeLlB4",
-     "title": "임영웅 '부디 행복해질 것' Official M/V",
-     "artist": "임영웅",
-     "thumbnail": "https://i.ytimg.com/vi/jHQF6OeLlB4/mqdefault.jpg",
-     "duration": 285,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 20,
-     "videoId": "PP5xpL7kjD8",
-     "title": "Crying and Crying",
-     "artist": "GyeongseoYeji",
-     "thumbnail": "https://i.ytimg.com/vi/PP5xpL7kjD8/mqdefault.jpg",
-     "duration": 204,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 21,
-     "videoId": "Qm6q2WES9rg",
-     "title": "Fool",
-     "artist": "DaNTe′",
-     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
-     "duration": 145,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 22,
-     "videoId": "lJhh6nkDShw",
-     "title": "Golden Hour",
-     "artist": "BOL4",
-     "thumbnail": "https://i.ytimg.com/vi/lJhh6nkDShw/mqdefault.jpg",
-     "duration": 232,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 23,
      "videoId": "HlT6mxxt6Ek",
      "title": "ADDICTED",
      "artist": "JISOO",
@@ -263,29 +186,115 @@
      ]
     },
     {
+     "rank": 17,
+     "videoId": "sIT238KAths",
+     "title": "366 Days",
+     "artist": "DEOK(Kim Yong Deok)",
+     "thumbnail": "https://i.ytimg.com/vi/sIT238KAths/mqdefault.jpg",
+     "duration": 244,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 18,
+     "videoId": "NdA116ebez4",
+     "title": "Like the first time (feat. E.ul)",
+     "artist": "hayawn",
+     "thumbnail": "https://i.ytimg.com/vi/NdA116ebez4/mqdefault.jpg",
+     "duration": 172,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 19,
+     "videoId": "Qm6q2WES9rg",
+     "title": "Fool",
+     "artist": "DaNTe′",
+     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
+     "duration": 145,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 20,
+     "videoId": "XuAseDuT_eE",
+     "title": "Until We Meet",
+     "artist": "Private Story",
+     "thumbnail": "https://i.ytimg.com/vi/XuAseDuT_eE/mqdefault.jpg",
+     "duration": 224,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 21,
+     "videoId": "A12plHIaXMk",
+     "title": "Every Fleeting Moment",
+     "artist": "Jeoung iun",
+     "thumbnail": "https://i.ytimg.com/vi/A12plHIaXMk/mqdefault.jpg",
+     "duration": 208,
+     "genres": []
+    },
+    {
+     "rank": 22,
+     "videoId": "PP5xpL7kjD8",
+     "title": "Crying and Crying",
+     "artist": "GyeongseoYeji",
+     "thumbnail": "https://i.ytimg.com/vi/PP5xpL7kjD8/mqdefault.jpg",
+     "duration": 204,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 23,
+     "videoId": "jHQF6OeLlB4",
+     "title": "임영웅 '부디 행복해질 것' Official M/V",
+     "artist": "임영웅",
+     "thumbnail": "https://i.ytimg.com/vi/jHQF6OeLlB4/mqdefault.jpg",
+     "duration": 285,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 24,
-     "videoId": "rlIer64GfA4",
-     "title": "If you live well",
-     "artist": "HUNHUNHADA",
-     "thumbnail": "https://i.ytimg.com/vi/rlIer64GfA4/mqdefault.jpg",
-     "duration": 230,
+     "videoId": "PYS0Y-zOsyE",
+     "title": "Please Don't Love Me",
+     "artist": "Huh Gak",
+     "thumbnail": "https://i.ytimg.com/vi/PYS0Y-zOsyE/mqdefault.jpg",
+     "duration": 205,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 25,
-     "videoId": "Dt-Urn3-l28",
-     "title": "Sad Vow",
-     "artist": "Banhana",
-     "thumbnail": "https://i.ytimg.com/vi/Dt-Urn3-l28/mqdefault.jpg",
-     "duration": 263,
+     "videoId": "lJhh6nkDShw",
+     "title": "Golden Hour",
+     "artist": "BOL4",
+     "thumbnail": "https://i.ytimg.com/vi/lJhh6nkDShw/mqdefault.jpg",
+     "duration": 232,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 26,
+     "videoId": "l8becO8OYoU",
+     "title": "One in Ten Thousand",
+     "artist": "SLAY",
+     "thumbnail": "https://i.ytimg.com/vi/l8becO8OYoU/mqdefault.jpg",
+     "duration": 159,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 27,
      "videoId": "8f3y-NuVw34",
      "title": "처음 그 자리에",
      "artist": "SONG HA YOUNG (fromis_9)",
@@ -296,34 +305,23 @@
      ]
     },
     {
-     "rank": 27,
-     "videoId": "KFtR_-2fFVs",
-     "title": "사랑이 끝난 자리에 남아 (Feat.순길)",
-     "artist": "KYOE",
-     "thumbnail": "https://i.ytimg.com/vi/KFtR_-2fFVs/mqdefault.jpg",
-     "duration": 258,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 28,
-     "videoId": "mzaDWi7mU38",
-     "title": "Every Moment Of You",
-     "artist": "D.O.",
-     "thumbnail": "https://i.ytimg.com/vi/mzaDWi7mU38/mqdefault.jpg",
-     "duration": 234,
+     "videoId": "rlIer64GfA4",
+     "title": "If you live well",
+     "artist": "HUNHUNHADA",
+     "thumbnail": "https://i.ytimg.com/vi/rlIer64GfA4/mqdefault.jpg",
+     "duration": 230,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 29,
-     "videoId": "l8becO8OYoU",
-     "title": "One in Ten Thousand",
-     "artist": "SLAY",
-     "thumbnail": "https://i.ytimg.com/vi/l8becO8OYoU/mqdefault.jpg",
-     "duration": 159,
+     "videoId": "Dt-Urn3-l28",
+     "title": "Sad Vow",
+     "artist": "Banhana",
+     "thumbnail": "https://i.ytimg.com/vi/Dt-Urn3-l28/mqdefault.jpg",
+     "duration": 263,
      "genres": [
       "팝"
      ]
@@ -360,28 +358,6 @@
     },
     {
      "rank": 2,
-     "videoId": "RCWQjVd5MtI",
-     "title": "Beethoven - Symphony No. 5 in C minor, Op. 67 I. Allegro con brio / Accademia Bizantina",
-     "artist": "Accademia Bizantina",
-     "thumbnail": "https://i.ytimg.com/vi/RCWQjVd5MtI/mqdefault.jpg",
-     "duration": 473,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 3,
-     "videoId": "y3pvUVi_gSI",
-     "title": "Vivaldi - Autumn / The Four Seasons",
-     "artist": "Kassia",
-     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
-     "duration": 275,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 4,
      "videoId": "RlCqqwrFCTg",
      "title": "Villanosam Ft  Monkey Black Y Mozart La Para -Va Tene Que Vola (Video Oficial)",
      "artist": "Villanosam",
@@ -392,18 +368,51 @@
      ]
     },
     {
+     "rank": 3,
+     "videoId": "RCWQjVd5MtI",
+     "title": "Beethoven - Symphony No. 5 in C minor, Op. 67 I. Allegro con brio / Accademia Bizantina",
+     "artist": "Accademia Bizantina",
+     "thumbnail": "https://i.ytimg.com/vi/RCWQjVd5MtI/mqdefault.jpg",
+     "duration": 473,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 4,
+     "videoId": "y3pvUVi_gSI",
+     "title": "Vivaldi - Autumn / The Four Seasons",
+     "artist": "Kassia",
+     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
+     "duration": 275,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 5,
-     "videoId": "nxZYJmwUHe8",
-     "title": "Beethoven – “Appassionata” Sonata No. 23, 3rd Movement | Street Piano",
-     "artist": "ぷにぴあの-PuniPiano-",
-     "thumbnail": "https://i.ytimg.com/vi/nxZYJmwUHe8/mqdefault.jpg",
-     "duration": 310,
+     "videoId": "qArmT1Xs63s",
+     "title": "Rayssa e Ravel - Eu Não Devo | Unindo Gerações | Clipe Oficial",
+     "artist": "Rayssa e Ravel",
+     "thumbnail": "https://i.ytimg.com/vi/qArmT1Xs63s/mqdefault.jpg",
+     "duration": 365,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 6,
+     "videoId": "kW3ZYgCWDo0",
+     "title": "The impossible beauty of Richter's 1972 Schubert recording (Sonata in B-flat Major, D.960)",
+     "artist": "tonebase Piano",
+     "thumbnail": "https://i.ytimg.com/vi/kW3ZYgCWDo0/mqdefault.jpg",
+     "duration": 1001,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 7,
      "videoId": "FAdzfW604e0",
      "title": "Bach - Fugue in B minor on a theme by Albinoni BWV 951 - Maude Gratton | Netherlands Bach Society",
      "artist": "Netherlands Bach Society",
@@ -414,23 +423,12 @@
      ]
     },
     {
-     "rank": 7,
+     "rank": 8,
      "videoId": "m4FsIUoiO1U",
      "title": "🎼🌙 musica para dormir | Gentle Mozart Music Box 😴✨ | Classic Pure Lullaby",
      "artist": "ON KINJE Lullaby",
      "thumbnail": "https://i.ytimg.com/vi/m4FsIUoiO1U/mqdefault.jpg",
      "duration": 526,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 8,
-     "videoId": "kW3ZYgCWDo0",
-     "title": "The impossible beauty of Richter's 1972 Schubert recording (Sonata in B-flat Major, D.960)",
-     "artist": "tonebase Piano",
-     "thumbnail": "https://i.ytimg.com/vi/kW3ZYgCWDo0/mqdefault.jpg",
-     "duration": 1001,
      "genres": [
       "클래식"
      ]
@@ -448,11 +446,11 @@
     },
     {
      "rank": 10,
-     "videoId": "qArmT1Xs63s",
-     "title": "Rayssa e Ravel - Eu Não Devo | Unindo Gerações | Clipe Oficial",
-     "artist": "Rayssa e Ravel",
-     "thumbnail": "https://i.ytimg.com/vi/qArmT1Xs63s/mqdefault.jpg",
-     "duration": 365,
+     "videoId": "3Nhd6lf1WO8",
+     "title": "Saifi Naat || Jo bach gai zindagi dil ahday || Muhammad Zahid Saifi || New Saifi Naat 2026",
+     "artist": "Muhammad Zahid Saifi Official",
+     "thumbnail": "https://i.ytimg.com/vi/3Nhd6lf1WO8/mqdefault.jpg",
+     "duration": 523,
      "genres": [
       "클래식"
      ]
@@ -470,17 +468,6 @@
     },
     {
      "rank": 12,
-     "videoId": "3Nhd6lf1WO8",
-     "title": "Saifi Naat || Jo bach gai zindagi dil ahday || Muhammad Zahid Saifi || New Saifi Naat 2026",
-     "artist": "Muhammad Zahid Saifi Official",
-     "thumbnail": "https://i.ytimg.com/vi/3Nhd6lf1WO8/mqdefault.jpg",
-     "duration": 523,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 13,
      "videoId": "BGa9LJtA0vw",
      "title": "Mozart: Fantasia d-moll K397 - Yunchan Lim",
      "artist": "Alex K",
@@ -491,7 +478,7 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 13,
      "videoId": "vKbokvVtEDE",
      "title": "Chopin Piano Concerto No 1: Movement 2 Romance (Larghetto)",
      "artist": "Piano Affair",
@@ -502,12 +489,23 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 14,
      "videoId": "cdLwSfU06f8",
      "title": "Laura Lootens - Waltz Op. 34 No. 2 by Frederic Chopin (Official Video)",
      "artist": "Laura Lootens",
      "thumbnail": "https://i.ytimg.com/vi/cdLwSfU06f8/mqdefault.jpg",
      "duration": 352,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 15,
+     "videoId": "sjYkeEvbWAM",
+     "title": "Chopin, Ballade N°3 Op.47 - Simon Bürki",
+     "artist": "Aparté Music",
+     "thumbnail": "https://i.ytimg.com/vi/sjYkeEvbWAM/mqdefault.jpg",
+     "duration": 459,
      "genres": [
       "클래식"
      ]
@@ -558,22 +556,22 @@
     },
     {
      "rank": 20,
-     "videoId": "sjYkeEvbWAM",
-     "title": "Chopin, Ballade N°3 Op.47 - Simon Bürki",
-     "artist": "Aparté Music",
-     "thumbnail": "https://i.ytimg.com/vi/sjYkeEvbWAM/mqdefault.jpg",
-     "duration": 459,
+     "videoId": "QsMfa0R1i1w",
+     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
+     "artist": "sergeikvitkoVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
+     "duration": 573,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 21,
-     "videoId": "QsMfa0R1i1w",
-     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
-     "artist": "sergeikvitkoVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
-     "duration": 573,
+     "videoId": "Hyl7fITvEFw",
+     "title": "Ivan Bessonov — Rachmaninoff: Prelude in D Major, Op. 23 No. 4",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/Hyl7fITvEFw/mqdefault.jpg",
+     "duration": 338,
      "genres": [
       "클래식"
      ]
@@ -602,17 +600,6 @@
     },
     {
      "rank": 24,
-     "videoId": "Hyl7fITvEFw",
-     "title": "Ivan Bessonov — Rachmaninoff: Prelude in D Major, Op. 23 No. 4",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/Hyl7fITvEFw/mqdefault.jpg",
-     "duration": 338,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 25,
      "videoId": "UjFuQruvti0",
      "title": "Liszt: Consolations, S. 172 – No. 3 in D-flat major, Lento placido",
      "artist": "JuYoung Park",
@@ -623,7 +610,7 @@
      ]
     },
     {
-     "rank": 26,
+     "rank": 25,
      "videoId": "YC-I_0BXypE",
      "title": "Ivan Bessonov — Sergei Rachmaninoff: Prelude in G minor, Op. 23, No. 5",
      "artist": "Ivan Bessonov",
@@ -634,7 +621,7 @@
      ]
     },
     {
-     "rank": 27,
+     "rank": 26,
      "videoId": "rjezeOts2Ns",
      "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – III. Allegro scherzando",
      "artist": "JuYoung Park",
@@ -645,7 +632,7 @@
      ]
     },
     {
-     "rank": 28,
+     "rank": 27,
      "videoId": "jLTUVhH36Lo",
      "title": "Franz Schubert - Impromptu No. 3, Op. 90",
      "artist": "Dalia Lazar",
@@ -656,18 +643,18 @@
      ]
     },
     {
-     "rank": 29,
-     "videoId": "SpiFIYOAV58",
-     "title": "[NEW RELEASE] Chopin | Nocturne No. 8 in D-flat major, Op. 27 No. 2. | Pavel Kolesnikov",
-     "artist": "harmonia mundi music",
-     "thumbnail": "https://i.ytimg.com/vi/SpiFIYOAV58/mqdefault.jpg",
-     "duration": 337,
+     "rank": 28,
+     "videoId": "e7hSduM2ZF0",
+     "title": "4 Calm Classical Pieces | Handel Passacaglia, Liszt Consolation No. 3, Schumann, Mendelssohn",
+     "artist": "Tranquil Streams",
+     "thumbnail": "https://i.ytimg.com/vi/e7hSduM2ZF0/mqdefault.jpg",
+     "duration": 839,
      "genres": [
       "클래식"
      ]
     },
     {
-     "rank": 30,
+     "rank": 29,
      "videoId": "cspDGpuGIzI",
      "title": "Ivan Bessonov | J. S. Bach: Prelude and Fugue No. 4 in C-sharp Minor, BWV 873 | WTC II",
      "artist": "Ivan Bessonov",
@@ -676,9 +663,20 @@
      "genres": [
       "클래식"
      ]
+    },
+    {
+     "rank": 30,
+     "videoId": "SpiFIYOAV58",
+     "title": "[NEW RELEASE] Chopin | Nocturne No. 8 in D-flat major, Op. 27 No. 2. | Pavel Kolesnikov",
+     "artist": "harmonia mundi music",
+     "thumbnail": "https://i.ytimg.com/vi/SpiFIYOAV58/mqdefault.jpg",
+     "duration": 337,
+     "genres": [
+      "클래식"
+     ]
     }
    ],
-   "refreshed": "2026-11-01"
+   "refreshed": "2026-11-02"
   },
   {
    "id": "oldies",
@@ -1060,7 +1058,7 @@
      ]
     }
    ],
-   "refreshed": "2026-10-26"
+   "refreshed": "2026-11-02"
   }
  ]
 }
