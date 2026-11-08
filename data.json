@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:51+09:00",
+ "updated": "2026-11-08T09:30+09:00",
  "charts": [
   {
    "id": "kr",
@@ -76,6 +76,28 @@
     },
     {
      "rank": 7,
+     "videoId": "Qm6q2WES9rg",
+     "title": "Fool",
+     "artist": "DaNTe′",
+     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
+     "duration": 145,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 8,
+     "videoId": "KccAOdiy4SU",
+     "title": "Call My Name",
+     "artist": "TWS",
+     "thumbnail": "https://i.ytimg.com/vi/KccAOdiy4SU/mqdefault.jpg",
+     "duration": 158,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 9,
      "videoId": "EAnOKe_B4k8",
      "title": "Looks Can Kill",
      "artist": "IVE",
@@ -87,18 +109,7 @@
      ]
     },
     {
-     "rank": 8,
-     "videoId": "Qm6q2WES9rg",
-     "title": "Fool",
-     "artist": "DaNTe′",
-     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
-     "duration": 145,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 9,
+     "rank": 10,
      "videoId": "v3XAAzPOWyg",
      "title": "Drunk (Feat. Coogie)",
      "artist": "BE'O",
@@ -110,18 +121,31 @@
      ]
     },
     {
-     "rank": 10,
-     "videoId": "KccAOdiy4SU",
-     "title": "Call My Name",
-     "artist": "TWS",
-     "thumbnail": "https://i.ytimg.com/vi/KccAOdiy4SU/mqdefault.jpg",
-     "duration": 158,
+     "rank": 11,
+     "videoId": "9soFGyRwvcM",
+     "title": "triple",
+     "artist": "GIRIBOY",
+     "thumbnail": "https://i.ytimg.com/vi/9soFGyRwvcM/mqdefault.jpg",
+     "duration": 164,
      "genres": [
-      "팝"
+      "힙합",
+      "일렉트로닉"
      ]
     },
     {
-     "rank": 11,
+     "rank": 12,
+     "videoId": "vA5S5FsVz-c",
+     "title": "Question Mark",
+     "artist": "HANRORO",
+     "thumbnail": "https://i.ytimg.com/vi/vA5S5FsVz-c/mqdefault.jpg",
+     "duration": 219,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 13,
      "videoId": "SsUU0-rysY4",
      "title": "Drip",
      "artist": "ATEEZ",
@@ -134,7 +158,7 @@
      ]
     },
     {
-     "rank": 12,
+     "rank": 14,
      "videoId": "13SIThoH_54",
      "title": "사랑하지 않아서 그랬어",
      "artist": "Shin Ye Young",
@@ -145,19 +169,7 @@
      ]
     },
     {
-     "rank": 13,
-     "videoId": "9soFGyRwvcM",
-     "title": "triple",
-     "artist": "GIRIBOY",
-     "thumbnail": "https://i.ytimg.com/vi/9soFGyRwvcM/mqdefault.jpg",
-     "duration": 164,
-     "genres": [
-      "힙합",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 14,
+     "rank": 15,
      "videoId": "HlT6mxxt6Ek",
      "title": "ADDICTED",
      "artist": "JISOO",
@@ -169,7 +181,7 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 16,
      "videoId": "F2WbQwiP5vs",
      "title": "Insomnia",
      "artist": "RIIZE",
@@ -177,18 +189,6 @@
      "duration": 195,
      "genres": [
       "팝"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "vA5S5FsVz-c",
-     "title": "Question Mark",
-     "artist": "HANRORO",
-     "thumbnail": "https://i.ytimg.com/vi/vA5S5FsVz-c/mqdefault.jpg",
-     "duration": 219,
-     "genres": [
-      "팝",
-      "일렉트로닉"
      ]
     },
     {
@@ -213,6 +213,17 @@
     },
     {
      "rank": 19,
+     "videoId": "oGAzDVtifGo",
+     "title": "The Last Letter",
+     "artist": "Juho",
+     "thumbnail": "https://i.ytimg.com/vi/oGAzDVtifGo/mqdefault.jpg",
+     "duration": 211,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 20,
      "videoId": "E4s8Gy1TpAw",
      "title": "How Did We End Up Apart",
      "artist": "Cha ga eul",
@@ -223,18 +234,27 @@
      ]
     },
     {
-     "rank": 20,
-     "videoId": "oGAzDVtifGo",
-     "title": "The Last Letter",
-     "artist": "ZU HO",
-     "thumbnail": "https://i.ytimg.com/vi/oGAzDVtifGo/mqdefault.jpg",
-     "duration": 211,
+     "rank": 21,
+     "videoId": "t23bUf0YU4k",
+     "title": "반창꼬",
+     "artist": "DK",
+     "thumbnail": "https://i.ytimg.com/vi/t23bUf0YU4k/mqdefault.jpg",
+     "duration": 247,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 21,
+     "rank": 22,
+     "videoId": "5Gs_NcF83_E",
+     "title": "여전히 아름다운지",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/5Gs_NcF83_E/mqdefault.jpg",
+     "duration": 265,
+     "genres": []
+    },
+    {
+     "rank": 23,
      "videoId": "19ab1rdpxdU",
      "title": "One Step at a Time",
      "artist": "Yiya",
@@ -245,7 +265,7 @@
      ]
     },
     {
-     "rank": 22,
+     "rank": 24,
      "videoId": "ffCxo0eO6h4",
      "title": "Remember Me",
      "artist": "So Soo Bin",
@@ -254,16 +274,7 @@
      "genres": []
     },
     {
-     "rank": 23,
-     "videoId": "5Gs_NcF83_E",
-     "title": "여전히 아름다운지",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/5Gs_NcF83_E/mqdefault.jpg",
-     "duration": 265,
-     "genres": []
-    },
-    {
-     "rank": 24,
+     "rank": 25,
      "videoId": "4Y0UDJXeHVs",
      "title": "Crazy to love",
      "artist": "HYUN SEO",
@@ -273,15 +284,6 @@
       "팝",
       "힙합"
      ]
-    },
-    {
-     "rank": 25,
-     "videoId": "EFbS6gS5b1w",
-     "title": "Our Days in Bloom",
-     "artist": "Sunjin",
-     "thumbnail": "https://i.ytimg.com/vi/EFbS6gS5b1w/mqdefault.jpg",
-     "duration": 219,
-     "genres": []
     },
     {
      "rank": 26,
@@ -296,17 +298,6 @@
     },
     {
      "rank": 27,
-     "videoId": "M2Tb2kjzzxo",
-     "title": "Pop",
-     "artist": "ILLIT",
-     "thumbnail": "https://i.ytimg.com/vi/M2Tb2kjzzxo/mqdefault.jpg",
-     "duration": 144,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 28,
      "videoId": "9UE8rBodav0",
      "title": "AHOHYEH",
      "artist": "GIRIBOY",
@@ -318,21 +309,32 @@
      ]
     },
     {
-     "rank": 29,
-     "videoId": "Mmw-PpWhKFg",
-     "title": "K/DA - FIRESTARTER ft. MIYEON and SOYEON of i-dle, Sophie Powers, Mimi Webb (Official Music Video)",
-     "artist": "League of Legends",
-     "thumbnail": "https://i.ytimg.com/vi/Mmw-PpWhKFg/mqdefault.jpg",
-     "duration": 207,
+     "rank": 28,
+     "videoId": "EFbS6gS5b1w",
+     "title": "Our Days in Bloom",
+     "artist": "Sunjin",
+     "thumbnail": "https://i.ytimg.com/vi/EFbS6gS5b1w/mqdefault.jpg",
+     "duration": 219,
      "genres": []
     },
     {
+     "rank": 29,
+     "videoId": "M2Tb2kjzzxo",
+     "title": "Pop",
+     "artist": "ILLIT",
+     "thumbnail": "https://i.ytimg.com/vi/M2Tb2kjzzxo/mqdefault.jpg",
+     "duration": 144,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 30,
-     "videoId": "r2he71F8J_A",
-     "title": "To You",
-     "artist": "Rocoberry",
-     "thumbnail": "https://i.ytimg.com/vi/r2he71F8J_A/mqdefault.jpg",
-     "duration": 176,
+     "videoId": "dxyBIvdPIBY",
+     "title": "Us Back Then",
+     "artist": "Park Jongmin",
+     "thumbnail": "https://i.ytimg.com/vi/dxyBIvdPIBY/mqdefault.jpg",
+     "duration": 198,
      "genres": [
       "팝"
      ]
@@ -379,17 +381,6 @@
     },
     {
      "rank": 4,
-     "videoId": "y3pvUVi_gSI",
-     "title": "Vivaldi - Autumn / The Four Seasons",
-     "artist": "Kassia",
-     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
-     "duration": 275,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 5,
      "videoId": "qArmT1Xs63s",
      "title": "Rayssa e Ravel - Eu Não Devo | Unindo Gerações | Clipe Oficial",
      "artist": "Rayssa e Ravel",
@@ -400,7 +391,29 @@
      ]
     },
     {
+     "rank": 5,
+     "videoId": "y3pvUVi_gSI",
+     "title": "Vivaldi - Autumn / The Four Seasons",
+     "artist": "Kassia",
+     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
+     "duration": 275,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 6,
+     "videoId": "RCWQjVd5MtI",
+     "title": "Beethoven - Symphony No. 5 in C minor, Op. 67 I. Allegro con brio / Accademia Bizantina",
+     "artist": "Accademia Bizantina",
+     "thumbnail": "https://i.ytimg.com/vi/RCWQjVd5MtI/mqdefault.jpg",
+     "duration": 473,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 7,
      "videoId": "oIHD7Yn5pMg",
      "title": "Zade Dirani - Ya Ana (Mozart's Symphony 40)/ Ya Reit btirdi /Zouroni  يا أنا / يا ريت بترضي  زوروني",
      "artist": "Zade Dirani",
@@ -411,7 +424,7 @@
      ]
     },
     {
-     "rank": 7,
+     "rank": 8,
      "videoId": "kW3ZYgCWDo0",
      "title": "The impossible beauty of Richter's 1972 Schubert recording (Sonata in B-flat Major, D.960)",
      "artist": "tonebase Piano",
@@ -422,34 +435,23 @@
      ]
     },
     {
-     "rank": 8,
-     "videoId": "m4FsIUoiO1U",
-     "title": "🎼🌙 musica para dormir | Gentle Mozart Music Box 😴✨ | Classic Pure Lullaby",
-     "artist": "ON KINJE Lullaby",
-     "thumbnail": "https://i.ytimg.com/vi/m4FsIUoiO1U/mqdefault.jpg",
-     "duration": 526,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
      "rank": 9,
-     "videoId": "FAdzfW604e0",
-     "title": "Bach - Fugue in B minor on a theme by Albinoni BWV 951 - Maude Gratton | Netherlands Bach Society",
-     "artist": "Netherlands Bach Society",
-     "thumbnail": "https://i.ytimg.com/vi/FAdzfW604e0/mqdefault.jpg",
-     "duration": 510,
+     "videoId": "pLRwPvZB1Uk",
+     "title": "He Started Playing Beethoven… Then Her Electric Guitar Changed EVERYTHING! | Moonlight Sonata 🎹🔥",
+     "artist": "The Talent Stage",
+     "thumbnail": "https://i.ytimg.com/vi/pLRwPvZB1Uk/mqdefault.jpg",
+     "duration": 293,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 10,
-     "videoId": "pLRwPvZB1Uk",
-     "title": "He Started Playing Beethoven… Then Her Electric Guitar Changed EVERYTHING! | Moonlight Sonata 🎹🔥",
-     "artist": "The Talent Stage",
-     "thumbnail": "https://i.ytimg.com/vi/pLRwPvZB1Uk/mqdefault.jpg",
-     "duration": 293,
+     "videoId": "m4FsIUoiO1U",
+     "title": "🎼🌙 musica para dormir | Gentle Mozart Music Box 😴✨ | Classic Pure Lullaby",
+     "artist": "ON KINJE Lullaby",
+     "thumbnail": "https://i.ytimg.com/vi/m4FsIUoiO1U/mqdefault.jpg",
+     "duration": 526,
      "genres": [
       "클래식"
      ]
@@ -478,11 +480,11 @@
     },
     {
      "rank": 13,
-     "videoId": "Hyl7fITvEFw",
-     "title": "Ivan Bessonov — Rachmaninoff: Prelude in D Major, Op. 23 No. 4",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/Hyl7fITvEFw/mqdefault.jpg",
-     "duration": 338,
+     "videoId": "cdLwSfU06f8",
+     "title": "Laura Lootens - Waltz Op. 34 No. 2 by Frederic Chopin (Official Video)",
+     "artist": "Laura Lootens",
+     "thumbnail": "https://i.ytimg.com/vi/cdLwSfU06f8/mqdefault.jpg",
+     "duration": 352,
      "genres": [
       "클래식"
      ]
@@ -500,28 +502,17 @@
     },
     {
      "rank": 15,
-     "videoId": "0rIwX0x1QFg",
-     "title": "Beethoven: Piano Concerto No. 4 - Andante con moto (excerpt)/ Bernstein • Arrau • BRSO",
-     "artist": "Leonard Bernstein",
-     "thumbnail": "https://i.ytimg.com/vi/0rIwX0x1QFg/mqdefault.jpg",
-     "duration": 287,
+     "videoId": "Hyl7fITvEFw",
+     "title": "Ivan Bessonov — Rachmaninoff: Prelude in D Major, Op. 23 No. 4",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/Hyl7fITvEFw/mqdefault.jpg",
+     "duration": 338,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 16,
-     "videoId": "QsMfa0R1i1w",
-     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
-     "artist": "sergeikvitkoVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
-     "duration": 573,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 17,
      "videoId": "IMFZVI29utg",
      "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
      "artist": "클래식타벅스",
@@ -532,7 +523,29 @@
      ]
     },
     {
+     "rank": 17,
+     "videoId": "QsMfa0R1i1w",
+     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
+     "artist": "sergeikvitkoVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
+     "duration": 573,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 18,
+     "videoId": "x3ngAGfju-8",
+     "title": "Vera Danilina plays \"Ich Ruf Zu Dir, Herr Jesu Christ\" by J. S. Bach on a Siccas Luthiers Guitar",
+     "artist": "SiccasGuitars",
+     "thumbnail": "https://i.ytimg.com/vi/x3ngAGfju-8/mqdefault.jpg",
+     "duration": 243,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 19,
      "videoId": "cspDGpuGIzI",
      "title": "Ivan Bessonov | J. S. Bach: Prelude and Fugue No. 4 in C-sharp Minor, BWV 873 | WTC II",
      "artist": "Ivan Bessonov",
@@ -543,18 +556,18 @@
      ]
     },
     {
-     "rank": 19,
-     "videoId": "AWLo-mcult8",
-     "title": "Amadeus Mozart Rocks (Inspired by Falco \"Rock me Amadeus\")",
-     "artist": "Peter Wyze (official)",
-     "thumbnail": "https://i.ytimg.com/vi/AWLo-mcult8/mqdefault.jpg",
-     "duration": 245,
+     "rank": 20,
+     "videoId": "SpiFIYOAV58",
+     "title": "[NEW RELEASE] Chopin | Nocturne No. 8 in D-flat major, Op. 27 No. 2. | Pavel Kolesnikov",
+     "artist": "harmonia mundi music",
+     "thumbnail": "https://i.ytimg.com/vi/SpiFIYOAV58/mqdefault.jpg",
+     "duration": 337,
      "genres": [
       "클래식"
      ]
     },
     {
-     "rank": 20,
+     "rank": 21,
      "videoId": "TPTyotHTP10",
      "title": "모차르트를 넘어 ‘살아있는 생명’ 그 자체가 된 음악 | 임윤찬 베를린 피아노 독주회 평론",
      "artist": "크레이지 클래식 김기자",
@@ -565,7 +578,18 @@
      ]
     },
     {
-     "rank": 21,
+     "rank": 22,
+     "videoId": "AWLo-mcult8",
+     "title": "Amadeus Mozart Rocks (Inspired by Falco \"Rock me Amadeus\")",
+     "artist": "Peter Wyze (official)",
+     "thumbnail": "https://i.ytimg.com/vi/AWLo-mcult8/mqdefault.jpg",
+     "duration": 245,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 23,
      "videoId": "NL7v1CSKWYE",
      "title": "A Moment with Rachmaninoff | Moment Musical No. 6",
      "artist": "Traum Piano",
@@ -576,18 +600,7 @@
      ]
     },
     {
-     "rank": 22,
-     "videoId": "jF3wCNZRgYw",
-     "title": "Bach: Violin Concerto No. 2 in E major, BWV 1042 - Alexandra Conunova",
-     "artist": "Kristiansand Symphony Orchestra",
-     "thumbnail": "https://i.ytimg.com/vi/jF3wCNZRgYw/mqdefault.jpg",
-     "duration": 1023,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 23,
+     "rank": 24,
      "videoId": "Iq7IAN87jS8",
      "title": "Ivan Bessonov — J.S. Bach: Partita No. 6 in E Minor, BWV 830 — I. Toccata",
      "artist": "Ivan Bessonov",
@@ -598,18 +611,18 @@
      ]
     },
     {
-     "rank": 24,
-     "videoId": "EYcfq8uju68",
-     "title": "Mozart era un COPIONE!",
-     "artist": "Francesco Di Fortunato",
-     "thumbnail": "https://i.ytimg.com/vi/EYcfq8uju68/mqdefault.jpg",
-     "duration": 479,
+     "rank": 25,
+     "videoId": "jF3wCNZRgYw",
+     "title": "Bach: Violin Concerto No. 2 in E major, BWV 1042 - Alexandra Conunova",
+     "artist": "Kristiansand Symphony Orchestra",
+     "thumbnail": "https://i.ytimg.com/vi/jF3wCNZRgYw/mqdefault.jpg",
+     "duration": 1023,
      "genres": [
       "클래식"
      ]
     },
     {
-     "rank": 25,
+     "rank": 26,
      "videoId": "SaMnLFPTJjo",
      "title": "Ivan Bessonov — Mozart: Piano Sonata No. 12 in F Major, K. 332 — I. Allegro",
      "artist": "Ivan Bessonov",
@@ -620,18 +633,18 @@
      ]
     },
     {
-     "rank": 26,
-     "videoId": "ghbyyM-QDjw",
-     "title": "S. Rachmaninoff, Prelude G major, op.32 №5, Alexandra Dovgan, Paris 06.06.2026",
-     "artist": "Александра Довгань (Alexandra Dovgan)",
-     "thumbnail": "https://i.ytimg.com/vi/ghbyyM-QDjw/mqdefault.jpg",
-     "duration": 287,
+     "rank": 27,
+     "videoId": "EYcfq8uju68",
+     "title": "Mozart era un COPIONE!",
+     "artist": "Francesco Di Fortunato",
+     "thumbnail": "https://i.ytimg.com/vi/EYcfq8uju68/mqdefault.jpg",
+     "duration": 479,
      "genres": [
       "클래식"
      ]
     },
     {
-     "rank": 27,
+     "rank": 28,
      "videoId": "vdBx68Zgx1w",
      "title": "Vivaldi: Violin Concerto in G minor, RV 330: I. Allegro non molto | Adrian Chandler & La Serenissima",
      "artist": "La Serenissima",
@@ -642,7 +655,7 @@
      ]
     },
     {
-     "rank": 28,
+     "rank": 29,
      "videoId": "1yIxlcC_7sc",
      "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
      "artist": "88Keys to Cure",
@@ -653,29 +666,18 @@
      ]
     },
     {
-     "rank": 29,
-     "videoId": "W6nbK-SDlds",
-     "title": "Hawijch Elders - Paganini: No. 24 in A Minor. Tema con variazioni. Quasi presto",
-     "artist": "HawijchEldersVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/W6nbK-SDlds/mqdefault.jpg",
-     "duration": 285,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
      "rank": 30,
-     "videoId": "_kcUfBodsRQ",
-     "title": "Jess Gillam - Allegro Assai, CPE Bach",
-     "artist": "Jess Gillam",
-     "thumbnail": "https://i.ytimg.com/vi/_kcUfBodsRQ/mqdefault.jpg",
-     "duration": 446,
+     "videoId": "r9snmnccIiM",
+     "title": "J. S. Bach: 1. Partita h-Moll BWV 1002 (Sarabande) ∙ Leonidas Kavakos",
+     "artist": "hr-Sinfonieorchester – Frankfurt Radio Symphony",
+     "thumbnail": "https://i.ytimg.com/vi/r9snmnccIiM/mqdefault.jpg",
+     "duration": 484,
      "genres": [
       "클래식"
      ]
     }
    ],
-   "refreshed": "2026-11-07"
+   "refreshed": "2026-11-08"
   },
   {
    "id": "oldies",
