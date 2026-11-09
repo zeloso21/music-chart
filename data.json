@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:30+09:00",
+ "updated": "2026-11-09T09:48+09:00",
  "charts": [
   {
    "id": "kr",
@@ -76,17 +76,6 @@
     },
     {
      "rank": 7,
-     "videoId": "Qm6q2WES9rg",
-     "title": "Fool",
-     "artist": "DaNTe′",
-     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
-     "duration": 145,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 8,
      "videoId": "KccAOdiy4SU",
      "title": "Call My Name",
      "artist": "TWS",
@@ -97,12 +86,23 @@
      ]
     },
     {
+     "rank": 8,
+     "videoId": "Qm6q2WES9rg",
+     "title": "Fool",
+     "artist": "DaNTe′",
+     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
+     "duration": 145,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 9,
-     "videoId": "EAnOKe_B4k8",
-     "title": "Looks Can Kill",
-     "artist": "IVE",
-     "thumbnail": "https://i.ytimg.com/vi/EAnOKe_B4k8/mqdefault.jpg",
-     "duration": 196,
+     "videoId": "vA5S5FsVz-c",
+     "title": "Question Mark",
+     "artist": "HANRORO",
+     "thumbnail": "https://i.ytimg.com/vi/vA5S5FsVz-c/mqdefault.jpg",
+     "duration": 219,
      "genres": [
       "팝",
       "일렉트로닉"
@@ -110,18 +110,6 @@
     },
     {
      "rank": 10,
-     "videoId": "v3XAAzPOWyg",
-     "title": "Drunk (Feat. Coogie)",
-     "artist": "BE'O",
-     "thumbnail": "https://i.ytimg.com/vi/v3XAAzPOWyg/mqdefault.jpg",
-     "duration": 149,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 11,
      "videoId": "9soFGyRwvcM",
      "title": "triple",
      "artist": "GIRIBOY",
@@ -133,12 +121,24 @@
      ]
     },
     {
+     "rank": 11,
+     "videoId": "v3XAAzPOWyg",
+     "title": "Drunk (Feat. Coogie)",
+     "artist": "BE'O",
+     "thumbnail": "https://i.ytimg.com/vi/v3XAAzPOWyg/mqdefault.jpg",
+     "duration": 149,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
      "rank": 12,
-     "videoId": "vA5S5FsVz-c",
-     "title": "Question Mark",
-     "artist": "HANRORO",
-     "thumbnail": "https://i.ytimg.com/vi/vA5S5FsVz-c/mqdefault.jpg",
-     "duration": 219,
+     "videoId": "EAnOKe_B4k8",
+     "title": "Looks Can Kill",
+     "artist": "IVE",
+     "thumbnail": "https://i.ytimg.com/vi/EAnOKe_B4k8/mqdefault.jpg",
+     "duration": 196,
      "genres": [
       "팝",
       "일렉트로닉"
@@ -159,6 +159,17 @@
     },
     {
      "rank": 14,
+     "videoId": "t23bUf0YU4k",
+     "title": "반창꼬",
+     "artist": "DK",
+     "thumbnail": "https://i.ytimg.com/vi/t23bUf0YU4k/mqdefault.jpg",
+     "duration": 247,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 15,
      "videoId": "13SIThoH_54",
      "title": "사랑하지 않아서 그랬어",
      "artist": "Shin Ye Young",
@@ -169,7 +180,7 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 16,
      "videoId": "HlT6mxxt6Ek",
      "title": "ADDICTED",
      "artist": "JISOO",
@@ -181,27 +192,7 @@
      ]
     },
     {
-     "rank": 16,
-     "videoId": "F2WbQwiP5vs",
-     "title": "Insomnia",
-     "artist": "RIIZE",
-     "thumbnail": "https://i.ytimg.com/vi/F2WbQwiP5vs/mqdefault.jpg",
-     "duration": 195,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 17,
-     "videoId": "A12plHIaXMk",
-     "title": "Every Fleeting Moment",
-     "artist": "Jeoung iun",
-     "thumbnail": "https://i.ytimg.com/vi/A12plHIaXMk/mqdefault.jpg",
-     "duration": 208,
-     "genres": []
-    },
-    {
-     "rank": 18,
      "videoId": "PYS0Y-zOsyE",
      "title": "Please Don't Love Me",
      "artist": "Huh Gak",
@@ -212,7 +203,27 @@
      ]
     },
     {
+     "rank": 18,
+     "videoId": "A12plHIaXMk",
+     "title": "Every Fleeting Moment",
+     "artist": "Jeoung iun",
+     "thumbnail": "https://i.ytimg.com/vi/A12plHIaXMk/mqdefault.jpg",
+     "duration": 208,
+     "genres": []
+    },
+    {
      "rank": 19,
+     "videoId": "F2WbQwiP5vs",
+     "title": "Insomnia",
+     "artist": "RIIZE",
+     "thumbnail": "https://i.ytimg.com/vi/F2WbQwiP5vs/mqdefault.jpg",
+     "duration": 195,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 20,
      "videoId": "oGAzDVtifGo",
      "title": "The Last Letter",
      "artist": "Juho",
@@ -223,7 +234,16 @@
      ]
     },
     {
-     "rank": 20,
+     "rank": 21,
+     "videoId": "5Gs_NcF83_E",
+     "title": "여전히 아름다운지",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/5Gs_NcF83_E/mqdefault.jpg",
+     "duration": 265,
+     "genres": []
+    },
+    {
+     "rank": 22,
      "videoId": "E4s8Gy1TpAw",
      "title": "How Did We End Up Apart",
      "artist": "Cha ga eul",
@@ -234,32 +254,12 @@
      ]
     },
     {
-     "rank": 21,
-     "videoId": "t23bUf0YU4k",
-     "title": "반창꼬",
-     "artist": "DK",
-     "thumbnail": "https://i.ytimg.com/vi/t23bUf0YU4k/mqdefault.jpg",
-     "duration": 247,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 22,
-     "videoId": "5Gs_NcF83_E",
-     "title": "여전히 아름다운지",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/5Gs_NcF83_E/mqdefault.jpg",
-     "duration": 265,
-     "genres": []
-    },
-    {
      "rank": 23,
-     "videoId": "19ab1rdpxdU",
-     "title": "One Step at a Time",
-     "artist": "Yiya",
-     "thumbnail": "https://i.ytimg.com/vi/19ab1rdpxdU/mqdefault.jpg",
-     "duration": 177,
+     "videoId": "xHzA18AdYIs",
+     "title": "I'm Smiling",
+     "artist": "O.WHEN",
+     "thumbnail": "https://i.ytimg.com/vi/xHzA18AdYIs/mqdefault.jpg",
+     "duration": 250,
      "genres": [
       "팝"
      ]
@@ -275,6 +275,18 @@
     },
     {
      "rank": 25,
+     "videoId": "ZjLYzzPbdkM",
+     "title": "Baby DONT Cry - ‘Replay’ MV",
+     "artist": "Baby DONT Cry",
+     "thumbnail": "https://i.ytimg.com/vi/ZjLYzzPbdkM/mqdefault.jpg",
+     "duration": 182,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 26,
      "videoId": "4Y0UDJXeHVs",
      "title": "Crazy to love",
      "artist": "HYUN SEO",
@@ -283,17 +295,6 @@
      "genres": [
       "팝",
       "힙합"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "xHzA18AdYIs",
-     "title": "I'm Smiling",
-     "artist": "O.WHEN",
-     "thumbnail": "https://i.ytimg.com/vi/xHzA18AdYIs/mqdefault.jpg",
-     "duration": 250,
-     "genres": [
-      "팝"
      ]
     },
     {
@@ -310,34 +311,35 @@
     },
     {
      "rank": 28,
+     "videoId": "19ab1rdpxdU",
+     "title": "One Step at a Time",
+     "artist": "Yiya",
+     "thumbnail": "https://i.ytimg.com/vi/19ab1rdpxdU/mqdefault.jpg",
+     "duration": 177,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 29,
+     "videoId": "4gApeeMp_ns",
+     "title": "FIRE IN THE HOLE",
+     "artist": "GIRIBOY",
+     "thumbnail": "https://i.ytimg.com/vi/4gApeeMp_ns/mqdefault.jpg",
+     "duration": 155,
+     "genres": [
+      "팝",
+      "힙합"
+     ]
+    },
+    {
+     "rank": 30,
      "videoId": "EFbS6gS5b1w",
      "title": "Our Days in Bloom",
      "artist": "Sunjin",
      "thumbnail": "https://i.ytimg.com/vi/EFbS6gS5b1w/mqdefault.jpg",
      "duration": 219,
      "genres": []
-    },
-    {
-     "rank": 29,
-     "videoId": "M2Tb2kjzzxo",
-     "title": "Pop",
-     "artist": "ILLIT",
-     "thumbnail": "https://i.ytimg.com/vi/M2Tb2kjzzxo/mqdefault.jpg",
-     "duration": 144,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 30,
-     "videoId": "dxyBIvdPIBY",
-     "title": "Us Back Then",
-     "artist": "Park Jongmin",
-     "thumbnail": "https://i.ytimg.com/vi/dxyBIvdPIBY/mqdefault.jpg",
-     "duration": 198,
-     "genres": [
-      "팝"
-     ]
     }
    ]
   },
@@ -359,22 +361,22 @@
     },
     {
      "rank": 2,
-     "videoId": "RlCqqwrFCTg",
-     "title": "Villanosam Ft  Monkey Black Y Mozart La Para -Va Tene Que Vola (Video Oficial)",
-     "artist": "Villanosam",
-     "thumbnail": "https://i.ytimg.com/vi/RlCqqwrFCTg/mqdefault.jpg",
-     "duration": 377,
+     "videoId": "oYMmm6XckDI",
+     "title": "Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings",
+     "artist": "Tranquil Streams",
+     "thumbnail": "https://i.ytimg.com/vi/oYMmm6XckDI/mqdefault.jpg",
+     "duration": 307,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 3,
-     "videoId": "oYMmm6XckDI",
-     "title": "Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings",
-     "artist": "Tranquil Streams",
-     "thumbnail": "https://i.ytimg.com/vi/oYMmm6XckDI/mqdefault.jpg",
-     "duration": 307,
+     "videoId": "RlCqqwrFCTg",
+     "title": "Villanosam Ft  Monkey Black Y Mozart La Para -Va Tene Que Vola (Video Oficial)",
+     "artist": "Villanosam",
+     "thumbnail": "https://i.ytimg.com/vi/RlCqqwrFCTg/mqdefault.jpg",
+     "duration": 377,
      "genres": [
       "클래식"
      ]
@@ -392,28 +394,6 @@
     },
     {
      "rank": 5,
-     "videoId": "y3pvUVi_gSI",
-     "title": "Vivaldi - Autumn / The Four Seasons",
-     "artist": "Kassia",
-     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
-     "duration": 275,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 6,
-     "videoId": "RCWQjVd5MtI",
-     "title": "Beethoven - Symphony No. 5 in C minor, Op. 67 I. Allegro con brio / Accademia Bizantina",
-     "artist": "Accademia Bizantina",
-     "thumbnail": "https://i.ytimg.com/vi/RCWQjVd5MtI/mqdefault.jpg",
-     "duration": 473,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 7,
      "videoId": "oIHD7Yn5pMg",
      "title": "Zade Dirani - Ya Ana (Mozart's Symphony 40)/ Ya Reit btirdi /Zouroni  يا أنا / يا ريت بترضي  زوروني",
      "artist": "Zade Dirani",
@@ -424,7 +404,18 @@
      ]
     },
     {
-     "rank": 8,
+     "rank": 6,
+     "videoId": "y3pvUVi_gSI",
+     "title": "Vivaldi - Autumn / The Four Seasons",
+     "artist": "Kassia",
+     "thumbnail": "https://i.ytimg.com/vi/y3pvUVi_gSI/mqdefault.jpg",
+     "duration": 275,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 7,
      "videoId": "kW3ZYgCWDo0",
      "title": "The impossible beauty of Richter's 1972 Schubert recording (Sonata in B-flat Major, D.960)",
      "artist": "tonebase Piano",
@@ -435,12 +426,23 @@
      ]
     },
     {
-     "rank": 9,
+     "rank": 8,
      "videoId": "pLRwPvZB1Uk",
      "title": "He Started Playing Beethoven… Then Her Electric Guitar Changed EVERYTHING! | Moonlight Sonata 🎹🔥",
      "artist": "The Talent Stage",
      "thumbnail": "https://i.ytimg.com/vi/pLRwPvZB1Uk/mqdefault.jpg",
      "duration": 293,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 9,
+     "videoId": "sjYkeEvbWAM",
+     "title": "Chopin, Ballade N°3 Op.47 - Simon Bürki",
+     "artist": "Aparté Music",
+     "thumbnail": "https://i.ytimg.com/vi/sjYkeEvbWAM/mqdefault.jpg",
+     "duration": 459,
      "genres": [
       "클래식"
      ]
@@ -480,17 +482,6 @@
     },
     {
      "rank": 13,
-     "videoId": "cdLwSfU06f8",
-     "title": "Laura Lootens - Waltz Op. 34 No. 2 by Frederic Chopin (Official Video)",
-     "artist": "Laura Lootens",
-     "thumbnail": "https://i.ytimg.com/vi/cdLwSfU06f8/mqdefault.jpg",
-     "duration": 352,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 14,
      "videoId": "jLTUVhH36Lo",
      "title": "Franz Schubert - Impromptu No. 3, Op. 90",
      "artist": "Dalia Lazar",
@@ -501,18 +492,7 @@
      ]
     },
     {
-     "rank": 15,
-     "videoId": "Hyl7fITvEFw",
-     "title": "Ivan Bessonov — Rachmaninoff: Prelude in D Major, Op. 23 No. 4",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/Hyl7fITvEFw/mqdefault.jpg",
-     "duration": 338,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 16,
+     "rank": 14,
      "videoId": "IMFZVI29utg",
      "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
      "artist": "클래식타벅스",
@@ -523,7 +503,7 @@
      ]
     },
     {
-     "rank": 17,
+     "rank": 15,
      "videoId": "QsMfa0R1i1w",
      "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
      "artist": "sergeikvitkoVEVO",
@@ -534,7 +514,18 @@
      ]
     },
     {
-     "rank": 18,
+     "rank": 16,
+     "videoId": "X2MDxahhXNQ",
+     "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
+     "artist": "Ravlis",
+     "thumbnail": "https://i.ytimg.com/vi/X2MDxahhXNQ/mqdefault.jpg",
+     "duration": 354,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 17,
      "videoId": "x3ngAGfju-8",
      "title": "Vera Danilina plays \"Ich Ruf Zu Dir, Herr Jesu Christ\" by J. S. Bach on a Siccas Luthiers Guitar",
      "artist": "SiccasGuitars",
@@ -545,12 +536,23 @@
      ]
     },
     {
-     "rank": 19,
+     "rank": 18,
      "videoId": "cspDGpuGIzI",
      "title": "Ivan Bessonov | J. S. Bach: Prelude and Fugue No. 4 in C-sharp Minor, BWV 873 | WTC II",
      "artist": "Ivan Bessonov",
      "thumbnail": "https://i.ytimg.com/vi/cspDGpuGIzI/mqdefault.jpg",
      "duration": 460,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 19,
+     "videoId": "1yIxlcC_7sc",
+     "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
+     "artist": "88Keys to Cure",
+     "thumbnail": "https://i.ytimg.com/vi/1yIxlcC_7sc/mqdefault.jpg",
+     "duration": 722,
      "genres": [
       "클래식"
      ]
@@ -579,17 +581,28 @@
     },
     {
      "rank": 22,
-     "videoId": "AWLo-mcult8",
-     "title": "Amadeus Mozart Rocks (Inspired by Falco \"Rock me Amadeus\")",
-     "artist": "Peter Wyze (official)",
-     "thumbnail": "https://i.ytimg.com/vi/AWLo-mcult8/mqdefault.jpg",
-     "duration": 245,
+     "videoId": "vGdA6CILY2M",
+     "title": "Ivan Bessonov (Encore) – Frédéric Chopin: Fantaisie-Impromptu in C-sharp Minor, Op. 66",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/vGdA6CILY2M/mqdefault.jpg",
+     "duration": 364,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 23,
+     "videoId": "FAxEGo-dFeA",
+     "title": "Víkingur Ólafsson - J.S. Bach: Erbarm dich mein, o Herre Gott, BWV 721 (Performed on Piano)",
+     "artist": "Deutsche Grammophon - DG",
+     "thumbnail": "https://i.ytimg.com/vi/FAxEGo-dFeA/mqdefault.jpg",
+     "duration": 280,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 24,
      "videoId": "NL7v1CSKWYE",
      "title": "A Moment with Rachmaninoff | Moment Musical No. 6",
      "artist": "Traum Piano",
@@ -600,7 +613,7 @@
      ]
     },
     {
-     "rank": 24,
+     "rank": 25,
      "videoId": "Iq7IAN87jS8",
      "title": "Ivan Bessonov — J.S. Bach: Partita No. 6 in E Minor, BWV 830 — I. Toccata",
      "artist": "Ivan Bessonov",
@@ -611,40 +624,7 @@
      ]
     },
     {
-     "rank": 25,
-     "videoId": "jF3wCNZRgYw",
-     "title": "Bach: Violin Concerto No. 2 in E major, BWV 1042 - Alexandra Conunova",
-     "artist": "Kristiansand Symphony Orchestra",
-     "thumbnail": "https://i.ytimg.com/vi/jF3wCNZRgYw/mqdefault.jpg",
-     "duration": 1023,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
      "rank": 26,
-     "videoId": "SaMnLFPTJjo",
-     "title": "Ivan Bessonov — Mozart: Piano Sonata No. 12 in F Major, K. 332 — I. Allegro",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/SaMnLFPTJjo/mqdefault.jpg",
-     "duration": 314,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 27,
-     "videoId": "EYcfq8uju68",
-     "title": "Mozart era un COPIONE!",
-     "artist": "Francesco Di Fortunato",
-     "thumbnail": "https://i.ytimg.com/vi/EYcfq8uju68/mqdefault.jpg",
-     "duration": 479,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 28,
      "videoId": "vdBx68Zgx1w",
      "title": "Vivaldi: Violin Concerto in G minor, RV 330: I. Allegro non molto | Adrian Chandler & La Serenissima",
      "artist": "La Serenissima",
@@ -655,29 +635,51 @@
      ]
     },
     {
+     "rank": 27,
+     "videoId": "jF3wCNZRgYw",
+     "title": "Bach: Violin Concerto No. 2 in E major, BWV 1042 - Alexandra Conunova",
+     "artist": "Kristiansand Symphony Orchestra",
+     "thumbnail": "https://i.ytimg.com/vi/jF3wCNZRgYw/mqdefault.jpg",
+     "duration": 1023,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "SaMnLFPTJjo",
+     "title": "Ivan Bessonov — Mozart: Piano Sonata No. 12 in F Major, K. 332 — I. Allegro",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/SaMnLFPTJjo/mqdefault.jpg",
+     "duration": 314,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 29,
-     "videoId": "1yIxlcC_7sc",
-     "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
-     "artist": "88Keys to Cure",
-     "thumbnail": "https://i.ytimg.com/vi/1yIxlcC_7sc/mqdefault.jpg",
-     "duration": 722,
+     "videoId": "EYcfq8uju68",
+     "title": "Mozart era un COPIONE!",
+     "artist": "Francesco Di Fortunato",
+     "thumbnail": "https://i.ytimg.com/vi/EYcfq8uju68/mqdefault.jpg",
+     "duration": 479,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 30,
-     "videoId": "r9snmnccIiM",
-     "title": "J. S. Bach: 1. Partita h-Moll BWV 1002 (Sarabande) ∙ Leonidas Kavakos",
-     "artist": "hr-Sinfonieorchester – Frankfurt Radio Symphony",
-     "thumbnail": "https://i.ytimg.com/vi/r9snmnccIiM/mqdefault.jpg",
-     "duration": 484,
+     "videoId": "wAeAq9BUPGY",
+     "title": "Schubert–Liszt – Ave Maria | Rachel Naomi Kudo, Piano",
+     "artist": "Rachel Naomi Kudo",
+     "thumbnail": "https://i.ytimg.com/vi/wAeAq9BUPGY/mqdefault.jpg",
+     "duration": 382,
      "genres": [
       "클래식"
      ]
     }
    ],
-   "refreshed": "2026-11-08"
+   "refreshed": "2026-11-09"
   },
   {
    "id": "oldies",
@@ -811,18 +813,6 @@
     },
     {
      "rank": 11,
-     "videoId": "9BMwcO6_hyA",
-     "title": "Bon Jovi - Always (Official Music Video)",
-     "artist": "Bon Jovi",
-     "thumbnail": "https://i.ytimg.com/vi/9BMwcO6_hyA/mqdefault.jpg",
-     "duration": 366,
-     "genres": [
-      "팝",
-      "록"
-     ]
-    },
-    {
-     "rank": 12,
      "videoId": "zpzdgmqIHOQ",
      "title": "Madonna - La Isla Bonita (Official Video)",
      "artist": "Madonna",
@@ -832,6 +822,18 @@
       "팝",
       "R&B·소울",
       "라틴"
+     ]
+    },
+    {
+     "rank": 12,
+     "videoId": "9BMwcO6_hyA",
+     "title": "Bon Jovi - Always (Official Music Video)",
+     "artist": "Bon Jovi",
+     "thumbnail": "https://i.ytimg.com/vi/9BMwcO6_hyA/mqdefault.jpg",
+     "duration": 366,
+     "genres": [
+      "팝",
+      "록"
      ]
     },
     {
@@ -1059,7 +1061,7 @@
      ]
     }
    ],
-   "refreshed": "2026-11-02"
+   "refreshed": "2026-11-09"
   }
  ]
 }
