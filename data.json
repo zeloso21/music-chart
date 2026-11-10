@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:48+09:00",
+ "updated": "2026-11-10T12:28+09:00",
  "charts": [
   {
    "id": "kr",
@@ -65,13 +65,14 @@
     },
     {
      "rank": 6,
-     "videoId": "bB8rDZPNjyI",
-     "title": "삐그덕 (seesaw)",
-     "artist": "Crush",
-     "thumbnail": "https://i.ytimg.com/vi/bB8rDZPNjyI/mqdefault.jpg",
-     "duration": 181,
+     "videoId": "vA5S5FsVz-c",
+     "title": "Question Mark",
+     "artist": "HANRORO",
+     "thumbnail": "https://i.ytimg.com/vi/vA5S5FsVz-c/mqdefault.jpg",
+     "duration": 219,
      "genres": [
-      "팝"
+      "팝",
+      "일렉트로닉"
      ]
     },
     {
@@ -98,18 +99,6 @@
     },
     {
      "rank": 9,
-     "videoId": "vA5S5FsVz-c",
-     "title": "Question Mark",
-     "artist": "HANRORO",
-     "thumbnail": "https://i.ytimg.com/vi/vA5S5FsVz-c/mqdefault.jpg",
-     "duration": 219,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 10,
      "videoId": "9soFGyRwvcM",
      "title": "triple",
      "artist": "GIRIBOY",
@@ -121,7 +110,29 @@
      ]
     },
     {
+     "rank": 10,
+     "videoId": "bB8rDZPNjyI",
+     "title": "삐그덕 (seesaw)",
+     "artist": "Crush",
+     "thumbnail": "https://i.ytimg.com/vi/bB8rDZPNjyI/mqdefault.jpg",
+     "duration": 181,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 11,
+     "videoId": "t23bUf0YU4k",
+     "title": "반창꼬",
+     "artist": "DK",
+     "thumbnail": "https://i.ytimg.com/vi/t23bUf0YU4k/mqdefault.jpg",
+     "duration": 247,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 12,
      "videoId": "v3XAAzPOWyg",
      "title": "Drunk (Feat. Coogie)",
      "artist": "BE'O",
@@ -133,7 +144,7 @@
      ]
     },
     {
-     "rank": 12,
+     "rank": 13,
      "videoId": "EAnOKe_B4k8",
      "title": "Looks Can Kill",
      "artist": "IVE",
@@ -145,7 +156,19 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 14,
+     "videoId": "HlT6mxxt6Ek",
+     "title": "ADDICTED",
+     "artist": "JISOO",
+     "thumbnail": "https://i.ytimg.com/vi/HlT6mxxt6Ek/mqdefault.jpg",
+     "duration": 180,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 15,
      "videoId": "SsUU0-rysY4",
      "title": "Drip",
      "artist": "ATEEZ",
@@ -158,18 +181,18 @@
      ]
     },
     {
-     "rank": 14,
-     "videoId": "t23bUf0YU4k",
-     "title": "반창꼬",
-     "artist": "DK",
-     "thumbnail": "https://i.ytimg.com/vi/t23bUf0YU4k/mqdefault.jpg",
-     "duration": 247,
+     "rank": 16,
+     "videoId": "y-klhPVFblg",
+     "title": "ISEGYE IDOL (이세계아이돌) ‘REBELS’ Official MV",
+     "artist": "ISEGYE IDOL",
+     "thumbnail": "https://i.ytimg.com/vi/y-klhPVFblg/mqdefault.jpg",
+     "duration": 173,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 15,
+     "rank": 17,
      "videoId": "13SIThoH_54",
      "title": "사랑하지 않아서 그랬어",
      "artist": "Shin Ye Young",
@@ -180,19 +203,18 @@
      ]
     },
     {
-     "rank": 16,
-     "videoId": "HlT6mxxt6Ek",
-     "title": "ADDICTED",
-     "artist": "JISOO",
-     "thumbnail": "https://i.ytimg.com/vi/HlT6mxxt6Ek/mqdefault.jpg",
-     "duration": 180,
+     "rank": 18,
+     "videoId": "wG7pnZttup8",
+     "title": "NCT DREAM 엔시티 드림 'Boogie Woogie' MV",
+     "artist": "SMTOWN",
+     "thumbnail": "https://i.ytimg.com/vi/wG7pnZttup8/mqdefault.jpg",
+     "duration": 199,
      "genres": [
-      "팝",
-      "일렉트로닉"
+      "팝"
      ]
     },
     {
-     "rank": 17,
+     "rank": 19,
      "videoId": "PYS0Y-zOsyE",
      "title": "Please Don't Love Me",
      "artist": "Huh Gak",
@@ -203,7 +225,7 @@
      ]
     },
     {
-     "rank": 18,
+     "rank": 20,
      "videoId": "A12plHIaXMk",
      "title": "Every Fleeting Moment",
      "artist": "Jeoung iun",
@@ -212,7 +234,7 @@
      "genres": []
     },
     {
-     "rank": 19,
+     "rank": 21,
      "videoId": "F2WbQwiP5vs",
      "title": "Insomnia",
      "artist": "RIIZE",
@@ -223,7 +245,7 @@
      ]
     },
     {
-     "rank": 20,
+     "rank": 22,
      "videoId": "oGAzDVtifGo",
      "title": "The Last Letter",
      "artist": "Juho",
@@ -234,7 +256,7 @@
      ]
     },
     {
-     "rank": 21,
+     "rank": 23,
      "videoId": "5Gs_NcF83_E",
      "title": "여전히 아름다운지",
      "artist": "Release",
@@ -243,18 +265,7 @@
      "genres": []
     },
     {
-     "rank": 22,
-     "videoId": "E4s8Gy1TpAw",
-     "title": "How Did We End Up Apart",
-     "artist": "Cha ga eul",
-     "thumbnail": "https://i.ytimg.com/vi/E4s8Gy1TpAw/mqdefault.jpg",
-     "duration": 240,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 23,
+     "rank": 24,
      "videoId": "xHzA18AdYIs",
      "title": "I'm Smiling",
      "artist": "O.WHEN",
@@ -265,7 +276,39 @@
      ]
     },
     {
-     "rank": 24,
+     "rank": 25,
+     "videoId": "g9S18fcpNSQ",
+     "title": "Night Stage",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/g9S18fcpNSQ/mqdefault.jpg",
+     "duration": 220,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 26,
+     "videoId": "JPJokqIoIJI",
+     "title": "A2O SOUL 'Dancing in the Dark' Official Music Video",
+     "artist": "A2O WORLD",
+     "thumbnail": "https://i.ytimg.com/vi/JPJokqIoIJI/mqdefault.jpg",
+     "duration": 184,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 27,
+     "videoId": "8oiyutRI3nI",
+     "title": "プレイバック feat. 初音ミク, 雨衣 / “Playback” ft. Miku, Ui",
+     "artist": "うちのボカロは様子がおかしい",
+     "thumbnail": "https://i.ytimg.com/vi/8oiyutRI3nI/mqdefault.jpg",
+     "duration": 150,
+     "genres": []
+    },
+    {
+     "rank": 28,
      "videoId": "ffCxo0eO6h4",
      "title": "Remember Me",
      "artist": "So Soo Bin",
@@ -274,71 +317,23 @@
      "genres": []
     },
     {
-     "rank": 25,
-     "videoId": "ZjLYzzPbdkM",
-     "title": "Baby DONT Cry - ‘Replay’ MV",
-     "artist": "Baby DONT Cry",
-     "thumbnail": "https://i.ytimg.com/vi/ZjLYzzPbdkM/mqdefault.jpg",
-     "duration": 182,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "4Y0UDJXeHVs",
-     "title": "Crazy to love",
-     "artist": "HYUN SEO",
-     "thumbnail": "https://i.ytimg.com/vi/4Y0UDJXeHVs/mqdefault.jpg",
-     "duration": 152,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 27,
-     "videoId": "9UE8rBodav0",
-     "title": "AHOHYEH",
-     "artist": "GIRIBOY",
-     "thumbnail": "https://i.ytimg.com/vi/9UE8rBodav0/mqdefault.jpg",
-     "duration": 182,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
-     "rank": 28,
-     "videoId": "19ab1rdpxdU",
-     "title": "One Step at a Time",
-     "artist": "Yiya",
-     "thumbnail": "https://i.ytimg.com/vi/19ab1rdpxdU/mqdefault.jpg",
-     "duration": 177,
+     "rank": 29,
+     "videoId": "E4s8Gy1TpAw",
+     "title": "How Did We End Up Apart",
+     "artist": "Cha ga eul",
+     "thumbnail": "https://i.ytimg.com/vi/E4s8Gy1TpAw/mqdefault.jpg",
+     "duration": 240,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 29,
-     "videoId": "4gApeeMp_ns",
-     "title": "FIRE IN THE HOLE",
-     "artist": "GIRIBOY",
-     "thumbnail": "https://i.ytimg.com/vi/4gApeeMp_ns/mqdefault.jpg",
-     "duration": 155,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
      "rank": 30,
-     "videoId": "EFbS6gS5b1w",
-     "title": "Our Days in Bloom",
-     "artist": "Sunjin",
-     "thumbnail": "https://i.ytimg.com/vi/EFbS6gS5b1w/mqdefault.jpg",
-     "duration": 219,
+     "videoId": "OlprURqnZw8",
+     "title": "[MV] ABM - '好きな隙間' (My Lovely Nook) feat. 音街ウナ",
+     "artist": "AnythingBecomeMoe",
+     "thumbnail": "https://i.ytimg.com/vi/OlprURqnZw8/mqdefault.jpg",
+     "duration": 172,
      "genres": []
     }
    ]
@@ -416,22 +411,22 @@
     },
     {
      "rank": 7,
-     "videoId": "kW3ZYgCWDo0",
-     "title": "The impossible beauty of Richter's 1972 Schubert recording (Sonata in B-flat Major, D.960)",
-     "artist": "tonebase Piano",
-     "thumbnail": "https://i.ytimg.com/vi/kW3ZYgCWDo0/mqdefault.jpg",
-     "duration": 1001,
+     "videoId": "pLRwPvZB1Uk",
+     "title": "He Started Playing Beethoven… Then Her Electric Guitar Changed EVERYTHING! | Moonlight Sonata 🎹🔥",
+     "artist": "The Talent Stage",
+     "thumbnail": "https://i.ytimg.com/vi/pLRwPvZB1Uk/mqdefault.jpg",
+     "duration": 293,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 8,
-     "videoId": "pLRwPvZB1Uk",
-     "title": "He Started Playing Beethoven… Then Her Electric Guitar Changed EVERYTHING! | Moonlight Sonata 🎹🔥",
-     "artist": "The Talent Stage",
-     "thumbnail": "https://i.ytimg.com/vi/pLRwPvZB1Uk/mqdefault.jpg",
-     "duration": 293,
+     "videoId": "kW3ZYgCWDo0",
+     "title": "The impossible beauty of Richter's 1972 Schubert recording (Sonata in B-flat Major, D.960)",
+     "artist": "tonebase Piano",
+     "thumbnail": "https://i.ytimg.com/vi/kW3ZYgCWDo0/mqdefault.jpg",
+     "duration": 1001,
      "genres": [
       "클래식"
      ]
@@ -493,94 +488,6 @@
     },
     {
      "rank": 14,
-     "videoId": "IMFZVI29utg",
-     "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
-     "artist": "클래식타벅스",
-     "thumbnail": "https://i.ytimg.com/vi/IMFZVI29utg/mqdefault.jpg",
-     "duration": 705,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 15,
-     "videoId": "QsMfa0R1i1w",
-     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
-     "artist": "sergeikvitkoVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
-     "duration": 573,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "X2MDxahhXNQ",
-     "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
-     "artist": "Ravlis",
-     "thumbnail": "https://i.ytimg.com/vi/X2MDxahhXNQ/mqdefault.jpg",
-     "duration": 354,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 17,
-     "videoId": "x3ngAGfju-8",
-     "title": "Vera Danilina plays \"Ich Ruf Zu Dir, Herr Jesu Christ\" by J. S. Bach on a Siccas Luthiers Guitar",
-     "artist": "SiccasGuitars",
-     "thumbnail": "https://i.ytimg.com/vi/x3ngAGfju-8/mqdefault.jpg",
-     "duration": 243,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 18,
-     "videoId": "cspDGpuGIzI",
-     "title": "Ivan Bessonov | J. S. Bach: Prelude and Fugue No. 4 in C-sharp Minor, BWV 873 | WTC II",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/cspDGpuGIzI/mqdefault.jpg",
-     "duration": 460,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 19,
-     "videoId": "1yIxlcC_7sc",
-     "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
-     "artist": "88Keys to Cure",
-     "thumbnail": "https://i.ytimg.com/vi/1yIxlcC_7sc/mqdefault.jpg",
-     "duration": 722,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 20,
-     "videoId": "SpiFIYOAV58",
-     "title": "[NEW RELEASE] Chopin | Nocturne No. 8 in D-flat major, Op. 27 No. 2. | Pavel Kolesnikov",
-     "artist": "harmonia mundi music",
-     "thumbnail": "https://i.ytimg.com/vi/SpiFIYOAV58/mqdefault.jpg",
-     "duration": 337,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 21,
-     "videoId": "TPTyotHTP10",
-     "title": "모차르트를 넘어 ‘살아있는 생명’ 그 자체가 된 음악 | 임윤찬 베를린 피아노 독주회 평론",
-     "artist": "크레이지 클래식 김기자",
-     "thumbnail": "https://i.ytimg.com/vi/TPTyotHTP10/mqdefault.jpg",
-     "duration": 563,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 22,
      "videoId": "vGdA6CILY2M",
      "title": "Ivan Bessonov (Encore) – Frédéric Chopin: Fantaisie-Impromptu in C-sharp Minor, Op. 66",
      "artist": "Ivan Bessonov",
@@ -591,7 +498,51 @@
      ]
     },
     {
-     "rank": 23,
+     "rank": 15,
+     "videoId": "IMFZVI29utg",
+     "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
+     "artist": "클래식타벅스",
+     "thumbnail": "https://i.ytimg.com/vi/IMFZVI29utg/mqdefault.jpg",
+     "duration": 705,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 16,
+     "videoId": "QsMfa0R1i1w",
+     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
+     "artist": "sergeikvitkoVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
+     "duration": 573,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 17,
+     "videoId": "X2MDxahhXNQ",
+     "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
+     "artist": "Ravlis",
+     "thumbnail": "https://i.ytimg.com/vi/X2MDxahhXNQ/mqdefault.jpg",
+     "duration": 354,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 18,
+     "videoId": "1yIxlcC_7sc",
+     "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
+     "artist": "88Keys to Cure",
+     "thumbnail": "https://i.ytimg.com/vi/1yIxlcC_7sc/mqdefault.jpg",
+     "duration": 722,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 19,
      "videoId": "FAxEGo-dFeA",
      "title": "Víkingur Ólafsson - J.S. Bach: Erbarm dich mein, o Herre Gott, BWV 721 (Performed on Piano)",
      "artist": "Deutsche Grammophon - DG",
@@ -602,29 +553,62 @@
      ]
     },
     {
+     "rank": 20,
+     "videoId": "gIUXlln6wz8",
+     "title": "バッハ：パルティータ第2番シンフォニア / Bach Partita No.2 Sinfonia",
+     "artist": "りっちゃんの音楽channel",
+     "thumbnail": "https://i.ytimg.com/vi/gIUXlln6wz8/mqdefault.jpg",
+     "duration": 296,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 21,
+     "videoId": "x3ngAGfju-8",
+     "title": "Vera Danilina plays \"Ich Ruf Zu Dir, Herr Jesu Christ\" by J. S. Bach on a Siccas Luthiers Guitar",
+     "artist": "SiccasGuitars",
+     "thumbnail": "https://i.ytimg.com/vi/x3ngAGfju-8/mqdefault.jpg",
+     "duration": 243,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 22,
+     "videoId": "cspDGpuGIzI",
+     "title": "Ivan Bessonov | J. S. Bach: Prelude and Fugue No. 4 in C-sharp Minor, BWV 873 | WTC II",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/cspDGpuGIzI/mqdefault.jpg",
+     "duration": 460,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 23,
+     "videoId": "SpiFIYOAV58",
+     "title": "[NEW RELEASE] Chopin | Nocturne No. 8 in D-flat major, Op. 27 No. 2. | Pavel Kolesnikov",
+     "artist": "harmonia mundi music",
+     "thumbnail": "https://i.ytimg.com/vi/SpiFIYOAV58/mqdefault.jpg",
+     "duration": 337,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 24,
-     "videoId": "NL7v1CSKWYE",
-     "title": "A Moment with Rachmaninoff | Moment Musical No. 6",
-     "artist": "Traum Piano",
-     "thumbnail": "https://i.ytimg.com/vi/NL7v1CSKWYE/mqdefault.jpg",
-     "duration": 310,
+     "videoId": "TPTyotHTP10",
+     "title": "모차르트를 넘어 ‘살아있는 생명’ 그 자체가 된 음악 | 임윤찬 베를린 피아노 독주회 평론",
+     "artist": "크레이지 클래식 김기자",
+     "thumbnail": "https://i.ytimg.com/vi/TPTyotHTP10/mqdefault.jpg",
+     "duration": 563,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 25,
-     "videoId": "Iq7IAN87jS8",
-     "title": "Ivan Bessonov — J.S. Bach: Partita No. 6 in E Minor, BWV 830 — I. Toccata",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/Iq7IAN87jS8/mqdefault.jpg",
-     "duration": 538,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 26,
      "videoId": "vdBx68Zgx1w",
      "title": "Vivaldi: Violin Concerto in G minor, RV 330: I. Allegro non molto | Adrian Chandler & La Serenissima",
      "artist": "La Serenissima",
@@ -635,7 +619,29 @@
      ]
     },
     {
+     "rank": 26,
+     "videoId": "Iq7IAN87jS8",
+     "title": "Ivan Bessonov — J.S. Bach: Partita No. 6 in E Minor, BWV 830 — I. Toccata",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/Iq7IAN87jS8/mqdefault.jpg",
+     "duration": 538,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 27,
+     "videoId": "NL7v1CSKWYE",
+     "title": "A Moment with Rachmaninoff | Moment Musical No. 6",
+     "artist": "Traum Piano",
+     "thumbnail": "https://i.ytimg.com/vi/NL7v1CSKWYE/mqdefault.jpg",
+     "duration": 310,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 28,
      "videoId": "jF3wCNZRgYw",
      "title": "Bach: Violin Concerto No. 2 in E major, BWV 1042 - Alexandra Conunova",
      "artist": "Kristiansand Symphony Orchestra",
@@ -646,7 +652,7 @@
      ]
     },
     {
-     "rank": 28,
+     "rank": 29,
      "videoId": "SaMnLFPTJjo",
      "title": "Ivan Bessonov — Mozart: Piano Sonata No. 12 in F Major, K. 332 — I. Allegro",
      "artist": "Ivan Bessonov",
@@ -657,7 +663,7 @@
      ]
     },
     {
-     "rank": 29,
+     "rank": 30,
      "videoId": "EYcfq8uju68",
      "title": "Mozart era un COPIONE!",
      "artist": "Francesco Di Fortunato",
@@ -666,20 +672,9 @@
      "genres": [
       "클래식"
      ]
-    },
-    {
-     "rank": 30,
-     "videoId": "wAeAq9BUPGY",
-     "title": "Schubert–Liszt – Ave Maria | Rachel Naomi Kudo, Piano",
-     "artist": "Rachel Naomi Kudo",
-     "thumbnail": "https://i.ytimg.com/vi/wAeAq9BUPGY/mqdefault.jpg",
-     "duration": 382,
-     "genres": [
-      "클래식"
-     ]
     }
    ],
-   "refreshed": "2026-11-09"
+   "refreshed": "2026-11-10"
   },
   {
    "id": "oldies",
