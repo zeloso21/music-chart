@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:28+09:00",
+ "updated": "2026-11-11T10:12+09:00",
  "charts": [
   {
    "id": "kr",
@@ -77,6 +77,17 @@
     },
     {
      "rank": 7,
+     "videoId": "g9S18fcpNSQ",
+     "title": "Night Stage",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/g9S18fcpNSQ/mqdefault.jpg",
+     "duration": 220,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 8,
      "videoId": "KccAOdiy4SU",
      "title": "Call My Name",
      "artist": "TWS",
@@ -87,18 +98,18 @@
      ]
     },
     {
-     "rank": 8,
-     "videoId": "Qm6q2WES9rg",
-     "title": "Fool",
-     "artist": "DaNTe′",
-     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
-     "duration": 145,
+     "rank": 9,
+     "videoId": "y-klhPVFblg",
+     "title": "ISEGYE IDOL (이세계아이돌) ‘REBELS’ Official MV",
+     "artist": "ISEGYE IDOL",
+     "thumbnail": "https://i.ytimg.com/vi/y-klhPVFblg/mqdefault.jpg",
+     "duration": 173,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 9,
+     "rank": 10,
      "videoId": "9soFGyRwvcM",
      "title": "triple",
      "artist": "GIRIBOY",
@@ -110,18 +121,18 @@
      ]
     },
     {
-     "rank": 10,
-     "videoId": "bB8rDZPNjyI",
-     "title": "삐그덕 (seesaw)",
-     "artist": "Crush",
-     "thumbnail": "https://i.ytimg.com/vi/bB8rDZPNjyI/mqdefault.jpg",
-     "duration": 181,
+     "rank": 11,
+     "videoId": "Qm6q2WES9rg",
+     "title": "Fool",
+     "artist": "DaNTe′",
+     "thumbnail": "https://i.ytimg.com/vi/Qm6q2WES9rg/mqdefault.jpg",
+     "duration": 145,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 11,
+     "rank": 12,
      "videoId": "t23bUf0YU4k",
      "title": "반창꼬",
      "artist": "DK",
@@ -132,7 +143,29 @@
      ]
     },
     {
-     "rank": 12,
+     "rank": 13,
+     "videoId": "bB8rDZPNjyI",
+     "title": "삐그덕 (seesaw)",
+     "artist": "Crush",
+     "thumbnail": "https://i.ytimg.com/vi/bB8rDZPNjyI/mqdefault.jpg",
+     "duration": 181,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 14,
+     "videoId": "wG7pnZttup8",
+     "title": "NCT DREAM 엔시티 드림 'Boogie Woogie' MV",
+     "artist": "SMTOWN",
+     "thumbnail": "https://i.ytimg.com/vi/wG7pnZttup8/mqdefault.jpg",
+     "duration": 199,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 15,
      "videoId": "v3XAAzPOWyg",
      "title": "Drunk (Feat. Coogie)",
      "artist": "BE'O",
@@ -144,7 +177,19 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 16,
+     "videoId": "Xm2c0L-Xgdg",
+     "title": "Dancing in the Dark",
+     "artist": "A2O",
+     "thumbnail": "https://i.ytimg.com/vi/Xm2c0L-Xgdg/mqdefault.jpg",
+     "duration": 168,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 17,
      "videoId": "EAnOKe_B4k8",
      "title": "Looks Can Kill",
      "artist": "IVE",
@@ -156,7 +201,7 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 18,
      "videoId": "HlT6mxxt6Ek",
      "title": "ADDICTED",
      "artist": "JISOO",
@@ -168,7 +213,7 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 19,
      "videoId": "SsUU0-rysY4",
      "title": "Drip",
      "artist": "ATEEZ",
@@ -181,18 +226,30 @@
      ]
     },
     {
-     "rank": 16,
-     "videoId": "y-klhPVFblg",
-     "title": "ISEGYE IDOL (이세계아이돌) ‘REBELS’ Official MV",
-     "artist": "ISEGYE IDOL",
-     "thumbnail": "https://i.ytimg.com/vi/y-klhPVFblg/mqdefault.jpg",
+     "rank": 20,
+     "videoId": "NjGPGcZpmtc",
+     "title": "sinho",
+     "artist": "Woo Yerin",
+     "thumbnail": "https://i.ytimg.com/vi/NjGPGcZpmtc/mqdefault.jpg",
      "duration": 173,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 17,
+     "rank": 21,
+     "videoId": "T4edGhDQNkI",
+     "title": "While We’re Young",
+     "artist": "A2O",
+     "thumbnail": "https://i.ytimg.com/vi/T4edGhDQNkI/mqdefault.jpg",
+     "duration": 198,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 22,
      "videoId": "13SIThoH_54",
      "title": "사랑하지 않아서 그랬어",
      "artist": "Shin Ye Young",
@@ -203,18 +260,18 @@
      ]
     },
     {
-     "rank": 18,
-     "videoId": "wG7pnZttup8",
-     "title": "NCT DREAM 엔시티 드림 'Boogie Woogie' MV",
-     "artist": "SMTOWN",
-     "thumbnail": "https://i.ytimg.com/vi/wG7pnZttup8/mqdefault.jpg",
-     "duration": 199,
+     "rank": 23,
+     "videoId": "N4Lx-xy8mSI",
+     "title": "Dream After Dream",
+     "artist": "NCT DREAM",
+     "thumbnail": "https://i.ytimg.com/vi/N4Lx-xy8mSI/mqdefault.jpg",
+     "duration": 204,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 19,
+     "rank": 24,
      "videoId": "PYS0Y-zOsyE",
      "title": "Please Don't Love Me",
      "artist": "Huh Gak",
@@ -225,81 +282,7 @@
      ]
     },
     {
-     "rank": 20,
-     "videoId": "A12plHIaXMk",
-     "title": "Every Fleeting Moment",
-     "artist": "Jeoung iun",
-     "thumbnail": "https://i.ytimg.com/vi/A12plHIaXMk/mqdefault.jpg",
-     "duration": 208,
-     "genres": []
-    },
-    {
-     "rank": 21,
-     "videoId": "F2WbQwiP5vs",
-     "title": "Insomnia",
-     "artist": "RIIZE",
-     "thumbnail": "https://i.ytimg.com/vi/F2WbQwiP5vs/mqdefault.jpg",
-     "duration": 195,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 22,
-     "videoId": "oGAzDVtifGo",
-     "title": "The Last Letter",
-     "artist": "Juho",
-     "thumbnail": "https://i.ytimg.com/vi/oGAzDVtifGo/mqdefault.jpg",
-     "duration": 211,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 23,
-     "videoId": "5Gs_NcF83_E",
-     "title": "여전히 아름다운지",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/5Gs_NcF83_E/mqdefault.jpg",
-     "duration": 265,
-     "genres": []
-    },
-    {
-     "rank": 24,
-     "videoId": "xHzA18AdYIs",
-     "title": "I'm Smiling",
-     "artist": "O.WHEN",
-     "thumbnail": "https://i.ytimg.com/vi/xHzA18AdYIs/mqdefault.jpg",
-     "duration": 250,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 25,
-     "videoId": "g9S18fcpNSQ",
-     "title": "Night Stage",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/g9S18fcpNSQ/mqdefault.jpg",
-     "duration": 220,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "JPJokqIoIJI",
-     "title": "A2O SOUL 'Dancing in the Dark' Official Music Video",
-     "artist": "A2O WORLD",
-     "thumbnail": "https://i.ytimg.com/vi/JPJokqIoIJI/mqdefault.jpg",
-     "duration": 184,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 27,
      "videoId": "8oiyutRI3nI",
      "title": "プレイバック feat. 初音ミク, 雨衣 / “Playback” ft. Miku, Ui",
      "artist": "うちのボカロは様子がおかしい",
@@ -308,32 +291,55 @@
      "genres": []
     },
     {
-     "rank": 28,
-     "videoId": "ffCxo0eO6h4",
-     "title": "Remember Me",
-     "artist": "So Soo Bin",
-     "thumbnail": "https://i.ytimg.com/vi/ffCxo0eO6h4/mqdefault.jpg",
-     "duration": 191,
-     "genres": []
-    },
-    {
-     "rank": 29,
-     "videoId": "E4s8Gy1TpAw",
-     "title": "How Did We End Up Apart",
-     "artist": "Cha ga eul",
-     "thumbnail": "https://i.ytimg.com/vi/E4s8Gy1TpAw/mqdefault.jpg",
-     "duration": 240,
+     "rank": 26,
+     "videoId": "roPmnx9Pglw",
+     "title": "화",
+     "artist": "Panda Gomm",
+     "thumbnail": "https://i.ytimg.com/vi/roPmnx9Pglw/mqdefault.jpg",
+     "duration": 185,
      "genres": [
-      "팝"
+      "힙합"
      ]
     },
     {
-     "rank": 30,
+     "rank": 27,
+     "videoId": "5Gs_NcF83_E",
+     "title": "여전히 아름다운지",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/5Gs_NcF83_E/mqdefault.jpg",
+     "duration": 265,
+     "genres": []
+    },
+    {
+     "rank": 28,
      "videoId": "OlprURqnZw8",
      "title": "[MV] ABM - '好きな隙間' (My Lovely Nook) feat. 音街ウナ",
      "artist": "AnythingBecomeMoe",
      "thumbnail": "https://i.ytimg.com/vi/OlprURqnZw8/mqdefault.jpg",
      "duration": 172,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 29,
+     "videoId": "vAIHDmgnsXY",
+     "title": "DEPENDS",
+     "artist": "XG",
+     "thumbnail": "https://i.ytimg.com/vi/vAIHDmgnsXY/mqdefault.jpg",
+     "duration": 186,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 30,
+     "videoId": "A12plHIaXMk",
+     "title": "Every Fleeting Moment",
+     "artist": "Jeoung iun",
+     "thumbnail": "https://i.ytimg.com/vi/A12plHIaXMk/mqdefault.jpg",
+     "duration": 208,
      "genres": []
     }
    ]
@@ -455,11 +461,11 @@
     },
     {
      "rank": 11,
-     "videoId": "3FgwuUOpPu4",
-     "title": "I Played Beethoven's Pathetique Sonata (3rd Movement) at a Street Piano 🎹",
-     "artist": "YUKI PIANO",
-     "thumbnail": "https://i.ytimg.com/vi/3FgwuUOpPu4/mqdefault.jpg",
-     "duration": 323,
+     "videoId": "vGdA6CILY2M",
+     "title": "Ivan Bessonov (Encore) – Frédéric Chopin: Fantaisie-Impromptu in C-sharp Minor, Op. 66",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/vGdA6CILY2M/mqdefault.jpg",
+     "duration": 364,
      "genres": [
       "클래식"
      ]
@@ -477,6 +483,17 @@
     },
     {
      "rank": 13,
+     "videoId": "mQ0l3_vFzr4",
+     "title": "Jawad Zemmouri & Soukaina Zemmouria - Bach Mwalfa | جواد الزموري & سكينة الزمورية",
+     "artist": "studio zemmour",
+     "thumbnail": "https://i.ytimg.com/vi/mQ0l3_vFzr4/mqdefault.jpg",
+     "duration": 414,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 14,
      "videoId": "jLTUVhH36Lo",
      "title": "Franz Schubert - Impromptu No. 3, Op. 90",
      "artist": "Dalia Lazar",
@@ -487,51 +504,7 @@
      ]
     },
     {
-     "rank": 14,
-     "videoId": "vGdA6CILY2M",
-     "title": "Ivan Bessonov (Encore) – Frédéric Chopin: Fantaisie-Impromptu in C-sharp Minor, Op. 66",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/vGdA6CILY2M/mqdefault.jpg",
-     "duration": 364,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
      "rank": 15,
-     "videoId": "IMFZVI29utg",
-     "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
-     "artist": "클래식타벅스",
-     "thumbnail": "https://i.ytimg.com/vi/IMFZVI29utg/mqdefault.jpg",
-     "duration": 705,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "QsMfa0R1i1w",
-     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
-     "artist": "sergeikvitkoVEVO",
-     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
-     "duration": 573,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 17,
-     "videoId": "X2MDxahhXNQ",
-     "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
-     "artist": "Ravlis",
-     "thumbnail": "https://i.ytimg.com/vi/X2MDxahhXNQ/mqdefault.jpg",
-     "duration": 354,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 18,
      "videoId": "1yIxlcC_7sc",
      "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
      "artist": "88Keys to Cure",
@@ -542,7 +515,18 @@
      ]
     },
     {
-     "rank": 19,
+     "rank": 16,
+     "videoId": "gIUXlln6wz8",
+     "title": "バッハ：パルティータ第2番シンフォニア / Bach Partita No.2 Sinfonia",
+     "artist": "りっちゃんの音楽channel",
+     "thumbnail": "https://i.ytimg.com/vi/gIUXlln6wz8/mqdefault.jpg",
+     "duration": 296,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 17,
      "videoId": "FAxEGo-dFeA",
      "title": "Víkingur Ólafsson - J.S. Bach: Erbarm dich mein, o Herre Gott, BWV 721 (Performed on Piano)",
      "artist": "Deutsche Grammophon - DG",
@@ -553,12 +537,34 @@
      ]
     },
     {
+     "rank": 18,
+     "videoId": "X2MDxahhXNQ",
+     "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
+     "artist": "Ravlis",
+     "thumbnail": "https://i.ytimg.com/vi/X2MDxahhXNQ/mqdefault.jpg",
+     "duration": 354,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 19,
+     "videoId": "IMFZVI29utg",
+     "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
+     "artist": "클래식타벅스",
+     "thumbnail": "https://i.ytimg.com/vi/IMFZVI29utg/mqdefault.jpg",
+     "duration": 705,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 20,
-     "videoId": "gIUXlln6wz8",
-     "title": "バッハ：パルティータ第2番シンフォニア / Bach Partita No.2 Sinfonia",
-     "artist": "りっちゃんの音楽channel",
-     "thumbnail": "https://i.ytimg.com/vi/gIUXlln6wz8/mqdefault.jpg",
-     "duration": 296,
+     "videoId": "QsMfa0R1i1w",
+     "title": "Sergei Kvitko - Mahler - Adagietto from Symphony No. 5 (Arr. for Piano by Sergei Kvitko)",
+     "artist": "sergeikvitkoVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/QsMfa0R1i1w/mqdefault.jpg",
+     "duration": 573,
      "genres": [
       "클래식"
      ]
@@ -576,11 +582,11 @@
     },
     {
      "rank": 22,
-     "videoId": "cspDGpuGIzI",
-     "title": "Ivan Bessonov | J. S. Bach: Prelude and Fugue No. 4 in C-sharp Minor, BWV 873 | WTC II",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/cspDGpuGIzI/mqdefault.jpg",
-     "duration": 460,
+     "videoId": "vdBx68Zgx1w",
+     "title": "Vivaldi: Violin Concerto in G minor, RV 330: I. Allegro non molto | Adrian Chandler & La Serenissima",
+     "artist": "La Serenissima",
+     "thumbnail": "https://i.ytimg.com/vi/vdBx68Zgx1w/mqdefault.jpg",
+     "duration": 246,
      "genres": [
       "클래식"
      ]
@@ -609,11 +615,11 @@
     },
     {
      "rank": 25,
-     "videoId": "vdBx68Zgx1w",
-     "title": "Vivaldi: Violin Concerto in G minor, RV 330: I. Allegro non molto | Adrian Chandler & La Serenissima",
-     "artist": "La Serenissima",
-     "thumbnail": "https://i.ytimg.com/vi/vdBx68Zgx1w/mqdefault.jpg",
-     "duration": 246,
+     "videoId": "6iR1u7pYbeU",
+     "title": "Seong-Jin Cho playing Tchaikovsky’s “October” as his encore with the Royal Concertgebouw Orchestra",
+     "artist": "Concertgebouworkest",
+     "thumbnail": "https://i.ytimg.com/vi/6iR1u7pYbeU/mqdefault.jpg",
+     "duration": 303,
      "genres": [
       "클래식"
      ]
@@ -664,17 +670,17 @@
     },
     {
      "rank": 30,
-     "videoId": "EYcfq8uju68",
-     "title": "Mozart era un COPIONE!",
-     "artist": "Francesco Di Fortunato",
-     "thumbnail": "https://i.ytimg.com/vi/EYcfq8uju68/mqdefault.jpg",
-     "duration": 479,
+     "videoId": "wAeAq9BUPGY",
+     "title": "Schubert–Liszt – Ave Maria | Rachel Naomi Kudo, Piano",
+     "artist": "Rachel Naomi Kudo",
+     "thumbnail": "https://i.ytimg.com/vi/wAeAq9BUPGY/mqdefault.jpg",
+     "duration": 382,
      "genres": [
       "클래식"
      ]
     }
    ],
-   "refreshed": "2026-11-10"
+   "refreshed": "2026-11-11"
   },
   {
    "id": "oldies",
