@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:25+09:00",
+ "updated": "2026-11-15T09:59+09:00",
  "charts": [
   {
    "id": "kr",
@@ -19,22 +19,22 @@
     },
     {
      "rank": 2,
-     "videoId": "nrBsmCzbE0U",
-     "title": "Inside Out",
-     "artist": "RESCENE",
-     "thumbnail": "https://i.ytimg.com/vi/nrBsmCzbE0U/mqdefault.jpg",
-     "duration": 211,
+     "videoId": "v_71o1VU28o",
+     "title": "Crush (크러쉬) - 삐그덕 Live with 조이 (JOY)",
+     "artist": "Crush",
+     "thumbnail": "https://i.ytimg.com/vi/v_71o1VU28o/mqdefault.jpg",
+     "duration": 185,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 3,
-     "videoId": "v_71o1VU28o",
-     "title": "Crush (크러쉬) - 삐그덕 Live with 조이 (JOY)",
-     "artist": "Crush",
-     "thumbnail": "https://i.ytimg.com/vi/v_71o1VU28o/mqdefault.jpg",
-     "duration": 185,
+     "videoId": "nrBsmCzbE0U",
+     "title": "Inside Out",
+     "artist": "RESCENE",
+     "thumbnail": "https://i.ytimg.com/vi/nrBsmCzbE0U/mqdefault.jpg",
+     "duration": 211,
      "genres": [
       "팝"
      ]
@@ -107,6 +107,17 @@
     },
     {
      "rank": 10,
+     "videoId": "FVnDxtfJrIU",
+     "title": "saudade",
+     "artist": "LUCY",
+     "thumbnail": "https://i.ytimg.com/vi/FVnDxtfJrIU/mqdefault.jpg",
+     "duration": 199,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 11,
      "videoId": "Xm2c0L-Xgdg",
      "title": "Dancing in the Dark",
      "artist": "A2O",
@@ -118,7 +129,19 @@
      ]
     },
     {
-     "rank": 11,
+     "rank": 12,
+     "videoId": "m8fkHYTAFSw",
+     "title": "Lovesick",
+     "artist": "CHAERYEONG (ITZY)",
+     "thumbnail": "https://i.ytimg.com/vi/m8fkHYTAFSw/mqdefault.jpg",
+     "duration": 184,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 13,
      "videoId": "Ij3t8d5-bvM",
      "title": "Sleepless Night(2026)",
      "artist": "iHwak",
@@ -129,18 +152,7 @@
      ]
     },
     {
-     "rank": 12,
-     "videoId": "FVnDxtfJrIU",
-     "title": "saudade",
-     "artist": "LUCY",
-     "thumbnail": "https://i.ytimg.com/vi/FVnDxtfJrIU/mqdefault.jpg",
-     "duration": 199,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 13,
+     "rank": 14,
      "videoId": "RgZvGEeXI10",
      "title": "MOONWALK",
      "artist": "Panda Gomm",
@@ -153,52 +165,7 @@
      ]
     },
     {
-     "rank": 14,
-     "videoId": "y-klhPVFblg",
-     "title": "ISEGYE IDOL (이세계아이돌) ‘REBELS’ Official MV",
-     "artist": "ISEGYE IDOL",
-     "thumbnail": "https://i.ytimg.com/vi/y-klhPVFblg/mqdefault.jpg",
-     "duration": 173,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 15,
-     "videoId": "m8fkHYTAFSw",
-     "title": "Lovesick",
-     "artist": "CHAERYEONG (ITZY)",
-     "thumbnail": "https://i.ytimg.com/vi/m8fkHYTAFSw/mqdefault.jpg",
-     "duration": 184,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "NjGPGcZpmtc",
-     "title": "sinho",
-     "artist": "Woo Yerin",
-     "thumbnail": "https://i.ytimg.com/vi/NjGPGcZpmtc/mqdefault.jpg",
-     "duration": 173,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 17,
-     "videoId": "MW6UEg1sTCw",
-     "title": "평행선",
-     "artist": "veanii",
-     "thumbnail": "https://i.ytimg.com/vi/MW6UEg1sTCw/mqdefault.jpg",
-     "duration": 184,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 18,
      "videoId": "ZBeU62LO5lo",
      "title": "AGAIN!",
      "artist": "LUCY",
@@ -210,7 +177,64 @@
      ]
     },
     {
+     "rank": 16,
+     "videoId": "y-klhPVFblg",
+     "title": "ISEGYE IDOL (이세계아이돌) ‘REBELS’ Official MV",
+     "artist": "ISEGYE IDOL",
+     "thumbnail": "https://i.ytimg.com/vi/y-klhPVFblg/mqdefault.jpg",
+     "duration": 173,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 17,
+     "videoId": "NjGPGcZpmtc",
+     "title": "sinho",
+     "artist": "Woo Yerin",
+     "thumbnail": "https://i.ytimg.com/vi/NjGPGcZpmtc/mqdefault.jpg",
+     "duration": 173,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 18,
+     "videoId": "MW6UEg1sTCw",
+     "title": "평행선",
+     "artist": "veanii",
+     "thumbnail": "https://i.ytimg.com/vi/MW6UEg1sTCw/mqdefault.jpg",
+     "duration": 184,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 19,
+     "videoId": "RMSb3uV8N3w",
+     "title": "Can We Love Again?",
+     "artist": "havy",
+     "thumbnail": "https://i.ytimg.com/vi/RMSb3uV8N3w/mqdefault.jpg",
+     "duration": 209,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 20,
+     "videoId": "SGovymtCzvA",
+     "title": "ATEEZ(에이티즈) - 'UP' Official MV",
+     "artist": "KQ ENTERTAINMENT",
+     "thumbnail": "https://i.ytimg.com/vi/SGovymtCzvA/mqdefault.jpg",
+     "duration": 243,
+     "genres": [
+      "팝",
+      "힙합",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 21,
      "videoId": "vA5S5FsVz-c",
      "title": "Question Mark",
      "artist": "HANRORO",
@@ -222,52 +246,7 @@
      ]
     },
     {
-     "rank": 20,
-     "videoId": "KccAOdiy4SU",
-     "title": "Call My Name",
-     "artist": "TWS",
-     "thumbnail": "https://i.ytimg.com/vi/KccAOdiy4SU/mqdefault.jpg",
-     "duration": 158,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 21,
-     "videoId": "BerIP_Vq-T4",
-     "title": "The Road To Me",
-     "artist": "KyoungSeo",
-     "thumbnail": "https://i.ytimg.com/vi/BerIP_Vq-T4/mqdefault.jpg",
-     "duration": 243,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 22,
-     "videoId": "rlYOsUfpi3M",
-     "title": "NEON",
-     "artist": "A2O",
-     "thumbnail": "https://i.ytimg.com/vi/rlYOsUfpi3M/mqdefault.jpg",
-     "duration": 208,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 23,
-     "videoId": "DhJxlbxLh00",
-     "title": "미워도 사랑하니까",
-     "artist": "Release",
-     "thumbnail": "https://i.ytimg.com/vi/DhJxlbxLh00/mqdefault.jpg",
-     "duration": 284,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 24,
      "videoId": "lYyqyoj26HE",
      "title": "Your my first love",
      "artist": "Park Yeon",
@@ -278,30 +257,63 @@
      ]
     },
     {
+     "rank": 23,
+     "videoId": "dE_Ro8Sac2M",
+     "title": "ENHYPEN (엔하이픈) 'I Want You' Official MV",
+     "artist": "HYBE LABELS",
+     "thumbnail": "https://i.ytimg.com/vi/dE_Ro8Sac2M/mqdefault.jpg",
+     "duration": 221,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 24,
+     "videoId": "BerIP_Vq-T4",
+     "title": "The Road To Me",
+     "artist": "KyoungSeo",
+     "thumbnail": "https://i.ytimg.com/vi/BerIP_Vq-T4/mqdefault.jpg",
+     "duration": 243,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 25,
-     "videoId": "RMSb3uV8N3w",
-     "title": "Can We Love Again?",
-     "artist": "havy",
-     "thumbnail": "https://i.ytimg.com/vi/RMSb3uV8N3w/mqdefault.jpg",
-     "duration": 209,
+     "videoId": "DhJxlbxLh00",
+     "title": "미워도 사랑하니까",
+     "artist": "Release",
+     "thumbnail": "https://i.ytimg.com/vi/DhJxlbxLh00/mqdefault.jpg",
+     "duration": 284,
      "genres": [
       "팝"
      ]
     },
     {
      "rank": 26,
-     "videoId": "9soFGyRwvcM",
-     "title": "triple",
-     "artist": "GIRIBOY",
-     "thumbnail": "https://i.ytimg.com/vi/9soFGyRwvcM/mqdefault.jpg",
-     "duration": 164,
+     "videoId": "KccAOdiy4SU",
+     "title": "Call My Name",
+     "artist": "TWS",
+     "thumbnail": "https://i.ytimg.com/vi/KccAOdiy4SU/mqdefault.jpg",
+     "duration": 158,
      "genres": [
-      "힙합",
-      "일렉트로닉"
+      "팝"
      ]
     },
     {
      "rank": 27,
+     "videoId": "G_ej20-QWng",
+     "title": "A2O LITE 'NEON' INFINITE Music Video",
+     "artist": "A2O WORLD",
+     "thumbnail": "https://i.ytimg.com/vi/G_ej20-QWng/mqdefault.jpg",
+     "duration": 233,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 28,
      "videoId": "k26hrbRooDE",
      "title": "Butterfly’s Dream(2026)",
      "artist": "Jin Minho",
@@ -312,18 +324,18 @@
      ]
     },
     {
-     "rank": 28,
-     "videoId": "t23bUf0YU4k",
-     "title": "반창꼬",
-     "artist": "DK",
-     "thumbnail": "https://i.ytimg.com/vi/t23bUf0YU4k/mqdefault.jpg",
-     "duration": 247,
+     "rank": 29,
+     "videoId": "0hfnXfz1AAY",
+     "title": "I’ll Be Here",
+     "artist": "kyou hyun",
+     "thumbnail": "https://i.ytimg.com/vi/0hfnXfz1AAY/mqdefault.jpg",
+     "duration": 259,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 29,
+     "rank": 30,
      "videoId": "Z3N-8wrO860",
      "title": "목",
      "artist": "Panda Gomm",
@@ -331,17 +343,6 @@
      "duration": 151,
      "genres": [
       "힙합"
-     ]
-    },
-    {
-     "rank": 30,
-     "videoId": "N4Lx-xy8mSI",
-     "title": "Dream After Dream",
-     "artist": "NCT DREAM",
-     "thumbnail": "https://i.ytimg.com/vi/N4Lx-xy8mSI/mqdefault.jpg",
-     "duration": 204,
-     "genres": [
-      "팝"
      ]
     }
    ]
@@ -452,17 +453,6 @@
     },
     {
      "rank": 10,
-     "videoId": "mQ0l3_vFzr4",
-     "title": "Jawad Zemmouri & Soukaina Zemmouria - Bach Mwalfa | جواد الزموري & سكينة الزمورية",
-     "artist": "studio zemmour",
-     "thumbnail": "https://i.ytimg.com/vi/mQ0l3_vFzr4/mqdefault.jpg",
-     "duration": 414,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 11,
      "videoId": "1yIxlcC_7sc",
      "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
      "artist": "88Keys to Cure",
@@ -473,23 +463,34 @@
      ]
     },
     {
+     "rank": 11,
+     "videoId": "mQ0l3_vFzr4",
+     "title": "Jawad Zemmouri & Soukaina Zemmouria - Bach Mwalfa | جواد الزموري & سكينة الزمورية",
+     "artist": "studio zemmour",
+     "thumbnail": "https://i.ytimg.com/vi/mQ0l3_vFzr4/mqdefault.jpg",
+     "duration": 414,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
      "rank": 12,
-     "videoId": "gIUXlln6wz8",
-     "title": "バッハ：パルティータ第2番シンフォニア / Bach Partita No.2 Sinfonia",
-     "artist": "りっちゃんの音楽channel",
-     "thumbnail": "https://i.ytimg.com/vi/gIUXlln6wz8/mqdefault.jpg",
-     "duration": 296,
+     "videoId": "FAxEGo-dFeA",
+     "title": "Víkingur Ólafsson - J.S. Bach: Erbarm dich mein, o Herre Gott, BWV 721 (Performed on Piano)",
+     "artist": "Deutsche Grammophon - DG",
+     "thumbnail": "https://i.ytimg.com/vi/FAxEGo-dFeA/mqdefault.jpg",
+     "duration": 280,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 13,
-     "videoId": "FAxEGo-dFeA",
-     "title": "Víkingur Ólafsson - J.S. Bach: Erbarm dich mein, o Herre Gott, BWV 721 (Performed on Piano)",
-     "artist": "Deutsche Grammophon - DG",
-     "thumbnail": "https://i.ytimg.com/vi/FAxEGo-dFeA/mqdefault.jpg",
-     "duration": 280,
+     "videoId": "gIUXlln6wz8",
+     "title": "バッハ：パルティータ第2番シンフォニア / Bach Partita No.2 Sinfonia",
+     "artist": "りっちゃんの音楽channel",
+     "thumbnail": "https://i.ytimg.com/vi/gIUXlln6wz8/mqdefault.jpg",
+     "duration": 296,
      "genres": [
       "클래식"
      ]
@@ -507,11 +508,11 @@
     },
     {
      "rank": 15,
-     "videoId": "0rIwX0x1QFg",
-     "title": "Beethoven: Piano Concerto No. 4 - Andante con moto (excerpt)/ Bernstein • Arrau • BRSO",
-     "artist": "Leonard Bernstein",
-     "thumbnail": "https://i.ytimg.com/vi/0rIwX0x1QFg/mqdefault.jpg",
-     "duration": 287,
+     "videoId": "IMFZVI29utg",
+     "title": "베토벤의 가장 아름다운 피아노 선율 [피아노 협주곡 5번 '황제']",
+     "artist": "클래식타벅스",
+     "thumbnail": "https://i.ytimg.com/vi/IMFZVI29utg/mqdefault.jpg",
+     "duration": 705,
      "genres": [
       "클래식"
      ]
@@ -540,6 +541,17 @@
     },
     {
      "rank": 18,
+     "videoId": "tNPFayzw6oc",
+     "title": "Moonlight (After Piano Sonata No. 14, Op. 27 No. 2) (Official Video)",
+     "artist": "LouisPhilippsonVEVO",
+     "thumbnail": "https://i.ytimg.com/vi/tNPFayzw6oc/mqdefault.jpg",
+     "duration": 259,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 19,
      "videoId": "JpV62brmbV0",
      "title": "Hélène Grimaud, Claudio Abbado - Rachmaninoff: Piano Concerto No. 2: I. Moderato (Excerpt - Opening)",
      "artist": "Deutsche Grammophon - DG",
@@ -550,7 +562,29 @@
      ]
     },
     {
-     "rank": 19,
+     "rank": 20,
+     "videoId": "x3ngAGfju-8",
+     "title": "Vera Danilina plays \"Ich Ruf Zu Dir, Herr Jesu Christ\" by J. S. Bach on a Siccas Luthiers Guitar",
+     "artist": "SiccasGuitars",
+     "thumbnail": "https://i.ytimg.com/vi/x3ngAGfju-8/mqdefault.jpg",
+     "duration": 243,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 21,
+     "videoId": "W-3STM6HOgI",
+     "title": "Gadi Aayi Hai  Leno Lean Miyan /Bach Gaye Thay Hasan Hussain Miyan.//Sufe Kalam 21 October 2026",
+     "artist": "Khan Studio Song",
+     "thumbnail": "https://i.ytimg.com/vi/W-3STM6HOgI/mqdefault.jpg",
+     "duration": 315,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 22,
      "videoId": "Iq7IAN87jS8",
      "title": "Ivan Bessonov — J.S. Bach: Partita No. 6 in E Minor, BWV 830 — I. Toccata",
      "artist": "Ivan Bessonov",
@@ -561,7 +595,7 @@
      ]
     },
     {
-     "rank": 20,
+     "rank": 23,
      "videoId": "TPTyotHTP10",
      "title": "모차르트를 넘어 ‘살아있는 생명’ 그 자체가 된 음악 | 임윤찬 베를린 피아노 독주회 평론",
      "artist": "크레이지 클래식 김기자",
@@ -572,7 +606,7 @@
      ]
     },
     {
-     "rank": 21,
+     "rank": 24,
      "videoId": "NL7v1CSKWYE",
      "title": "A Moment with Rachmaninoff | Moment Musical No. 6",
      "artist": "Traum Piano",
@@ -583,7 +617,7 @@
      ]
     },
     {
-     "rank": 22,
+     "rank": 25,
      "videoId": "jF3wCNZRgYw",
      "title": "Bach: Violin Concerto No. 2 in E major, BWV 1042 - Alexandra Conunova",
      "artist": "Kristiansand Symphony Orchestra",
@@ -594,7 +628,7 @@
      ]
     },
     {
-     "rank": 23,
+     "rank": 26,
      "videoId": "SaMnLFPTJjo",
      "title": "Ivan Bessonov — Mozart: Piano Sonata No. 12 in F Major, K. 332 — I. Allegro",
      "artist": "Ivan Bessonov",
@@ -605,18 +639,7 @@
      ]
     },
     {
-     "rank": 24,
-     "videoId": "wAeAq9BUPGY",
-     "title": "Schubert–Liszt – Ave Maria | Rachel Naomi Kudo, Piano",
-     "artist": "Rachel Naomi Kudo",
-     "thumbnail": "https://i.ytimg.com/vi/wAeAq9BUPGY/mqdefault.jpg",
-     "duration": 382,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 25,
+     "rank": 27,
      "videoId": "EYcfq8uju68",
      "title": "Mozart era un COPIONE!",
      "artist": "Francesco Di Fortunato",
@@ -627,7 +650,18 @@
      ]
     },
     {
-     "rank": 26,
+     "rank": 28,
+     "videoId": "wAeAq9BUPGY",
+     "title": "Schubert–Liszt – Ave Maria | Rachel Naomi Kudo, Piano",
+     "artist": "Rachel Naomi Kudo",
+     "thumbnail": "https://i.ytimg.com/vi/wAeAq9BUPGY/mqdefault.jpg",
+     "duration": 382,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 29,
      "videoId": "ut1qZjilIzo",
      "title": "F. Sor's \"Variations on a Theme by Mozart\" played by Keith Rodriguez on a 2010 Manuel Contreras II",
      "artist": "Guitar Salon International",
@@ -638,51 +672,18 @@
      ]
     },
     {
-     "rank": 27,
-     "videoId": "_kcUfBodsRQ",
-     "title": "Jess Gillam - Allegro Assai, CPE Bach",
-     "artist": "Jess Gillam",
-     "thumbnail": "https://i.ytimg.com/vi/_kcUfBodsRQ/mqdefault.jpg",
-     "duration": 446,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 28,
-     "videoId": "qGo09bnDpHg",
-     "title": "A Thousand Blades of Snow | Liszt’s Last Transcendental Étude No.12  \"Chasse-neige\" (Snowstorm)",
-     "artist": "Traum Piano",
-     "thumbnail": "https://i.ytimg.com/vi/qGo09bnDpHg/mqdefault.jpg",
-     "duration": 362,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "VKGbosvo2w8",
-     "title": "Chopin – Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 | Tzvi Erez",
-     "artist": "TzviErez",
-     "thumbnail": "https://i.ytimg.com/vi/VKGbosvo2w8/mqdefault.jpg",
-     "duration": 278,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
      "rank": 30,
-     "videoId": "mF-dkry_q5E",
-     "title": "Fusion of Schubert – Gretchen am Spinnrade and Ilayaraja - Vaanuyandha Solayile",
-     "artist": "vimalpercy",
-     "thumbnail": "https://i.ytimg.com/vi/mF-dkry_q5E/mqdefault.jpg",
-     "duration": 338,
+     "videoId": "r9snmnccIiM",
+     "title": "J. S. Bach: 1. Partita h-Moll BWV 1002 (Sarabande) ∙ Leonidas Kavakos",
+     "artist": "hr-Sinfonieorchester – Frankfurt Radio Symphony",
+     "thumbnail": "https://i.ytimg.com/vi/r9snmnccIiM/mqdefault.jpg",
+     "duration": 484,
      "genres": [
       "클래식"
      ]
     }
    ],
-   "refreshed": "2026-11-14"
+   "refreshed": "2026-11-15"
   },
   {
    "id": "oldies",
