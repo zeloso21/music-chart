@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:51+09:00",
+ "updated": "2026-11-19T11:30+09:00",
  "charts": [
   {
    "id": "kr",
@@ -73,53 +73,17 @@
     },
     {
      "rank": 7,
-     "videoId": "FVnDxtfJrIU",
-     "title": "saudade",
-     "artist": "LUCY",
-     "thumbnail": "https://i.ytimg.com/vi/FVnDxtfJrIU/mqdefault.jpg",
-     "duration": 199,
-     "genres": [
-      "팝",
-      "록"
-     ]
-    },
-    {
-     "rank": 8,
-     "videoId": "qsqvJpOgrWw",
-     "title": "You’re Under Arrest",
-     "artist": "ILLIT",
-     "thumbnail": "https://i.ytimg.com/vi/qsqvJpOgrWw/mqdefault.jpg",
-     "duration": 182,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 9,
-     "videoId": "MWXbns4FV0s",
-     "title": "Boogie Woogie",
-     "artist": "NCT DREAM",
-     "thumbnail": "https://i.ytimg.com/vi/MWXbns4FV0s/mqdefault.jpg",
-     "duration": 193,
+     "videoId": "6POlUfjBIB4",
+     "title": "Sakuranbo",
+     "artist": "YENA",
+     "thumbnail": "https://i.ytimg.com/vi/6POlUfjBIB4/mqdefault.jpg",
+     "duration": 234,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 10,
-     "videoId": "m8fkHYTAFSw",
-     "title": "Lovesick",
-     "artist": "CHAERYEONG (ITZY)",
-     "thumbnail": "https://i.ytimg.com/vi/m8fkHYTAFSw/mqdefault.jpg",
-     "duration": 184,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 11,
+     "rank": 8,
      "videoId": "5JkTq9rOYI8",
      "title": "Angel Bite",
      "artist": "TOMORROW BY TOGETHER",
@@ -131,14 +95,49 @@
      ]
     },
     {
-     "rank": 12,
-     "videoId": "roPmnx9Pglw",
-     "title": "화",
-     "artist": "Panda Gomm",
-     "thumbnail": "https://i.ytimg.com/vi/roPmnx9Pglw/mqdefault.jpg",
-     "duration": 185,
+     "rank": 9,
+     "videoId": "FVnDxtfJrIU",
+     "title": "saudade",
+     "artist": "LUCY",
+     "thumbnail": "https://i.ytimg.com/vi/FVnDxtfJrIU/mqdefault.jpg",
+     "duration": 199,
      "genres": [
-      "힙합"
+      "팝",
+      "록"
+     ]
+    },
+    {
+     "rank": 10,
+     "videoId": "E4iZhAJMf-A",
+     "title": "Turning to You",
+     "artist": "Jeong Dong Won",
+     "thumbnail": "https://i.ytimg.com/vi/E4iZhAJMf-A/mqdefault.jpg",
+     "duration": 228,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 11,
+     "videoId": "qsqvJpOgrWw",
+     "title": "You’re Under Arrest",
+     "artist": "ILLIT",
+     "thumbnail": "https://i.ytimg.com/vi/qsqvJpOgrWw/mqdefault.jpg",
+     "duration": 182,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 12,
+     "videoId": "MWXbns4FV0s",
+     "title": "Boogie Woogie",
+     "artist": "NCT DREAM",
+     "thumbnail": "https://i.ytimg.com/vi/MWXbns4FV0s/mqdefault.jpg",
+     "duration": 193,
+     "genres": [
+      "팝"
      ]
     },
     {
@@ -155,17 +154,29 @@
     },
     {
      "rank": 14,
-     "videoId": "E4iZhAJMf-A",
-     "title": "Turning to You",
-     "artist": "Jeong Dong Won",
-     "thumbnail": "https://i.ytimg.com/vi/E4iZhAJMf-A/mqdefault.jpg",
-     "duration": 228,
+     "videoId": "m8fkHYTAFSw",
+     "title": "Lovesick",
+     "artist": "CHAERYEONG (ITZY)",
+     "thumbnail": "https://i.ytimg.com/vi/m8fkHYTAFSw/mqdefault.jpg",
+     "duration": 184,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 15,
+     "videoId": "sZ6m0mFDQg8",
+     "title": "좋아하니까",
+     "artist": "dahee",
+     "thumbnail": "https://i.ytimg.com/vi/sZ6m0mFDQg8/mqdefault.jpg",
+     "duration": 178,
      "genres": [
       "팝"
      ]
     },
     {
-     "rank": 15,
+     "rank": 16,
      "videoId": "ZBeU62LO5lo",
      "title": "AGAIN!",
      "artist": "LUCY",
@@ -178,7 +189,7 @@
      ]
     },
     {
-     "rank": 16,
+     "rank": 17,
      "videoId": "Xm2c0L-Xgdg",
      "title": "Dancing in the Dark",
      "artist": "A2O",
@@ -190,63 +201,29 @@
      ]
     },
     {
-     "rank": 17,
-     "videoId": "jFPKynsdKDc",
-     "title": "Ripple Effect2 Remix",
-     "artist": "Swings",
-     "thumbnail": "https://i.ytimg.com/vi/jFPKynsdKDc/mqdefault.jpg",
-     "duration": 272,
+     "rank": 18,
+     "videoId": "LOLXD85SThc",
+     "title": "Do you know (2026 Version)",
+     "artist": "SOMEDAY",
+     "thumbnail": "https://i.ytimg.com/vi/LOLXD85SThc/mqdefault.jpg",
+     "duration": 245,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 19,
+     "videoId": "roPmnx9Pglw",
+     "title": "화",
+     "artist": "Panda Gomm",
+     "thumbnail": "https://i.ytimg.com/vi/roPmnx9Pglw/mqdefault.jpg",
+     "duration": 185,
      "genres": [
       "힙합"
      ]
     },
     {
-     "rank": 18,
-     "videoId": "Uw6LRf2Bgu4",
-     "title": "REBELS",
-     "artist": "ISEGYE IDOL",
-     "thumbnail": "https://i.ytimg.com/vi/Uw6LRf2Bgu4/mqdefault.jpg",
-     "duration": 172,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 19,
-     "videoId": "dE_Ro8Sac2M",
-     "title": "ENHYPEN (엔하이픈) 'I Want You' Official MV",
-     "artist": "HYBE LABELS",
-     "thumbnail": "https://i.ytimg.com/vi/dE_Ro8Sac2M/mqdefault.jpg",
-     "duration": 221,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
      "rank": 20,
-     "videoId": "PlhFFgHmlbs",
-     "title": "정승환 '무제(無題) (Untitled, 2014)' Cover (원곡 : G-DRAGON) | SeungTUDIO",
-     "artist": "정승환 Jung Seung Hwan",
-     "thumbnail": "https://i.ytimg.com/vi/PlhFFgHmlbs/mqdefault.jpg",
-     "duration": 238,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 21,
-     "videoId": "RMSb3uV8N3w",
-     "title": "Can We Love Again?",
-     "artist": "havy",
-     "thumbnail": "https://i.ytimg.com/vi/RMSb3uV8N3w/mqdefault.jpg",
-     "duration": 209,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 22,
      "videoId": "gledHxEf--E",
      "title": "Storm is...",
      "artist": "TOMORROW BY TOGETHER",
@@ -258,7 +235,97 @@
      ]
     },
     {
+     "rank": 21,
+     "videoId": "jFPKynsdKDc",
+     "title": "Ripple Effect2 Remix",
+     "artist": "Swings",
+     "thumbnail": "https://i.ytimg.com/vi/jFPKynsdKDc/mqdefault.jpg",
+     "duration": 272,
+     "genres": [
+      "힙합"
+     ]
+    },
+    {
+     "rank": 22,
+     "videoId": "ulSPnhAilz8",
+     "title": "I′ve Finally Let You Go",
+     "artist": "Choi Chunghyeon",
+     "thumbnail": "https://i.ytimg.com/vi/ulSPnhAilz8/mqdefault.jpg",
+     "duration": 238,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
      "rank": 23,
+     "videoId": "PlhFFgHmlbs",
+     "title": "정승환 '무제(無題) (Untitled, 2014)' Cover (원곡 : G-DRAGON) | SeungTUDIO",
+     "artist": "정승환 Jung Seung Hwan",
+     "thumbnail": "https://i.ytimg.com/vi/PlhFFgHmlbs/mqdefault.jpg",
+     "duration": 238,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 24,
+     "videoId": "dE_Ro8Sac2M",
+     "title": "ENHYPEN (엔하이픈) 'I Want You' Official MV",
+     "artist": "HYBE LABELS",
+     "thumbnail": "https://i.ytimg.com/vi/dE_Ro8Sac2M/mqdefault.jpg",
+     "duration": 221,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 25,
+     "videoId": "Uw6LRf2Bgu4",
+     "title": "REBELS",
+     "artist": "ISEGYE IDOL",
+     "thumbnail": "https://i.ytimg.com/vi/Uw6LRf2Bgu4/mqdefault.jpg",
+     "duration": 172,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 26,
+     "videoId": "W8sPP1khub8",
+     "title": "Always Love You",
+     "artist": "RYU MIN HEE",
+     "thumbnail": "https://i.ytimg.com/vi/W8sPP1khub8/mqdefault.jpg",
+     "duration": 202,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 27,
+     "videoId": "jLeprQUimvU",
+     "title": "Hate It or Love It",
+     "artist": "TOMORROW BY TOGETHER",
+     "thumbnail": "https://i.ytimg.com/vi/jLeprQUimvU/mqdefault.jpg",
+     "duration": 165,
+     "genres": [
+      "팝",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "RMSb3uV8N3w",
+     "title": "Can We Love Again?",
+     "artist": "havy",
+     "thumbnail": "https://i.ytimg.com/vi/RMSb3uV8N3w/mqdefault.jpg",
+     "duration": 209,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 29,
      "videoId": "RgZvGEeXI10",
      "title": "MOONWALK",
      "artist": "Panda Gomm",
@@ -271,82 +338,16 @@
      ]
     },
     {
-     "rank": 24,
-     "videoId": "Ij3t8d5-bvM",
-     "title": "Sleepless Night(2026)",
-     "artist": "iHwak",
-     "thumbnail": "https://i.ytimg.com/vi/Ij3t8d5-bvM/mqdefault.jpg",
-     "duration": 189,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 25,
-     "videoId": "jLeprQUimvU",
-     "title": "Hate It or Love It",
-     "artist": "TOMORROW BY TOGETHER",
-     "thumbnail": "https://i.ytimg.com/vi/jLeprQUimvU/mqdefault.jpg",
-     "duration": 165,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "k26hrbRooDE",
-     "title": "Butterfly’s Dream(2026)",
-     "artist": "Jin Minho",
-     "thumbnail": "https://i.ytimg.com/vi/k26hrbRooDE/mqdefault.jpg",
-     "duration": 285,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 27,
-     "videoId": "G_ej20-QWng",
-     "title": "A2O LITE 'NEON' INFINITE Music Video",
-     "artist": "A2O WORLD",
-     "thumbnail": "https://i.ytimg.com/vi/G_ej20-QWng/mqdefault.jpg",
-     "duration": 233,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 28,
-     "videoId": "UypoqaWcUZ8",
-     "title": "ANEMIA",
-     "artist": "ATEEZ",
-     "thumbnail": "https://i.ytimg.com/vi/UypoqaWcUZ8/mqdefault.jpg",
+     "rank": 30,
+     "videoId": "1EsCgszzTb4",
+     "title": "래원 (Layone) '먼치킨 (Feat. 그냥노창, Jvcki Wai)' MV",
+     "artist": "래원",
+     "thumbnail": "https://i.ytimg.com/vi/1EsCgszzTb4/mqdefault.jpg",
      "duration": 177,
      "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "lYyqyoj26HE",
-     "title": "Your my first love",
-     "artist": "Park Yeon",
-     "thumbnail": "https://i.ytimg.com/vi/lYyqyoj26HE/mqdefault.jpg",
-     "duration": 231,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 30,
-     "videoId": "KyBj7Pza2-s",
-     "title": "SOLEMNIZE",
-     "artist": "hyeminsong",
-     "thumbnail": "https://i.ytimg.com/vi/KyBj7Pza2-s/mqdefault.jpg",
-     "duration": 225,
-     "genres": [
-      "힙합"
+      "팝",
+      "힙합",
+      "일렉트로닉"
      ]
     }
    ]
@@ -391,6 +392,17 @@
     },
     {
      "rank": 4,
+     "videoId": "vGdA6CILY2M",
+     "title": "Ivan Bessonov (Encore) – Frédéric Chopin: Fantaisie-Impromptu in C-sharp Minor, Op. 66",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/vGdA6CILY2M/mqdefault.jpg",
+     "duration": 364,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 5,
      "videoId": "oIHD7Yn5pMg",
      "title": "Zade Dirani - Ya Ana (Mozart's Symphony 40)/ Ya Reit btirdi /Zouroni  يا أنا / يا ريت بترضي  زوروني",
      "artist": "Zade Dirani",
@@ -401,23 +413,12 @@
      ]
     },
     {
-     "rank": 5,
+     "rank": 6,
      "videoId": "qArmT1Xs63s",
      "title": "Rayssa e Ravel - Eu Não Devo | Unindo Gerações | Clipe Oficial",
      "artist": "Rayssa e Ravel",
      "thumbnail": "https://i.ytimg.com/vi/qArmT1Xs63s/mqdefault.jpg",
      "duration": 365,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 6,
-     "videoId": "vGdA6CILY2M",
-     "title": "Ivan Bessonov (Encore) – Frédéric Chopin: Fantaisie-Impromptu in C-sharp Minor, Op. 66",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/vGdA6CILY2M/mqdefault.jpg",
-     "duration": 364,
      "genres": [
       "클래식"
      ]
@@ -490,6 +491,17 @@
     },
     {
      "rank": 13,
+     "videoId": "zEWzUS3GaxI",
+     "title": "Lucas Krupinski plays J. S. Bach – Partita No. 1 in B-flat major, BWV 825",
+     "artist": "Lucas Krupinski",
+     "thumbnail": "https://i.ytimg.com/vi/zEWzUS3GaxI/mqdefault.jpg",
+     "duration": 808,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 14,
      "videoId": "X2MDxahhXNQ",
      "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
      "artist": "Ravlis",
@@ -500,23 +512,12 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 15,
      "videoId": "pBCoEE-BAYE",
      "title": "Playing Bach Shouldn't Look This Easy",
      "artist": "GuitarCody",
      "thumbnail": "https://i.ytimg.com/vi/pBCoEE-BAYE/mqdefault.jpg",
      "duration": 590,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 15,
-     "videoId": "zEWzUS3GaxI",
-     "title": "Lucas Krupinski plays J. S. Bach – Partita No. 1 in B-flat major, BWV 825",
-     "artist": "Lucas Krupinski",
-     "thumbnail": "https://i.ytimg.com/vi/zEWzUS3GaxI/mqdefault.jpg",
-     "duration": 808,
      "genres": [
       "클래식"
      ]
@@ -545,11 +546,11 @@
     },
     {
      "rank": 18,
-     "videoId": "W-3STM6HOgI",
-     "title": "Gadi Aayi Hai  Leno Lean Miyan /Bach Gaye Thay Hasan Hussain Miyan.//Sufe Kalam 21 October 2026",
-     "artist": "Khan Studio Song",
-     "thumbnail": "https://i.ytimg.com/vi/W-3STM6HOgI/mqdefault.jpg",
-     "duration": 315,
+     "videoId": "ut1qZjilIzo",
+     "title": "F. Sor's \"Variations on a Theme by Mozart\" played by Keith Rodriguez on a 2010 Manuel Contreras II",
+     "artist": "Guitar Salon International",
+     "thumbnail": "https://i.ytimg.com/vi/ut1qZjilIzo/mqdefault.jpg",
+     "duration": 525,
      "genres": [
       "클래식"
      ]
@@ -567,17 +568,6 @@
     },
     {
      "rank": 20,
-     "videoId": "ut1qZjilIzo",
-     "title": "F. Sor's \"Variations on a Theme by Mozart\" played by Keith Rodriguez on a 2010 Manuel Contreras II",
-     "artist": "Guitar Salon International",
-     "thumbnail": "https://i.ytimg.com/vi/ut1qZjilIzo/mqdefault.jpg",
-     "duration": 525,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 21,
      "videoId": "TPTyotHTP10",
      "title": "모차르트를 넘어 ‘살아있는 생명’ 그 자체가 된 음악 | 임윤찬 베를린 피아노 독주회 평론",
      "artist": "크레이지 클래식 김기자",
@@ -588,7 +578,7 @@
      ]
     },
     {
-     "rank": 22,
+     "rank": 21,
      "videoId": "M5IBpiyRe5s",
      "title": "Ivan Bessonov (Young) | Frédéric Chopin – Ballade No. 1 in G Minor, Op. 23",
      "artist": "Ivan Bessonov",
@@ -599,7 +589,7 @@
      ]
     },
     {
-     "rank": 23,
+     "rank": 22,
      "videoId": "EYcfq8uju68",
      "title": "Mozart era un COPIONE!",
      "artist": "Francesco Di Fortunato",
@@ -610,12 +600,23 @@
      ]
     },
     {
-     "rank": 24,
+     "rank": 23,
      "videoId": "wAeAq9BUPGY",
      "title": "Schubert–Liszt – Ave Maria | Rachel Naomi Kudo, Piano",
      "artist": "Rachel Naomi Kudo",
      "thumbnail": "https://i.ytimg.com/vi/wAeAq9BUPGY/mqdefault.jpg",
      "duration": 382,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 24,
+     "videoId": "1HKQtS9uVcg",
+     "title": "Mozart: Piano Sonata No. 14 in C minor, K. 457 / Kristian Bezuidenhout, fortepiano",
+     "artist": "Hochrhein Musikfestival Productions",
+     "thumbnail": "https://i.ytimg.com/vi/1HKQtS9uVcg/mqdefault.jpg",
+     "duration": 1160,
      "genres": [
       "클래식"
      ]
@@ -633,22 +634,22 @@
     },
     {
      "rank": 26,
-     "videoId": "ZaBhNVHzDKw",
-     "title": "Ivan Bessonov – Franz Liszt: Piano Concerto No. 1 in E-flat Major, S.124",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/ZaBhNVHzDKw/mqdefault.jpg",
-     "duration": 1137,
+     "videoId": "C6niE6T_VdI",
+     "title": "Elisey Mysin in Paris: Saint-Saëns, Piano Concerto No. 2, III. Presto",
+     "artist": "Prelude to Fame",
+     "thumbnail": "https://i.ytimg.com/vi/C6niE6T_VdI/mqdefault.jpg",
+     "duration": 477,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 27,
-     "videoId": "C6niE6T_VdI",
-     "title": "Elisey Mysin in Paris: Saint-Saëns, Piano Concerto No. 2, III. Presto",
-     "artist": "Prelude to Fame",
-     "thumbnail": "https://i.ytimg.com/vi/C6niE6T_VdI/mqdefault.jpg",
-     "duration": 477,
+     "videoId": "ZaBhNVHzDKw",
+     "title": "Ivan Bessonov – Franz Liszt: Piano Concerto No. 1 in E-flat Major, S.124",
+     "artist": "Ivan Bessonov",
+     "thumbnail": "https://i.ytimg.com/vi/ZaBhNVHzDKw/mqdefault.jpg",
+     "duration": 1137,
      "genres": [
       "클래식"
      ]
@@ -666,17 +667,6 @@
     },
     {
      "rank": 29,
-     "videoId": "mF-dkry_q5E",
-     "title": "Fusion of Schubert – Gretchen am Spinnrade and Ilayaraja - Vaanuyandha Solayile",
-     "artist": "vimalpercy",
-     "thumbnail": "https://i.ytimg.com/vi/mF-dkry_q5E/mqdefault.jpg",
-     "duration": 338,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 30,
      "videoId": "ofM5-p4Kxqk",
      "title": "Bach - Lasset uns mit Jesu ziehen BWV 481 - Johannsen & Van Doeselaar | Netherlands Bach Society",
      "artist": "Netherlands Bach Society",
@@ -685,9 +675,20 @@
      "genres": [
       "클래식"
      ]
+    },
+    {
+     "rank": 30,
+     "videoId": "mF-dkry_q5E",
+     "title": "Fusion of Schubert – Gretchen am Spinnrade and Ilayaraja - Vaanuyandha Solayile",
+     "artist": "vimalpercy",
+     "thumbnail": "https://i.ytimg.com/vi/mF-dkry_q5E/mqdefault.jpg",
+     "duration": 338,
+     "genres": [
+      "클래식"
+     ]
     }
    ],
-   "refreshed": "2026-11-18"
+   "refreshed": "2026-11-19"
   },
   {
    "id": "oldies",
