@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:08+09:00",
+ "updated": "2026-11-22T10:11+09:00",
  "charts": [
   {
    "id": "kr",
@@ -21,22 +21,23 @@
     },
     {
      "rank": 2,
-     "videoId": "v_71o1VU28o",
-     "title": "Crush (크러쉬) - 삐그덕 Live with 조이 (JOY)",
-     "artist": "Crush",
-     "thumbnail": "https://i.ytimg.com/vi/v_71o1VU28o/mqdefault.jpg",
-     "duration": 185,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 3,
      "videoId": "LOLXD85SThc",
      "title": "Do you know (2026 Version)",
      "artist": "SOMEDAY",
      "thumbnail": "https://i.ytimg.com/vi/LOLXD85SThc/mqdefault.jpg",
      "duration": 245,
+     "genres": [
+      "팝",
+      "R&B·소울"
+     ]
+    },
+    {
+     "rank": 3,
+     "videoId": "v_71o1VU28o",
+     "title": "Crush (크러쉬) - 삐그덕 Live with 조이 (JOY)",
+     "artist": "Crush",
+     "thumbnail": "https://i.ytimg.com/vi/v_71o1VU28o/mqdefault.jpg",
+     "duration": 185,
      "genres": [
       "팝"
      ]
@@ -97,14 +98,12 @@
     },
     {
      "rank": 9,
-     "videoId": "V_kzqTam8lQ",
-     "title": "Finest Thing",
-     "artist": "RESCENE",
-     "thumbnail": "https://i.ytimg.com/vi/V_kzqTam8lQ/mqdefault.jpg",
-     "duration": 140,
-     "genres": [
-      "팝"
-     ]
+     "videoId": "XKYp0bYquv4",
+     "title": "난 못해 (Feat. 이병철)",
+     "artist": "Private Story",
+     "thumbnail": "https://i.ytimg.com/vi/XKYp0bYquv4/mqdefault.jpg",
+     "duration": 251,
+     "genres": []
     },
     {
      "rank": 10,
@@ -119,6 +118,15 @@
     },
     {
      "rank": 11,
+     "videoId": "peGBibgqNvc",
+     "title": "It's You",
+     "artist": "JI JIN SEOK",
+     "thumbnail": "https://i.ytimg.com/vi/peGBibgqNvc/mqdefault.jpg",
+     "duration": 220,
+     "genres": []
+    },
+    {
+     "rank": 12,
      "videoId": "E4iZhAJMf-A",
      "title": "Turning to You",
      "artist": "Jeong Dong Won",
@@ -129,25 +137,15 @@
      ]
     },
     {
-     "rank": 12,
-     "videoId": "g9S18fcpNSQ",
-     "title": "Night Stage",
-     "artist": "LEE MU JIN",
-     "thumbnail": "https://i.ytimg.com/vi/g9S18fcpNSQ/mqdefault.jpg",
-     "duration": 220,
-     "genres": [
-      "팝",
-      "컨트리"
-     ]
-    },
-    {
      "rank": 13,
-     "videoId": "peGBibgqNvc",
-     "title": "It's You",
-     "artist": "JI JIN SEOK",
-     "thumbnail": "https://i.ytimg.com/vi/peGBibgqNvc/mqdefault.jpg",
-     "duration": 220,
-     "genres": []
+     "videoId": "V_kzqTam8lQ",
+     "title": "Finest Thing",
+     "artist": "RESCENE",
+     "thumbnail": "https://i.ytimg.com/vi/V_kzqTam8lQ/mqdefault.jpg",
+     "duration": 140,
+     "genres": [
+      "팝"
+     ]
     },
     {
      "rank": 14,
@@ -162,6 +160,29 @@
     },
     {
      "rank": 15,
+     "videoId": "g9S18fcpNSQ",
+     "title": "Night Stage",
+     "artist": "LEE MU JIN",
+     "thumbnail": "https://i.ytimg.com/vi/g9S18fcpNSQ/mqdefault.jpg",
+     "duration": 220,
+     "genres": [
+      "팝",
+      "컨트리"
+     ]
+    },
+    {
+     "rank": 16,
+     "videoId": "FVNI7zBuk-4",
+     "title": "베스티(BESTie) - 연애의 조건(Love Options) | Suit Dance | 수트댄스 | Performance | 4K",
+     "artist": "1theK Originals - 원더케이 오리지널",
+     "thumbnail": "https://i.ytimg.com/vi/FVNI7zBuk-4/mqdefault.jpg",
+     "duration": 204,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 17,
      "videoId": "FVnDxtfJrIU",
      "title": "saudade",
      "artist": "LUCY",
@@ -173,7 +194,16 @@
      ]
     },
     {
-     "rank": 16,
+     "rank": 18,
+     "videoId": "sSZsC-fEmYE",
+     "title": "Goodbye to Us",
+     "artist": "Huh Gak",
+     "thumbnail": "https://i.ytimg.com/vi/sSZsC-fEmYE/mqdefault.jpg",
+     "duration": 257,
+     "genres": []
+    },
+    {
+     "rank": 19,
      "videoId": "KYGb4thFNqk",
      "title": "UP",
      "artist": "ATEEZ",
@@ -185,47 +215,12 @@
      ]
     },
     {
-     "rank": 17,
+     "rank": 20,
      "videoId": "sZ6m0mFDQg8",
      "title": "좋아하니까",
      "artist": "dahee",
      "thumbnail": "https://i.ytimg.com/vi/sZ6m0mFDQg8/mqdefault.jpg",
      "duration": 178,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 18,
-     "videoId": "qsqvJpOgrWw",
-     "title": "You’re Under Arrest",
-     "artist": "ILLIT",
-     "thumbnail": "https://i.ytimg.com/vi/qsqvJpOgrWw/mqdefault.jpg",
-     "duration": 182,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 19,
-     "videoId": "gledHxEf--E",
-     "title": "Storm is...",
-     "artist": "TOMORROW BY TOGETHER",
-     "thumbnail": "https://i.ytimg.com/vi/gledHxEf--E/mqdefault.jpg",
-     "duration": 196,
-     "genres": [
-      "팝",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 20,
-     "videoId": "MWXbns4FV0s",
-     "title": "Boogie Woogie",
-     "artist": "NCT DREAM",
-     "thumbnail": "https://i.ytimg.com/vi/MWXbns4FV0s/mqdefault.jpg",
-     "duration": 193,
      "genres": [
       "팝"
      ]
@@ -243,24 +238,23 @@
     },
     {
      "rank": 22,
-     "videoId": "ZBeU62LO5lo",
-     "title": "AGAIN!",
-     "artist": "LUCY",
-     "thumbnail": "https://i.ytimg.com/vi/ZBeU62LO5lo/mqdefault.jpg",
-     "duration": 223,
+     "videoId": "gledHxEf--E",
+     "title": "Storm is...",
+     "artist": "TOMORROW BY TOGETHER",
+     "thumbnail": "https://i.ytimg.com/vi/gledHxEf--E/mqdefault.jpg",
+     "duration": 196,
      "genres": [
       "팝",
-      "록",
       "일렉트로닉"
      ]
     },
     {
      "rank": 23,
-     "videoId": "Xm2c0L-Xgdg",
-     "title": "Dancing in the Dark",
-     "artist": "A2O",
-     "thumbnail": "https://i.ytimg.com/vi/Xm2c0L-Xgdg/mqdefault.jpg",
-     "duration": 168,
+     "videoId": "qsqvJpOgrWw",
+     "title": "You’re Under Arrest",
+     "artist": "ILLIT",
+     "thumbnail": "https://i.ytimg.com/vi/qsqvJpOgrWw/mqdefault.jpg",
+     "duration": 182,
      "genres": [
       "팝",
       "일렉트로닉"
@@ -268,6 +262,17 @@
     },
     {
      "rank": 24,
+     "videoId": "MWXbns4FV0s",
+     "title": "Boogie Woogie",
+     "artist": "NCT DREAM",
+     "thumbnail": "https://i.ytimg.com/vi/MWXbns4FV0s/mqdefault.jpg",
+     "duration": 193,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 25,
      "videoId": "1EsCgszzTb4",
      "title": "래원 (Layone) '먼치킨 (Feat. 그냥노창, Jvcki Wai)' MV",
      "artist": "래원",
@@ -277,17 +282,6 @@
       "팝",
       "힙합",
       "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 25,
-     "videoId": "PlhFFgHmlbs",
-     "title": "정승환 '무제(無題) (Untitled, 2014)' Cover (원곡 : G-DRAGON) | SeungTUDIO",
-     "artist": "정승환 Jung Seung Hwan",
-     "thumbnail": "https://i.ytimg.com/vi/PlhFFgHmlbs/mqdefault.jpg",
-     "duration": 238,
-     "genres": [
-      "팝"
      ]
     },
     {
@@ -304,45 +298,49 @@
     },
     {
      "rank": 27,
-     "videoId": "m8fkHYTAFSw",
-     "title": "Lovesick",
-     "artist": "CHAERYEONG (ITZY)",
-     "thumbnail": "https://i.ytimg.com/vi/m8fkHYTAFSw/mqdefault.jpg",
-     "duration": 184,
+     "videoId": "ZBeU62LO5lo",
+     "title": "AGAIN!",
+     "artist": "LUCY",
+     "thumbnail": "https://i.ytimg.com/vi/ZBeU62LO5lo/mqdefault.jpg",
+     "duration": 223,
+     "genres": [
+      "팝",
+      "록",
+      "일렉트로닉"
+     ]
+    },
+    {
+     "rank": 28,
+     "videoId": "PlhFFgHmlbs",
+     "title": "정승환 '무제(無題) (Untitled, 2014)' Cover (원곡 : G-DRAGON) | SeungTUDIO",
+     "artist": "정승환 Jung Seung Hwan",
+     "thumbnail": "https://i.ytimg.com/vi/PlhFFgHmlbs/mqdefault.jpg",
+     "duration": 238,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 29,
+     "videoId": "Xm2c0L-Xgdg",
+     "title": "Dancing in the Dark",
+     "artist": "A2O",
+     "thumbnail": "https://i.ytimg.com/vi/Xm2c0L-Xgdg/mqdefault.jpg",
+     "duration": 168,
      "genres": [
       "팝",
       "일렉트로닉"
      ]
     },
     {
-     "rank": 28,
-     "videoId": "roPmnx9Pglw",
-     "title": "화",
-     "artist": "Panda Gomm",
-     "thumbnail": "https://i.ytimg.com/vi/roPmnx9Pglw/mqdefault.jpg",
-     "duration": 185,
-     "genres": [
-      "힙합"
-     ]
-    },
-    {
-     "rank": 29,
-     "videoId": "sSZsC-fEmYE",
-     "title": "Goodbye to Us",
-     "artist": "Huh Gak",
-     "thumbnail": "https://i.ytimg.com/vi/sSZsC-fEmYE/mqdefault.jpg",
-     "duration": 257,
-     "genres": []
-    },
-    {
      "rank": 30,
-     "videoId": "jFPKynsdKDc",
-     "title": "Ripple Effect2 Remix",
-     "artist": "Swings",
-     "thumbnail": "https://i.ytimg.com/vi/jFPKynsdKDc/mqdefault.jpg",
-     "duration": 272,
+     "videoId": "I0AMsYdb4lI",
+     "title": "Sweetest Escape",
+     "artist": "TOMORROW BY TOGETHER",
+     "thumbnail": "https://i.ytimg.com/vi/I0AMsYdb4lI/mqdefault.jpg",
+     "duration": 137,
      "genres": [
-      "힙합"
+      "일렉트로닉"
      ]
     }
    ]
@@ -398,22 +396,22 @@
     },
     {
      "rank": 5,
-     "videoId": "qArmT1Xs63s",
-     "title": "Rayssa e Ravel - Eu Não Devo | Unindo Gerações | Clipe Oficial",
-     "artist": "Rayssa e Ravel",
-     "thumbnail": "https://i.ytimg.com/vi/qArmT1Xs63s/mqdefault.jpg",
-     "duration": 365,
+     "videoId": "oIHD7Yn5pMg",
+     "title": "Zade Dirani - Ya Ana (Mozart's Symphony 40)/ Ya Reit btirdi /Zouroni  يا أنا / يا ريت بترضي  زوروني",
+     "artist": "Zade Dirani",
+     "thumbnail": "https://i.ytimg.com/vi/oIHD7Yn5pMg/mqdefault.jpg",
+     "duration": 273,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 6,
-     "videoId": "oIHD7Yn5pMg",
-     "title": "Zade Dirani - Ya Ana (Mozart's Symphony 40)/ Ya Reit btirdi /Zouroni  يا أنا / يا ريت بترضي  زوروني",
-     "artist": "Zade Dirani",
-     "thumbnail": "https://i.ytimg.com/vi/oIHD7Yn5pMg/mqdefault.jpg",
-     "duration": 273,
+     "videoId": "qArmT1Xs63s",
+     "title": "Rayssa e Ravel - Eu Não Devo | Unindo Gerações | Clipe Oficial",
+     "artist": "Rayssa e Ravel",
+     "thumbnail": "https://i.ytimg.com/vi/qArmT1Xs63s/mqdefault.jpg",
+     "duration": 365,
      "genres": [
       "클래식"
      ]
@@ -486,6 +484,28 @@
     },
     {
      "rank": 13,
+     "videoId": "gIUXlln6wz8",
+     "title": "バッハ：パルティータ第2番シンフォニア / Bach Partita No.2 Sinfonia",
+     "artist": "りっちゃんの音楽channel",
+     "thumbnail": "https://i.ytimg.com/vi/gIUXlln6wz8/mqdefault.jpg",
+     "duration": 296,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 14,
+     "videoId": "psi14OBuhMA",
+     "title": "Así sonaría Bach si hubiera tenido un sintetizador: Wendy Carlos",
+     "artist": "Central Sonora",
+     "thumbnail": "https://i.ytimg.com/vi/psi14OBuhMA/mqdefault.jpg",
+     "duration": 630,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 15,
      "videoId": "X2MDxahhXNQ",
      "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
      "artist": "Ravlis",
@@ -496,34 +516,12 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 16,
      "videoId": "pBCoEE-BAYE",
      "title": "Playing Bach Shouldn't Look This Easy",
      "artist": "GuitarCody",
      "thumbnail": "https://i.ytimg.com/vi/pBCoEE-BAYE/mqdefault.jpg",
      "duration": 590,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 15,
-     "videoId": "JpV62brmbV0",
-     "title": "Hélène Grimaud, Claudio Abbado - Rachmaninoff: Piano Concerto No. 2: I. Moderato (Excerpt - Opening)",
-     "artist": "Deutsche Grammophon - DG",
-     "thumbnail": "https://i.ytimg.com/vi/JpV62brmbV0/mqdefault.jpg",
-     "duration": 295,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "vdBx68Zgx1w",
-     "title": "Vivaldi: Violin Concerto in G minor, RV 330: I. Allegro non molto | Adrian Chandler & La Serenissima",
-     "artist": "La Serenissima",
-     "thumbnail": "https://i.ytimg.com/vi/vdBx68Zgx1w/mqdefault.jpg",
-     "duration": 246,
      "genres": [
       "클래식"
      ]
@@ -552,6 +550,17 @@
     },
     {
      "rank": 19,
+     "videoId": "JpV62brmbV0",
+     "title": "Hélène Grimaud, Claudio Abbado - Rachmaninoff: Piano Concerto No. 2: I. Moderato (Excerpt - Opening)",
+     "artist": "Deutsche Grammophon - DG",
+     "thumbnail": "https://i.ytimg.com/vi/JpV62brmbV0/mqdefault.jpg",
+     "duration": 295,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 20,
      "videoId": "ut1qZjilIzo",
      "title": "F. Sor's \"Variations on a Theme by Mozart\" played by Keith Rodriguez on a 2010 Manuel Contreras II",
      "artist": "Guitar Salon International",
@@ -562,45 +571,34 @@
      ]
     },
     {
-     "rank": 20,
-     "videoId": "psi14OBuhMA",
-     "title": "Así sonaría Bach si hubiera tenido un sintetizador: Wendy Carlos",
-     "artist": "Central Sonora",
-     "thumbnail": "https://i.ytimg.com/vi/psi14OBuhMA/mqdefault.jpg",
-     "duration": 630,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
      "rank": 21,
-     "videoId": "Iq7IAN87jS8",
-     "title": "Ivan Bessonov — J.S. Bach: Partita No. 6 in E Minor, BWV 830 — I. Toccata",
-     "artist": "Ivan Bessonov",
-     "thumbnail": "https://i.ytimg.com/vi/Iq7IAN87jS8/mqdefault.jpg",
-     "duration": 538,
+     "videoId": "8av5S-fLvqk",
+     "title": "How I Turned the Nokia Ringtone into Bach",
+     "artist": "Lucas Brar",
+     "thumbnail": "https://i.ytimg.com/vi/8av5S-fLvqk/mqdefault.jpg",
+     "duration": 282,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 22,
-     "videoId": "TPTyotHTP10",
-     "title": "모차르트를 넘어 ‘살아있는 생명’ 그 자체가 된 음악 | 임윤찬 베를린 피아노 독주회 평론",
-     "artist": "크레이지 클래식 김기자",
-     "thumbnail": "https://i.ytimg.com/vi/TPTyotHTP10/mqdefault.jpg",
-     "duration": 563,
+     "videoId": "BUpyPZty1wk",
+     "title": "Schubert Rondo in A Major for Violin and Strings | Ilva Eigus - Eurasian Soloists",
+     "artist": "ILVA EIGUS",
+     "thumbnail": "https://i.ytimg.com/vi/BUpyPZty1wk/mqdefault.jpg",
+     "duration": 999,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 23,
-     "videoId": "ghbyyM-QDjw",
-     "title": "S. Rachmaninoff, Prelude G major, op.32 №5, Alexandra Dovgan, Paris 06.06.2026",
-     "artist": "Александра Довгань (Alexandra Dovgan)",
-     "thumbnail": "https://i.ytimg.com/vi/ghbyyM-QDjw/mqdefault.jpg",
-     "duration": 287,
+     "videoId": "Ti1LnSaT5t0",
+     "title": "Upbeat: Tchaikovsky's Symphony No. 4",
+     "artist": "Berliner Philharmoniker",
+     "thumbnail": "https://i.ytimg.com/vi/Ti1LnSaT5t0/mqdefault.jpg",
+     "duration": 854,
      "genres": [
       "클래식"
      ]
@@ -618,11 +616,11 @@
     },
     {
      "rank": 25,
-     "videoId": "8av5S-fLvqk",
-     "title": "How I Turned the Nokia Ringtone into Bach",
-     "artist": "Lucas Brar",
-     "thumbnail": "https://i.ytimg.com/vi/8av5S-fLvqk/mqdefault.jpg",
-     "duration": 282,
+     "videoId": "X1_86OCCAzQ",
+     "title": "Claude Debussy : Valse romantique - Valérie Milot, harp/harpe",
+     "artist": "Valérie Milot",
+     "thumbnail": "https://i.ytimg.com/vi/X1_86OCCAzQ/mqdefault.jpg",
+     "duration": 272,
      "genres": [
       "클래식"
      ]
@@ -673,17 +671,17 @@
     },
     {
      "rank": 30,
-     "videoId": "X1_86OCCAzQ",
-     "title": "Claude Debussy : Valse romantique - Valérie Milot, harp/harpe",
-     "artist": "Valérie Milot",
-     "thumbnail": "https://i.ytimg.com/vi/X1_86OCCAzQ/mqdefault.jpg",
-     "duration": 272,
+     "videoId": "CutolxH_h-M",
+     "title": "Schubert–Liszt – Ständchen | Rachel Naomi Kudo, Piano",
+     "artist": "Rachel Naomi Kudo",
+     "thumbnail": "https://i.ytimg.com/vi/CutolxH_h-M/mqdefault.jpg",
+     "duration": 436,
      "genres": [
       "클래식"
      ]
     }
    ],
-   "refreshed": "2026-11-21"
+   "refreshed": "2026-11-22"
   },
   {
    "id": "oldies",
