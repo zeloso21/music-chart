@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:06+09:00",
+ "updated": "2026-11-26T12:30+09:00",
  "charts": [
   {
    "id": "kr",
@@ -10,7 +10,7 @@
      "rank": 1,
      "videoId": "IQI2qaqHFlg",
      "title": "GiiiRIP",
-     "artist": "Bigbang",
+     "artist": "BIGBANG",
      "thumbnail": "https://i.ytimg.com/vi/IQI2qaqHFlg/mqdefault.jpg",
      "duration": 165,
      "genres": [
@@ -44,6 +44,15 @@
     },
     {
      "rank": 4,
+     "videoId": "eZ_slVaJ9lo",
+     "title": "Please Be Happy",
+     "artist": "Roy Kim",
+     "thumbnail": "https://i.ytimg.com/vi/eZ_slVaJ9lo/mqdefault.jpg",
+     "duration": 241,
+     "genres": []
+    },
+    {
+     "rank": 5,
      "videoId": "v_71o1VU28o",
      "title": "Crush (크러쉬) - 삐그덕 Live with 조이 (JOY)",
      "artist": "Crush",
@@ -54,21 +63,12 @@
      ]
     },
     {
-     "rank": 5,
+     "rank": 6,
      "videoId": "XKYp0bYquv4",
      "title": "난 못해 (Feat. 이병철)",
      "artist": "Private Story",
      "thumbnail": "https://i.ytimg.com/vi/XKYp0bYquv4/mqdefault.jpg",
      "duration": 251,
-     "genres": []
-    },
-    {
-     "rank": 6,
-     "videoId": "eZ_slVaJ9lo",
-     "title": "Please Be Happy",
-     "artist": "Roy Kim",
-     "thumbnail": "https://i.ytimg.com/vi/eZ_slVaJ9lo/mqdefault.jpg",
-     "duration": 241,
      "genres": []
     },
     {
@@ -84,13 +84,15 @@
     },
     {
      "rank": 8,
-     "videoId": "nrBsmCzbE0U",
-     "title": "Inside Out",
-     "artist": "RESCENE",
-     "thumbnail": "https://i.ytimg.com/vi/nrBsmCzbE0U/mqdefault.jpg",
-     "duration": 211,
+     "videoId": "nnffnIqaTrk",
+     "title": "ICONIC",
+     "artist": "CL",
+     "thumbnail": "https://i.ytimg.com/vi/nnffnIqaTrk/mqdefault.jpg",
+     "duration": 143,
      "genres": [
-      "팝"
+      "팝",
+      "힙합",
+      "일렉트로닉"
      ]
     },
     {
@@ -107,6 +109,28 @@
     },
     {
      "rank": 10,
+     "videoId": "nrBsmCzbE0U",
+     "title": "Inside Out",
+     "artist": "RESCENE",
+     "thumbnail": "https://i.ytimg.com/vi/nrBsmCzbE0U/mqdefault.jpg",
+     "duration": 211,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 11,
+     "videoId": "1EoSuiE3cJE",
+     "title": "Love Again (feat. ZENA of RESCENE)",
+     "artist": "HANHAE",
+     "thumbnail": "https://i.ytimg.com/vi/1EoSuiE3cJE/mqdefault.jpg",
+     "duration": 196,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 12,
      "videoId": "fV4uM0b3vmE",
      "title": "Darling",
      "artist": "D.O.",
@@ -115,20 +139,7 @@
      "genres": []
     },
     {
-     "rank": 11,
-     "videoId": "nnffnIqaTrk",
-     "title": "ICONIC",
-     "artist": "CL (from 2NE1)",
-     "thumbnail": "https://i.ytimg.com/vi/nnffnIqaTrk/mqdefault.jpg",
-     "duration": 143,
-     "genres": [
-      "팝",
-      "힙합",
-      "일렉트로닉"
-     ]
-    },
-    {
-     "rank": 12,
+     "rank": 13,
      "videoId": "FVNI7zBuk-4",
      "title": "베스티(BESTie) - 연애의 조건(Love Options) | Suit Dance | 수트댄스 | Performance | 4K",
      "artist": "1theK Originals - 원더케이 오리지널",
@@ -139,7 +150,7 @@
      ]
     },
     {
-     "rank": 13,
+     "rank": 14,
      "videoId": "W8sPP1khub8",
      "title": "Always Love You",
      "artist": "RYU MIN HEE",
@@ -150,7 +161,18 @@
      ]
     },
     {
-     "rank": 14,
+     "rank": 15,
+     "videoId": "5e5Q-_ZdEK4",
+     "title": "Irony of Love",
+     "artist": "Yiya",
+     "thumbnail": "https://i.ytimg.com/vi/5e5Q-_ZdEK4/mqdefault.jpg",
+     "duration": 140,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 16,
      "videoId": "Z8ehh3ANZak",
      "title": "BABY ANGEL",
      "artist": "NAYEON",
@@ -162,7 +184,7 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 17,
      "videoId": "hwtAaj4Ly3k",
      "title": "Just say it",
      "artist": "Makewin",
@@ -171,28 +193,6 @@
      "genres": [
       "팝",
       "R&B·소울"
-     ]
-    },
-    {
-     "rank": 16,
-     "videoId": "5e5Q-_ZdEK4",
-     "title": "Irony of Love",
-     "artist": "Yiya",
-     "thumbnail": "https://i.ytimg.com/vi/5e5Q-_ZdEK4/mqdefault.jpg",
-     "duration": 140,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 17,
-     "videoId": "1EoSuiE3cJE",
-     "title": "Love Again (feat. ZENA of RESCENE)",
-     "artist": "Hanhae",
-     "thumbnail": "https://i.ytimg.com/vi/1EoSuiE3cJE/mqdefault.jpg",
-     "duration": 196,
-     "genres": [
-      "팝"
      ]
     },
     {
@@ -217,6 +217,28 @@
     },
     {
      "rank": 20,
+     "videoId": "5ghQDVzhbS4",
+     "title": "Late Night",
+     "artist": "DIVE",
+     "thumbnail": "https://i.ytimg.com/vi/5ghQDVzhbS4/mqdefault.jpg",
+     "duration": 227,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 21,
+     "videoId": "gjOJCOCuomQ",
+     "title": "Before Sunrise",
+     "artist": "WENDY",
+     "thumbnail": "https://i.ytimg.com/vi/gjOJCOCuomQ/mqdefault.jpg",
+     "duration": 200,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 22,
      "videoId": "peGBibgqNvc",
      "title": "It's You",
      "artist": "JI JIN SEOK",
@@ -225,18 +247,7 @@
      "genres": []
     },
     {
-     "rank": 21,
-     "videoId": "E4iZhAJMf-A",
-     "title": "Turning to You",
-     "artist": "Jeong Dong Won",
-     "thumbnail": "https://i.ytimg.com/vi/E4iZhAJMf-A/mqdefault.jpg",
-     "duration": 228,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 22,
+     "rank": 23,
      "videoId": "RAhu-3UfMyo",
      "title": "FROM ZERO (demo)",
      "artist": "KIMMUSEUM",
@@ -248,7 +259,38 @@
      ]
     },
     {
-     "rank": 23,
+     "rank": 24,
+     "videoId": "bXGa92yC3t4",
+     "title": "I Wish I’d Never Been Happy",
+     "artist": "Cha ga eul",
+     "thumbnail": "https://i.ytimg.com/vi/bXGa92yC3t4/mqdefault.jpg",
+     "duration": 208,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 25,
+     "videoId": "E4iZhAJMf-A",
+     "title": "Turning to You",
+     "artist": "Jeong Dong Won",
+     "thumbnail": "https://i.ytimg.com/vi/E4iZhAJMf-A/mqdefault.jpg",
+     "duration": 228,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 26,
+     "videoId": "67-rsmD5uAI",
+     "title": "When the First Snow Falls (Acoustic Ver.)",
+     "artist": "Huh Gak",
+     "thumbnail": "https://i.ytimg.com/vi/67-rsmD5uAI/mqdefault.jpg",
+     "duration": 217,
+     "genres": []
+    },
+    {
+     "rank": 27,
      "videoId": "ulSPnhAilz8",
      "title": "I′ve Finally Let You Go",
      "artist": "Choi Chunghyeon",
@@ -259,52 +301,18 @@
      ]
     },
     {
-     "rank": 24,
-     "videoId": "5ghQDVzhbS4",
-     "title": "Late Night",
-     "artist": "DIVE",
-     "thumbnail": "https://i.ytimg.com/vi/5ghQDVzhbS4/mqdefault.jpg",
-     "duration": 227,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 25,
-     "videoId": "g9S18fcpNSQ",
-     "title": "Night Stage",
-     "artist": "LEE MU JIN",
-     "thumbnail": "https://i.ytimg.com/vi/g9S18fcpNSQ/mqdefault.jpg",
-     "duration": 220,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 26,
-     "videoId": "V_kzqTam8lQ",
-     "title": "Finest Thing",
-     "artist": "RESCENE",
-     "thumbnail": "https://i.ytimg.com/vi/V_kzqTam8lQ/mqdefault.jpg",
-     "duration": 140,
-     "genres": [
-      "팝"
-     ]
-    },
-    {
-     "rank": 27,
-     "videoId": "KYGb4thFNqk",
-     "title": "UP",
-     "artist": "ATEEZ",
-     "thumbnail": "https://i.ytimg.com/vi/KYGb4thFNqk/mqdefault.jpg",
-     "duration": 207,
-     "genres": [
-      "팝",
-      "힙합"
-     ]
-    },
-    {
      "rank": 28,
+     "videoId": "cS7xovz4DH0",
+     "title": "Like You",
+     "artist": "Yim Siwan",
+     "thumbnail": "https://i.ytimg.com/vi/cS7xovz4DH0/mqdefault.jpg",
+     "duration": 171,
+     "genres": [
+      "팝"
+     ]
+    },
+    {
+     "rank": 29,
      "videoId": "C4Ynks_2zyg",
      "title": "Ready to Love",
      "artist": "MINAMI",
@@ -315,24 +323,12 @@
      ]
     },
     {
-     "rank": 29,
-     "videoId": "FVnDxtfJrIU",
-     "title": "saudade",
-     "artist": "LUCY",
-     "thumbnail": "https://i.ytimg.com/vi/FVnDxtfJrIU/mqdefault.jpg",
-     "duration": 199,
-     "genres": [
-      "팝",
-      "록"
-     ]
-    },
-    {
      "rank": 30,
-     "videoId": "bXGa92yC3t4",
-     "title": "I Wish I’d Never Been Happy",
-     "artist": "Cha ga eul",
-     "thumbnail": "https://i.ytimg.com/vi/bXGa92yC3t4/mqdefault.jpg",
-     "duration": 208,
+     "videoId": "g9S18fcpNSQ",
+     "title": "Night Stage",
+     "artist": "LEE MU JIN",
+     "thumbnail": "https://i.ytimg.com/vi/g9S18fcpNSQ/mqdefault.jpg",
+     "duration": 220,
      "genres": [
       "팝"
      ]
@@ -434,28 +430,6 @@
     },
     {
      "rank": 9,
-     "videoId": "1yIxlcC_7sc",
-     "title": "Dylan Zhang (12) Rachmaninoff Concerto No.2 #MusicFest Perugia, Italy 🇮🇹 ",
-     "artist": "88Keys to Cure",
-     "thumbnail": "https://i.ytimg.com/vi/1yIxlcC_7sc/mqdefault.jpg",
-     "duration": 722,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 10,
-     "videoId": "zEWzUS3GaxI",
-     "title": "Lucas Krupinski plays J. S. Bach – Partita No. 1 in B-flat major, BWV 825",
-     "artist": "Lucas Krupinski",
-     "thumbnail": "https://i.ytimg.com/vi/zEWzUS3GaxI/mqdefault.jpg",
-     "duration": 808,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 11,
      "videoId": "psi14OBuhMA",
      "title": "Así sonaría Bach si hubiera tenido un sintetizador: Wendy Carlos",
      "artist": "Central Sonora",
@@ -466,29 +440,7 @@
      ]
     },
     {
-     "rank": 12,
-     "videoId": "1HKQtS9uVcg",
-     "title": "Mozart: Piano Sonata No. 14 in C minor, K. 457 / Kristian Bezuidenhout, fortepiano",
-     "artist": "Hochrhein Musikfestival Productions",
-     "thumbnail": "https://i.ytimg.com/vi/1HKQtS9uVcg/mqdefault.jpg",
-     "duration": 1160,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 13,
-     "videoId": "pBCoEE-BAYE",
-     "title": "Playing Bach Shouldn't Look This Easy",
-     "artist": "GuitarCody",
-     "thumbnail": "https://i.ytimg.com/vi/pBCoEE-BAYE/mqdefault.jpg",
-     "duration": 590,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 14,
+     "rank": 10,
      "videoId": "CutolxH_h-M",
      "title": "Schubert–Liszt – Ständchen | Rachel Naomi Kudo, Piano",
      "artist": "Rachel Naomi Kudo",
@@ -499,7 +451,18 @@
      ]
     },
     {
-     "rank": 15,
+     "rank": 11,
+     "videoId": "1HKQtS9uVcg",
+     "title": "Mozart: Piano Sonata No. 14 in C minor, K. 457 / Kristian Bezuidenhout, fortepiano",
+     "artist": "Hochrhein Musikfestival Productions",
+     "thumbnail": "https://i.ytimg.com/vi/1HKQtS9uVcg/mqdefault.jpg",
+     "duration": 1160,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 12,
      "videoId": "M5IBpiyRe5s",
      "title": "Ivan Bessonov (Young) | Frédéric Chopin – Ballade No. 1 in G Minor, Op. 23",
      "artist": "Ivan Bessonov",
@@ -510,18 +473,7 @@
      ]
     },
     {
-     "rank": 16,
-     "videoId": "X2MDxahhXNQ",
-     "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
-     "artist": "Ravlis",
-     "thumbnail": "https://i.ytimg.com/vi/X2MDxahhXNQ/mqdefault.jpg",
-     "duration": 354,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 17,
+     "rank": 13,
      "videoId": "BUpyPZty1wk",
      "title": "Schubert Rondo in A Major for Violin and Strings | Ilva Eigus - Eurasian Soloists",
      "artist": "ILVA EIGUS",
@@ -532,7 +484,29 @@
      ]
     },
     {
-     "rank": 18,
+     "rank": 14,
+     "videoId": "pBCoEE-BAYE",
+     "title": "Playing Bach Shouldn't Look This Easy",
+     "artist": "GuitarCody",
+     "thumbnail": "https://i.ytimg.com/vi/pBCoEE-BAYE/mqdefault.jpg",
+     "duration": 590,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 15,
+     "videoId": "X2MDxahhXNQ",
+     "title": "I Rewrote Ballade 1 From Memory (Chopin wouldn't approve)",
+     "artist": "Ravlis",
+     "thumbnail": "https://i.ytimg.com/vi/X2MDxahhXNQ/mqdefault.jpg",
+     "duration": 354,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 16,
      "videoId": "eLZ_vJhr_bk",
      "title": "Schubert's Most Beautiful Melody \"Serenade\" | Animated Score",
      "artist": "Nightscore Studios",
@@ -543,7 +517,7 @@
      ]
     },
     {
-     "rank": 19,
+     "rank": 17,
      "videoId": "JpV62brmbV0",
      "title": "Hélène Grimaud, Claudio Abbado - Rachmaninoff: Piano Concerto No. 2: I. Moderato (Excerpt - Opening)",
      "artist": "Deutsche Grammophon - DG",
@@ -554,18 +528,7 @@
      ]
     },
     {
-     "rank": 20,
-     "videoId": "Ti1LnSaT5t0",
-     "title": "Upbeat: Tchaikovsky's Symphony No. 4",
-     "artist": "Berliner Philharmoniker",
-     "thumbnail": "https://i.ytimg.com/vi/Ti1LnSaT5t0/mqdefault.jpg",
-     "duration": 854,
-     "genres": [
-      "클래식"
-     ]
-    },
-    {
-     "rank": 21,
+     "rank": 18,
      "videoId": "ERH3pK7F5O8",
      "title": "Count Mozart – I Want Your Love (Count & Countess Love Story) | Saga Episode I: Vienna 1782",
      "artist": "COUNT MOZART",
@@ -576,18 +539,18 @@
      ]
     },
     {
-     "rank": 22,
-     "videoId": "ut1qZjilIzo",
-     "title": "F. Sor's \"Variations on a Theme by Mozart\" played by Keith Rodriguez on a 2010 Manuel Contreras II",
-     "artist": "Guitar Salon International",
-     "thumbnail": "https://i.ytimg.com/vi/ut1qZjilIzo/mqdefault.jpg",
-     "duration": 525,
+     "rank": 19,
+     "videoId": "Ti1LnSaT5t0",
+     "title": "Upbeat: Tchaikovsky's Symphony No. 4",
+     "artist": "Berliner Philharmoniker",
+     "thumbnail": "https://i.ytimg.com/vi/Ti1LnSaT5t0/mqdefault.jpg",
+     "duration": 854,
      "genres": [
       "클래식"
      ]
     },
     {
-     "rank": 23,
+     "rank": 20,
      "videoId": "8av5S-fLvqk",
      "title": "How I Turned the Nokia Ringtone into Bach",
      "artist": "Lucas Brar",
@@ -598,7 +561,18 @@
      ]
     },
     {
-     "rank": 24,
+     "rank": 21,
+     "videoId": "ut1qZjilIzo",
+     "title": "F. Sor's \"Variations on a Theme by Mozart\" played by Keith Rodriguez on a 2010 Manuel Contreras II",
+     "artist": "Guitar Salon International",
+     "thumbnail": "https://i.ytimg.com/vi/ut1qZjilIzo/mqdefault.jpg",
+     "duration": 525,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 22,
      "videoId": "X1_86OCCAzQ",
      "title": "Claude Debussy : Valse romantique - Valérie Milot, harp/harpe",
      "artist": "Valérie Milot",
@@ -609,7 +583,7 @@
      ]
     },
     {
-     "rank": 25,
+     "rank": 23,
      "videoId": "ZaBhNVHzDKw",
      "title": "Ivan Bessonov – Franz Liszt: Piano Concerto No. 1 in E-flat Major, S.124",
      "artist": "Ivan Bessonov",
@@ -620,12 +594,34 @@
      ]
     },
     {
-     "rank": 26,
+     "rank": 24,
      "videoId": "ofM5-p4Kxqk",
      "title": "Bach - Lasset uns mit Jesu ziehen BWV 481 - Johannsen & Van Doeselaar | Netherlands Bach Society",
      "artist": "Netherlands Bach Society",
      "thumbnail": "https://i.ytimg.com/vi/ofM5-p4Kxqk/mqdefault.jpg",
      "duration": 270,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 25,
+     "videoId": "30ffrN3wbjQ",
+     "title": "Chopin - Nocturne No. 20 in C-Sharp Minor (Op. posth.) | Piano Performance",
+     "artist": "Simen Stokke",
+     "thumbnail": "https://i.ytimg.com/vi/30ffrN3wbjQ/mqdefault.jpg",
+     "duration": 258,
+     "genres": [
+      "클래식"
+     ]
+    },
+    {
+     "rank": 26,
+     "videoId": "vG-W5vENoAs",
+     "title": "🎻🎹 🌊 Beethoven’s Tempest｜貝多芬《暴風雨》｜Cello & Piano 大提琴與鋼琴｜World Premiere 全球首發｜Recomposed by Xi Tian",
+     "artist": "Dream Oasis Online",
+     "thumbnail": "https://i.ytimg.com/vi/vG-W5vENoAs/mqdefault.jpg",
+     "duration": 419,
      "genres": [
       "클래식"
      ]
@@ -643,22 +639,22 @@
     },
     {
      "rank": 28,
-     "videoId": "vG-W5vENoAs",
-     "title": "🎻🎹 🌊 Beethoven’s Tempest｜貝多芬《暴風雨》｜Cello & Piano 大提琴與鋼琴｜World Premiere 全球首發｜Recomposed by Xi Tian",
-     "artist": "Dream Oasis Online",
-     "thumbnail": "https://i.ytimg.com/vi/vG-W5vENoAs/mqdefault.jpg",
-     "duration": 419,
+     "videoId": "mVeQaWFc2Mc",
+     "title": "Niccolò Paganini - La Campanella (The Little Bell)",
+     "artist": "Symphony of the Saints",
+     "thumbnail": "https://i.ytimg.com/vi/mVeQaWFc2Mc/mqdefault.jpg",
+     "duration": 324,
      "genres": [
       "클래식"
      ]
     },
     {
      "rank": 29,
-     "videoId": "30ffrN3wbjQ",
-     "title": "Chopin - Nocturne No. 20 in C-Sharp Minor (Op. posth.) | Piano Performance",
-     "artist": "Simen Stokke",
-     "thumbnail": "https://i.ytimg.com/vi/30ffrN3wbjQ/mqdefault.jpg",
-     "duration": 258,
+     "videoId": "IombzOqaHNQ",
+     "title": "Antonio Vivaldi violin concerto rv 204 in D major  Luca Ranzato, Interpreti Veneziani",
+     "artist": "DivA",
+     "thumbnail": "https://i.ytimg.com/vi/IombzOqaHNQ/mqdefault.jpg",
+     "duration": 437,
      "genres": [
       "클래식"
      ]
@@ -675,7 +671,7 @@
      ]
     }
    ],
-   "refreshed": "2026-11-25"
+   "refreshed": "2026-11-26"
   },
   {
    "id": "oldies",
